@@ -179,7 +179,7 @@ if (NOT PLATFORM_IPHONE AND NOT PLATFORM_ANDROID)
 endif()
 
 # To allow #include "base/file_name.hpp" in all sources.
-include_directories("${CMAKE_HOME_DIRECTORY}" "${CMAKE_HOME_DIRECTORY}/libs" "${CMAKE_HOME_DIRECTORY}/tools")
+include_directories("${CMAKE_HOME_DIRECTORY}" "${CMAKE_HOME_DIRECTORY}/libs" "${CMAKE_HOME_DIRECTORY}/tools" "${CMAKE_HOME_DIRECTORY}/3party/boost")
 
 if (USE_PCH)
   message(STATUS "Precompiled headers are ON")
