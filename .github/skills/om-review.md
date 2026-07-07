@@ -1,14 +1,14 @@
 ---
 name: om-review
-description: Review current code changes or PR for architecture, design, simplicity, bugs, style issues, and potential problems specific to Organic Maps
+description: Review current code changes or PR for architecture, design, simplicity, bugs, style issues, and potential problems specific to MexaMaps
 argument-hint: "[pr-number|commit-sha|sha1..sha2|staged|all|branch]"
 allowed-tools: [ Bash, Glob, Grep, Read ]
 disable-model-invocation: true
 ---
 
-# Code Review for Organic Maps
+# Code Review for MexaMaps
 
-Review code changes for architecture, design, simplicity, bugs, style issues, and Organic Maps-specific problems.
+Review code changes for architecture, design, simplicity, bugs, style issues, and MexaMaps-specific problems.
 
 ## Arguments
 
@@ -431,7 +431,7 @@ For each changed file, use `Read` to load full context — not just diff hunks:
 - **Header/implementation pairs:** For `.hpp` changes, also read the corresponding `.cpp`
   (and vice versa)
 - **JNI pairs:** For JNI `.java` changes, also read the matching native C++ file in
-  `android/sdk/src/main/cpp/app/organicmaps/sdk/`
+  `android/sdk/src/main/cpp/app/mexamaps/sdk/`
 - **New files:** Read the entire file
 - **Deleted files:** Note what was removed but don't read deeply
 
@@ -514,7 +514,7 @@ related files together.
 
 #### Affected subsystems & impact radius
 
-Identify which Organic Maps subsystems are touched (use categories from "File Type Detection"
+Identify which MexaMaps subsystems are touched (use categories from "File Type Detection"
 and "Key Files Reference" sections). Note cross-platform impact (e.g., "Core C++ change
 affecting all platforms" vs "Android-only UI change"). List key callers affected (from
 Step 2d) if any public API changed.
@@ -593,7 +593,7 @@ When detected:
 - Command injection (shell commands with user input)
 - Path traversal (unsanitized file paths)
 - XSS in WebView content
-- No analytics or tracking code (Organic Maps is privacy-first)
+- No analytics or tracking code (MexaMaps is privacy-first)
 - No unauthorized network requests or PII logging
 - Weak hash algorithms (MD5, SHA1 for security purposes)
 - Hardcoded IVs, salts, or insecure random number generation
@@ -687,8 +687,8 @@ Check against project requirements using `gh pr view <N> --json commits`:
 - String encoding (UTF-8 with `GetStringUTFChars`)
 - Method signature correctness
 - **Cross-file verification:** For each `native` method in `.java`, use `Grep` to find the
-  corresponding `JNIEXPORT` function (pattern: `Java_app_organicmaps_sdk_<ClassName>_<methodName>`)
-  in `android/sdk/src/main/cpp/app/organicmaps/sdk/`. Verify parameter types match
+  corresponding `JNIEXPORT` function (pattern: `Java_app_mexamaps_sdk_<ClassName>_<methodName>`)
+  in `android/sdk/src/main/cpp/app/mexamaps/sdk/`. Verify parameter types match
   (Java `String` -> C++ `jstring`, Java `long` -> `jlong`, etc.)
 
 ##### Android (if `android/` files changed)
@@ -1270,7 +1270,7 @@ After posting, report:
 
 **Note:** If `--post` flag is not specified, only output the review to console.
 
-## Organic Maps Specific Guidelines
+## MexaMaps Specific Guidelines
 
 When reviewing, consider:
 
@@ -1295,8 +1295,8 @@ When reviewing, consider:
 
 ### JNI Bridge
 
-- `android/sdk/src/main/java/app/organicmaps/sdk/Framework.java` - JNI Java side
-- `android/sdk/src/main/cpp/app/organicmaps/sdk/` - JNI C++ implementations
+- `android/sdk/src/main/java/app/mexamaps/sdk/Framework.java` - JNI Java side
+- `android/sdk/src/main/cpp/app/mexamaps/sdk/` - JNI C++ implementations
 
 ### iOS Core
 
@@ -1312,8 +1312,8 @@ When reviewing, consider:
 
 ### Android Core
 
-- `android/app/src/main/java/app/organicmaps/MwmApplication.java` - App entry
-- `android/app/src/main/java/app/organicmaps/MwmActivity.java` - Main activity
+- `android/app/src/main/java/app/mexamaps/MwmApplication.java` - App entry
+- `android/app/src/main/java/app/mexamaps/MwmActivity.java` - Main activity
 
 ## Example Output
 
@@ -1346,7 +1346,7 @@ simpler memory model, but requires full copy on modification.
 
 ### 🔴 Critical Issues
 
-- android/sdk/src/main/java/app/organicmaps/sdk/Framework.java:142
+- android/sdk/src/main/java/app/mexamaps/sdk/Framework.java:142
   Potential null pointer: `result` not checked before use
 
 ### 🟠 Important Issues
@@ -1425,7 +1425,7 @@ simpler memory model, but requires full copy on modification.
 
 ### 🔴 Critical Issues
 
-- android/sdk/src/main/java/app/organicmaps/sdk/Framework.java:142
+- android/sdk/src/main/java/app/mexamaps/sdk/Framework.java:142
   Potential null pointer: `result` not checked before use
 
 ### ✅ Quick Checks Passed

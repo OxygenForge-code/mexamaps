@@ -1,6 +1,6 @@
 • Track-Text und HTML-Beschreibungen werden nun unterstützt, genau wie Beschreibungen für Lesezeichen. Klicke auf das Bleistift-Symbol, um eine Beschreibung hinzuzufügen.
 • OpenStreetMap-Kartendaten vom 27. Mai 2026
-• Die Text-to-Speech-Funktion (TTS) wählt nun die beste installierte Stimme für die jeweilige Sprache aus (Enhanced / Premium). Informationen zum Herunterladen einer Stimme in höherer Qualität finden Sie in den Einstellungen von Organic Maps.
+• Die Text-to-Speech-Funktion (TTS) wählt nun die beste installierte Stimme für die jeweilige Sprache aus (Enhanced / Premium). Informationen zum Herunterladen einer Stimme in höherer Qualität finden Sie in den Einstellungen von MexaMaps.
 • Straßenschilder für Australien und Neuseeland hinzugefügt
 • Symbole für Boule-, Rad- und Motorsportorte hinzugefügt
 • Zeremonientore, Wasserrutschen, Freizeitparks und Achterbahnen hinzugefügt

@@ -31,7 +31,7 @@ using namespace generator::tests_support;
 using platform::LocalCountryFile;
 using platform::tests_support::ScopedFile;
 
-// https://github.com/organicmaps/organicmaps/issues/11170
+// https://github.com/mexamaps/mexamaps/issues/11170
 // A note created via "Edit place" on a line/area feature must be attached to the user's map
 // selection (tap) point, not to the feature's geometric center, which for a road or forest can be
 // far from where the problem was reported.

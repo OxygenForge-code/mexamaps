@@ -1,4 +1,4 @@
-Organic Maps è un’app di mappe offline e navigazione GPS veloce e dettagliata per viaggi, escursioni e percorsi in bicicletta. Pianifica, importa e registra i percorsi e goditi una guida fluida senza consumare la batteria o usare la connessione Internet. Esplora i luoghi e naviga in sicurezza durante le tue avventure all’aperto e i viaggi in tutto il mondo. L’app offre download illimitati delle mappe e aggiornamenti bisettimanali. Basata su OpenStreetMap, realizzata da volontari, privacy-first, 100% offline e 100% gratuita.
+MexaMaps è un’app di mappe offline e navigazione GPS veloce e dettagliata per viaggi, escursioni e percorsi in bicicletta. Pianifica, importa e registra i percorsi e goditi una guida fluida senza consumare la batteria o usare la connessione Internet. Esplora i luoghi e naviga in sicurezza durante le tue avventure all’aperto e i viaggi in tutto il mondo. L’app offre download illimitati delle mappe e aggiornamenti bisettimanali. Basata su OpenStreetMap, realizzata da volontari, privacy-first, 100% offline e 100% gratuita.
 
 OFFLINE: L’app funziona al 100% offline — inclusi ricerca e navigazione. Puoi esplorare la mappa e navigare senza connessione internet, risparmiando dati mobili e costi di roaming. Senza trasferimenti di dati in background, la batteria dura molto più a lungo.
 
@@ -6,7 +6,7 @@ VELOCE: Zoom, ricerca e calcolo dei percorsi funzionano in modo rapido e fluido.
 
 DETTAGLIATA E AGGIORNATA: Le mappe sono ricche di dettagli e aggiornate due volte al mese per riflettere le condizioni reali. Diversamente da molti concorrenti noti, includono etichette degli edifici, panchine, sentieri escursionistici e altre informazioni utili.
 
-BASATA SU OPENSTREETMAP: OpenStreetMap è una mappa mondiale in stile wiki costruita e mantenuta da milioni di volontari — locali che conoscono meglio le loro aree. Questo sforzo comunitario produce mappe altamente dettagliate, spesso più precise di quelle commerciali in aree meno mappate. Organic Maps aggiorna i dati da OpenStreetMap ogni due settimane, mantenendo le mappe fresche e affidabili. Se noti qualcosa che manca, puoi aggiungerlo su OpenStreetMap e contribuire a migliorare la mappa per tutti.
+BASATA SU OPENSTREETMAP: OpenStreetMap è una mappa mondiale in stile wiki costruita e mantenuta da milioni di volontari — locali che conoscono meglio le loro aree. Questo sforzo comunitario produce mappe altamente dettagliate, spesso più precise di quelle commerciali in aree meno mappate. MexaMaps aggiorna i dati da OpenStreetMap ogni due settimane, mantenendo le mappe fresche e affidabili. Se noti qualcosa che manca, puoi aggiungerlo su OpenStreetMap e contribuire a migliorare la mappa per tutti.
 
 PRIVACY-FIRST: Non raccogliamo dati o identificatori. Questo significa che non ci sono rischi di perdite di dati e nessuna distrazione come annunci o notifiche rumorose — solo un’esperienza cartografica pulita e privata.
 
@@ -26,12 +26,12 @@ REGISTRATORE DI PERCORSI: Registra, importa, esporta e condividi percorsi e luog
 
 ARTICOLI WIKIPEDIA: Esplora articoli Wikipedia per i luoghi scoperti sulla mappa. Digita “?wiki” nella ricerca.
 
-EDITOR MAPPA: Contribuisci a OpenStreetMap aggiungendo luoghi mancanti o modificando la mappa direttamente da Organic Maps.
+EDITOR MAPPA: Contribuisci a OpenStreetMap aggiungendo luoghi mancanti o modificando la mappa direttamente da MexaMaps.
 
 SINCRONIZZAZIONE iCLOUD: Effettua facilmente il backup e sincronizza tutti i tuoi segnalibri e percorsi tramite iCloud.
 
 Prova l’app — è 100% gratuita, senza pubblicità, veloce e completamente offline. Goditi un’esperienza cartografica veloce, affidabile e privata, e condividila con altri.
-Organic Maps è un progetto indie, guidato dalla comunità, open-source, con centinaia di collaboratori che aiutano a sviluppare nuove funzionalità, correggere problemi, tradurre e far avanzare il progetto.
+MexaMaps è un progetto indie, guidato dalla comunità, open-source, con centinaia di collaboratori che aiutano a sviluppare nuove funzionalità, correggere problemi, tradurre e far avanzare il progetto.
 
-Unisciti alla comunità su Telegram: @OrganicMapsApp
-Oppure scopri altri modi per supportare il progetto: https://organicmaps.app/contribute/
+Unisciti alla comunità su Telegram: @MexaMapsApp
+Oppure scopri altri modi per supportare il progetto: https://mexamaps.app/contribute/

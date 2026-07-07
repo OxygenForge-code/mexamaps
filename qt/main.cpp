@@ -83,7 +83,7 @@ public:
   InitializeFinalize() : m_debugLog(LDEBUG)
   {
     // App runs without error console under win32.
-    m_errFile = ::freopen(".\\organicmaps.log", "w", stderr);
+    m_errFile = ::freopen(".\\mexamaps.log", "w", stderr);
 
     //_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_DELAY_FREE_MEM_DF);
     //_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
@@ -110,7 +110,7 @@ int main(int argc, char * argv[])
 
   Platform & platform = GetPlatform();
 
-  LOG(LINFO, ("Organic Maps", platform.Version(), "built with QT:", QT_VERSION_STR, "runtime QT:", qVersion(),
+  LOG(LINFO, ("MexaMaps", platform.Version(), "built with QT:", QT_VERSION_STR, "runtime QT:", qVersion(),
               "detected CPU cores:", platform.CpuCores()));
 
   gflags::SetUsageMessage("Desktop application.");
@@ -133,12 +133,12 @@ int main(int argc, char * argv[])
   UNUSED_VALUE(mainGuard);
 
   QApplication app(argc, argv);
-  app.setDesktopFileName("app.organicmaps.desktop");
+  app.setDesktopFileName("app.mexamaps.desktop");
 
 #ifdef BUILD_DESIGNER
-  QApplication::setApplicationName("Organic Maps Designer");
+  QApplication::setApplicationName("MexaMaps Designer");
 #else
-  QApplication::setApplicationName("Organic Maps");
+  QApplication::setApplicationName("MexaMaps");
 #endif
 
 #ifdef DEBUG
@@ -277,6 +277,6 @@ int main(int argc, char * argv[])
   }
 #endif  // BUILD_DESIGNER
 
-  LOG_SHORT(LINFO, ("Organic Maps finished with code", returnCode));
+  LOG_SHORT(LINFO, ("MexaMaps finished with code", returnCode));
   return returnCode;
 }

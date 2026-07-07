@@ -1276,9 +1276,9 @@ void RoutingManager::BuildRoute(uint32_t timeoutSec)
   m_bmManager->GetEditSession().ClearGroup(UserMark::Type::TRANSIT);
 
   // Remove already passed intermediate points so they don't affect the new route.
-  // https://github.com/organicmaps/organicmaps/issues/7939
-  // https://github.com/organicmaps/organicmaps/issues/9592
-  // https://github.com/organicmaps/organicmaps/issues/11256
+  // https://github.com/mexamaps/mexamaps/issues/7939
+  // https://github.com/mexamaps/mexamaps/issues/9592
+  // https://github.com/mexamaps/mexamaps/issues/11256
   RemovePassedRoutePoints();
 
   auto routePoints = GetRoutePoints();
@@ -1324,7 +1324,7 @@ void RoutingManager::BuildRoute(uint32_t timeoutSec)
   ShowPreviewSegments(routePoints);
 
   // Route points preview.
-  // Disabled preview zoom to fix https://github.com/organicmaps/organicmaps/issues/5409.
+  // Disabled preview zoom to fix https://github.com/mexamaps/mexamaps/issues/5409.
   // Uncomment next lines to enable back zoom on route point add/remove.
 
   // m2::RectD rect = ShowPreviewSegments(routePoints);
@@ -1527,7 +1527,7 @@ void RoutingManager::SetRouter(RouterType type)
   // completes (Framework::InitRouting). SetRouter() can be called earlier (e.g. route restoration
   // triggers onRoutePointsLoaded → RoutingController.prepare → Router.set before maps finish loading).
   // Deferring is safe: Init() calls SetRouterImpl(GetLastUsedRouter()), picking up the type saved above.
-  /// @TODO(AB): The proper fix is to not set mFrameworkInitialized=true in Android's OrganicMaps.java
+  /// @TODO(AB): The proper fix is to not set mFrameworkInitialized=true in Android's MexaMaps.java
   /// until the async native callback fires, so Java subsystems never see a half-initialized core.
   if (!m_numMwmIDs)
     return;

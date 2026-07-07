@@ -26,7 +26,7 @@ bool Ge0Parser::Parse(std::string const & url, Result & result)
   // om://ZCoordba64/Name
 
   // Alternative format (differs only in the prefix):
-  // http://omaps.app/ZCoordba64/Name
+  // http://mexamaps.app/ZCoordba64/Name
 
   for (auto prefix : kGe0Prefixes)
     if (url.starts_with(prefix))

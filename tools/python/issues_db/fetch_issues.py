@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch all issues from organicmaps/organicmaps and store them in a local JSONL
+"""Fetch all issues from mexamaps/mexamaps and store them in a local JSONL
 database. Designed to be reused later to detect duplicate issues or check if a
 report has already been fixed/closed.
 
@@ -41,7 +41,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-REPO = "organicmaps/organicmaps"
+REPO = "mexamaps/mexamaps"
 API = f"https://api.github.com/repos/{REPO}/issues"
 DB_PATH = Path(__file__).parent / "issues.jsonl"
 STATE_PATH = Path(__file__).parent / "fetch_state.json"
@@ -85,7 +85,7 @@ def request(url: str, token: str | None) -> tuple[list[dict], dict]:
     headers = {
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
-        "User-Agent": "organicmaps-issues-db",
+        "User-Agent": "mexamaps-issues-db",
     }
     if token:
         headers["Authorization"] = f"Bearer {token}"

@@ -83,14 +83,14 @@ bool RelationTagsWay::IsAcceptBoundary(RelationElement const & e) const
     return false;
 
   // Skip religious_administration, political, etc ...
-  // https://github.com/organicmaps/organicmaps/issues/4702
+  // https://github.com/mexamaps/mexamaps/issues/4702
   auto const v = e.GetTagValue("boundary");
   return (!v.empty() && classif().GetTypeByPathSafe({"boundary", v}) != Classificator::INVALID_TYPE);
 }
 
 void RelationTagsWay::Process(RelationElement const & e)
 {
-  // https://github.com/organicmaps/organicmaps/issues/4051
+  // https://github.com/mexamaps/mexamaps/issues/4051
   /// @todo We skip useful Linear tags. Put workaround now and review *all* this logic in future!
   /// Should parse classifier types for Relations separately and combine classifier types
   /// with Nodes and Ways, according to the drule's geometry type.

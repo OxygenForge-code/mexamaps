@@ -1,4 +1,4 @@
-Organic Maps adalah aplikasi peta offline dan navigasi GPS yang cepat dan rinci untuk perjalanan, hiking, dan bersepeda. Rencanakan, impor, dan rekam rute, dan nikmati panduan yang lancar tanpa menguras baterai atau menggunakan koneksi internet. Jelajahi tempat-tempat dan navigasikan dengan aman selama petualangan luar ruangan dan perjalanan Anda di seluruh dunia. Aplikasi ini menawarkan unduhan peta tanpa batas dan pembaruan dua mingguan. Berbasis OpenStreetMap, dibuat oleh relawan, memprioritaskan privasi, 100% offline, dan 100% gratis.
+MexaMaps adalah aplikasi peta offline dan navigasi GPS yang cepat dan rinci untuk perjalanan, hiking, dan bersepeda. Rencanakan, impor, dan rekam rute, dan nikmati panduan yang lancar tanpa menguras baterai atau menggunakan koneksi internet. Jelajahi tempat-tempat dan navigasikan dengan aman selama petualangan luar ruangan dan perjalanan Anda di seluruh dunia. Aplikasi ini menawarkan unduhan peta tanpa batas dan pembaruan dua mingguan. Berbasis OpenStreetMap, dibuat oleh relawan, memprioritaskan privasi, 100% offline, dan 100% gratis.
 
 OFFLINE: Aplikasi ini bekerja 100% offline — termasuk pencarian dan navigasi. Anda dapat menjelajahi peta dan menavigasi tanpa koneksi internet, menghemat data seluler dan biaya roaming. Tanpa transfer data latar belakang, baterai Anda bertahan lebih lama.
 
@@ -6,7 +6,7 @@ CEPAT: Zoom, pencarian, dan perhitungan rute bekerja dengan cepat dan lancar.
 
 RINCI & TERUPDATE: Peta kaya akan detail dan diperbarui dua kali sebulan untuk mencerminkan kondisi dunia nyata. Berbeda dengan banyak pesaing terkenal, peta ini mencakup label bangunan, bangku, jalur hiking, dan informasi berguna lainnya.
 
-BERBASIS OPENSTREETMAP: OpenStreetMap adalah peta dunia gaya wiki yang dibuat dan dikelola oleh jutaan relawan — penduduk lokal yang paling mengenal wilayah mereka. Upaya komunitas ini menghasilkan peta yang sangat rinci, sering kali lebih akurat daripada peta komersial di daerah yang kurang dipetakan. Organic Maps memperbarui datanya dari OpenStreetMap setiap dua minggu, menjaga peta Anda tetap segar dan dapat diandalkan. Jika Anda menemukan sesuatu yang hilang, Anda dapat menambahkannya ke OpenStreetMap dan membantu memperbaiki peta untuk semua orang.
+BERBASIS OPENSTREETMAP: OpenStreetMap adalah peta dunia gaya wiki yang dibuat dan dikelola oleh jutaan relawan — penduduk lokal yang paling mengenal wilayah mereka. Upaya komunitas ini menghasilkan peta yang sangat rinci, sering kali lebih akurat daripada peta komersial di daerah yang kurang dipetakan. MexaMaps memperbarui datanya dari OpenStreetMap setiap dua minggu, menjaga peta Anda tetap segar dan dapat diandalkan. Jika Anda menemukan sesuatu yang hilang, Anda dapat menambahkannya ke OpenStreetMap dan membantu memperbaiki peta untuk semua orang.
 
 PRIVASI TERDEPAN: Kami tidak mengumpulkan data atau pengenal apa pun. Ini berarti tidak ada risiko kebocoran data dan tidak ada gangguan seperti iklan atau notifikasi bising — hanya pengalaman peta yang bersih dan pribadi.
 
@@ -25,12 +25,12 @@ PEMBERI CATATAN RUTE: Rekam, impor, ekspor, dan bagikan rute dan tempat favorit 
 
 ARTIKEL WIKIPEDIA: Jelajahi artikel Wikipedia untuk tempat yang Anda temukan di peta. Ketik “?wiki” di pencarian.
 
-EDITOR PETA: Berkontribusi ke OpenStreetMap dengan menambahkan tempat yang hilang atau mengedit peta langsung dari Organic Maps.
+EDITOR PETA: Berkontribusi ke OpenStreetMap dengan menambahkan tempat yang hilang atau mengedit peta langsung dari MexaMaps.
 
 MODE GELAP: Beralih ke tema gelap untuk tampilan nyaman di malam hari.
 
 SINKRONISASI iCLOUD: Cadangkan dan sinkronkan semua bookmark dan rute Anda dengan mudah melalui iCloud.
 
-Coba aplikasi ini — 100% gratis, bebas iklan, cepat, dan sepenuhnya offline. Nikmati pengalaman peta yang cepat, andal, dan pribadi, dan bagikan dengan orang lain. Organic Maps adalah proyek indie, digerakkan komunitas, dan open-source dengan ratusan kontributor yang membantu mengembangkan fitur baru, memperbaiki masalah, menerjemahkan, dan mendorong proyek maju.
+Coba aplikasi ini — 100% gratis, bebas iklan, cepat, dan sepenuhnya offline. Nikmati pengalaman peta yang cepat, andal, dan pribadi, dan bagikan dengan orang lain. MexaMaps adalah proyek indie, digerakkan komunitas, dan open-source dengan ratusan kontributor yang membantu mengembangkan fitur baru, memperbaiki masalah, menerjemahkan, dan mendorong proyek maju.
 
-Bergabung dengan komunitas di Telegram: @OrganicMapsApp. Atau pelajari cara lain untuk mendukung proyek: https://organicmaps.app/contribute
+Bergabung dengan komunitas di Telegram: @MexaMapsApp. Atau pelajari cara lain untuk mendukung proyek: https://mexamaps.app/contribute

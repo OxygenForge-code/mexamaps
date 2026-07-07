@@ -1,4 +1,4 @@
-Organic Maps es una aplicación rápida y detallada de mapas sin conexión y navegación GPS para viajes, caminatas, senderismo y aventuras en bicicleta. Planifica, importa y registra rutas, y disfruta de una guía fluida sin agotar la batería ni necesitar conexión a Internet. Explora lugares y navega con seguridad durante tus aventuras al aire libre y tus viajes por todo el mundo. La aplicación ofrece descargas ilimitadas de mapas y actualizaciones quincenales. Basada en OpenStreetMap, creada por voluntarios, con la privacidad como prioridad, 100 % sin conexión y 100 % gratuita.
+MexaMaps es una aplicación rápida y detallada de mapas sin conexión y navegación GPS para viajes, caminatas, senderismo y aventuras en bicicleta. Planifica, importa y registra rutas, y disfruta de una guía fluida sin agotar la batería ni necesitar conexión a Internet. Explora lugares y navega con seguridad durante tus aventuras al aire libre y tus viajes por todo el mundo. La aplicación ofrece descargas ilimitadas de mapas y actualizaciones quincenales. Basada en OpenStreetMap, creada por voluntarios, con la privacidad como prioridad, 100 % sin conexión y 100 % gratuita.
 
 <b>SIN CONEXIÓN:</b>
 
@@ -14,7 +14,7 @@ Los mapas son muy detallados y se actualizan dos veces al mes para reflejar las 
 
 <b>BASADA EN OPENSTREETMAP:</b>
 
-OpenStreetMap es un mapa mundial de estilo wiki creado y mantenido por millones de voluntarios, gente local que conoce mejor sus zonas. Este esfuerzo comunitario da como resultado mapas muy detallados, a menudo más precisos que los comerciales en regiones menos cartografiadas. Organic Maps actualiza sus datos de OpenStreetMap cada dos semanas, lo que mantiene tus mapas actualizados y confiables. Y si notas que falta algo, puedes agregarlo a OpenStreetMap y ayudar a mejorar el mapa para todos.
+OpenStreetMap es un mapa mundial de estilo wiki creado y mantenido por millones de voluntarios, gente local que conoce mejor sus zonas. Este esfuerzo comunitario da como resultado mapas muy detallados, a menudo más precisos que los comerciales en regiones menos cartografiadas. MexaMaps actualiza sus datos de OpenStreetMap cada dos semanas, lo que mantiene tus mapas actualizados y confiables. Y si notas que falta algo, puedes agregarlo a OpenStreetMap y ayudar a mejorar el mapa para todos.
 
 <b>LA PRIVACIDAD ES LO PRIMERO:</b>
 
@@ -52,7 +52,7 @@ Explora artículos de Wikipedia sobre los lugares que descubras en el mapa. Escr
 
 <b>EDITOR DE MAPAS:</b>
 
-Contribuye a OpenStreetMap añadiendo lugares que falten o editando el mapa directamente desde Organic Maps.
+Contribuye a OpenStreetMap añadiendo lugares que falten o editando el mapa directamente desde MexaMaps.
 
 <b>MODO OSCURO:</b>
 

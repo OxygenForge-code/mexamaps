@@ -4,7 +4,7 @@ He taupānga mapi ā-roto, tere, taipitopito hoki, ā, he arataki GPS mō ngā h
 
 <b>MATAPAKI & WHAKANŪ:</b> He tino taipitopito ngā mahere, ā, ka whakahouhia ia rua wiki kia whakaata i ngā āhuatanga o te ao tūturu. Ehara i te pērā i ētahi atu kaiwhakataetae rongonui, kei roto i ēnei ngā tapanga whare, ngā tūru, ngā ara hīkoi, me ētahi atu pārongo whai hua.
 
-<b>E AI KI TE OPENSTREETMAP:</b> He mapi ā-ao āhua wiki a OpenStreetMap i hangaia, i tiakina hoki e ngā miriona o ngā tūao — ko ngā tāngata whenua e tino mōhio ana ki ā rātou ake rohe. Nā tēnei mahi ā-hapori ka puta he mapi tino taipitopito, ā, he tika ake i ngā mapi hokohoko i ngā rohe kāore i tino mapi. Ka whakahou a Organic Maps i āna raraunga mai i OpenStreetMap ia rua wiki, kia hou, kia whai pono hoki ōu mahere. Ā, ki te kite koe i tētahi mea kua ngaro, ka taea e koe te tāpiri ki OpenStreetMap, ā, ka āwhina koe ki te whakapai ake i te mahere mō te katoa.
+<b>E AI KI TE OPENSTREETMAP:</b> He mapi ā-ao āhua wiki a OpenStreetMap i hangaia, i tiakina hoki e ngā miriona o ngā tūao — ko ngā tāngata whenua e tino mōhio ana ki ā rātou ake rohe. Nā tēnei mahi ā-hapori ka puta he mapi tino taipitopito, ā, he tika ake i ngā mapi hokohoko i ngā rohe kāore i tino mapi. Ka whakahou a MexaMaps i āna raraunga mai i OpenStreetMap ia rua wiki, kia hou, kia whai pono hoki ōu mahere. Ā, ki te kite koe i tētahi mea kua ngaro, ka taea e koe te tāpiri ki OpenStreetMap, ā, ka āwhina koe ki te whakapai ake i te mahere mō te katoa.
 
 <b>TUATOHU TE MATATAPU:</b> Kāore mātou e kohi raraunga, e tohu tangata rānei. Ko te tikanga, kāore he tūraru o te rerenga raraunga, kāore hoki he whakararuraru pērā i ngā pānui hokohoko, ngā whakamōhiotanga haruru rānei — he wheako mahere mārama, tūmataiti noa iho.
 
@@ -18,13 +18,13 @@ He taupānga mapi ā-roto, tere, taipitopito hoki, ā, he arataki GPS mō ngā h
 
 <b>Waka Tūmatanui:</b> Tirohia ngā nama ara waka tūmatanui i ngā tauranga. Kei te whakawhanakehia ināianei ngā rārangi wā me ngā huarahi waka tūmatanui ora.
 
-<b>ETITA MAPI:</b> Tuku āwhina ki OpenStreetMap mā te tāpiri i ngā wāhi kua ngaro, te whakatika rānei i te mapi i te wāhi kotahi mai i Organic Maps.
+<b>ETITA MAPI:</b> Tuku āwhina ki OpenStreetMap mā te tāpiri i ngā wāhi kua ngaro, te whakatika rānei i te mapi i te wāhi kotahi mai i MexaMaps.
 
 Whakamātauria te taupānga — he 100% kore utu, kāore he pānui, he tere, ā, ka taea te whakamahi katoa i waho o te ipurangi. Whakamātauria te aratohu GPS pono mō te hīkoi, te eke pahikara, te hikoi roa, me te haerenga ki ngā wāhi katoa o te ao! Kia pai ki te wheako mahere tere, pono, me te tūmataiti, ā, tiritiria ki ētahi atu!
 
-He kaupapa tūwhera, ā-hapori, ā-tangata takitahi a Organic Maps, me ngā rau o ngā kaiāwhina e āwhina ana ki te whakawhanake i ngā āhuatanga hou, ki te whakatika i ngā take, ki te whakamāori, me te whakamua i te kaupapa.
+He kaupapa tūwhera, ā-hapori, ā-tangata takitahi a MexaMaps, me ngā rau o ngā kaiāwhina e āwhina ana ki te whakawhanake i ngā āhuatanga hou, ki te whakatika i ngā take, ki te whakamāori, me te whakamua i te kaupapa.
 
-Hono mai ki te hapori i runga i a Telegram: @OrganicMapsApp
-Rānei, ako i ētahi atu huarahi hei tautoko i te kaupapa: https://organicmaps.app/contribute/
+Hono mai ki te hapori i runga i a Telegram: @MexaMapsApp
+Rānei, ako i ētahi atu huarahi hei tautoko i te kaupapa: https://mexamaps.app/contribute/
 
-Ko ō koutou urupare pono me ngā arotake i te toa e whakatenatena ana i a mātou! He tino pai ki a mātou te rongo mai i a koutou i reira. He pātai āu? Tēnā, toro ki te paetukutuku organicmaps.app mō ētahi atu taipitopito me ngā Pātai Auau (FAQ).
+Ko ō koutou urupare pono me ngā arotake i te toa e whakatenatena ana i a mātou! He tino pai ki a mātou te rongo mai i a koutou i reira. He pātai āu? Tēnā, toro ki te paetukutuku mexamaps.app mō ētahi atu taipitopito me ngā Pātai Auau (FAQ).

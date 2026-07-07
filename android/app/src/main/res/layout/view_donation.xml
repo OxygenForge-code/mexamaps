@@ -80,7 +80,7 @@
         android:layout_marginHorizontal="36dp"
         android:layout_marginTop="10dp"
         android:background="@drawable/bg_donation_action_button_ripple"
-        android:text="@string/support_organic_maps"
+        android:text="@string/support_mexamaps"
         android:textAllCaps="false"
         android:textColor="@android:color/black"
         app:backgroundTint="@null"

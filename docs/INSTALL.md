@@ -9,13 +9,13 @@
 
 ## System requirements
 
-To build and run Organic Maps you'll need a machine with at least 4Gb of RAM and 20-30Gb of disk space depending on your target platform. Expect to download 5-10Gb of files.
+To build and run MexaMaps you'll need a machine with at least 4Gb of RAM and 20-30Gb of disk space depending on your target platform. Expect to download 5-10Gb of files.
 
 For _Windows_ you need to have [Git for Windows](https://git-scm.com/download/win) installed and Git bash available in the PATH.
 
 ## Getting sources
 
-First of all get the source code. The full Organic Maps sources repository is ~10Gb in size, there are various [clone options](#special-cases-options) to reduce the download size to suit your needs.
+First of all get the source code. The full MexaMaps sources repository is ~10Gb in size, there are various [clone options](#special-cases-options) to reduce the download size to suit your needs.
 
 For _Windows_, it's necessary to enable symlink support:
 1. Activate _Windows Development Mode_ to enable symlinks globally:
@@ -29,15 +29,15 @@ git config --global core.symlinks true
 
 Clone the repository including all submodules (see [Special cases options](#special-cases-options) below):
 
-(if you plan to contribute and propose pull requests then use a web interface at https://github.com/organicmaps/organicmaps to fork the repository first and use your fork's URL in the command below)
+(if you plan to contribute and propose pull requests then use a web interface at https://github.com/mexamaps/mexamaps to fork the repository first and use your fork's URL in the command below)
 
 ```bash
-git clone --recurse-submodules --shallow-submodules https://github.com/organicmaps/organicmaps.git
+git clone --recurse-submodules --shallow-submodules https://github.com/mexamaps/mexamaps.git
 ```
 
 Go into the cloned repository:
 ```bash
-cd organicmaps
+cd mexamaps
 ```
 
 Configure the repository (make sure you have a working C++ build environment):
@@ -80,7 +80,7 @@ Check `./configure.sh --help` to see how to copy the configs automatically from 
 
 ### Preparing
 
-You need a Linux or a MacOS machine to build a desktop version of Organic Maps. [Windows](#windows) users can use the [WSL](https://learn.microsoft.com/en-us/windows/wsl/) (Windows Subsystem for Linux) and follow ["Linux or Mac"](#linux-or-mac) steps described below.
+You need a Linux or a MacOS machine to build a desktop version of MexaMaps. [Windows](#windows) users can use the [WSL](https://learn.microsoft.com/en-us/windows/wsl/) (Windows Subsystem for Linux) and follow ["Linux or Mac"](#linux-or-mac) steps described below.
 
 ### Linux or MacOS
 
@@ -200,8 +200,8 @@ LD_PRELOAD=/usr/lib64/libGL.so.1 ./OMaps                  # Fedora/RHEL
 
 ### Windows
 
-We haven't compiled Organic Maps on Windows *natively* in a long time, though it is possible.
-Some files should be updated. There is a work in progress on [windows](https://github.com/organicmaps/organicmaps/tree/windows) branch.
+We haven't compiled MexaMaps on Windows *natively* in a long time, though it is possible.
+Some files should be updated. There is a work in progress on [windows](https://github.com/mexamaps/mexamaps/tree/windows) branch.
 Please contribute if you have time.
 You'll need to have python3, cmake, ninja, and QT6 in the PATH, and Visual Studio 2022 or Visual Studio 2022 Build Tools installed. Use [Visual Studio Developer Command Prompt](https://learn.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2022) or generate Visual Studio project files with CMake to build the project.
 
@@ -301,7 +301,7 @@ cmake --build --preset debug
 ```
 
 Run the unit tests (the `debug` test preset filters to the `omim-test` label and
-excludes the suites that are [known to be broken](https://github.com/organicmaps/organicmaps/issues?q=is%3Aissue+is%3Aopen+label%3ATests) on CI):
+excludes the suites that are [known to be broken](https://github.com/mexamaps/mexamaps/issues?q=is%3Aissue+is%3Aopen+label%3ATests) on CI):
 
 ```bash
 ctest --preset debug
@@ -321,7 +321,7 @@ ctest -R "base_tests|coding_tests" --output-on-failure
 ctest -L "omim-test" -E "base_tests|coding_tests" --output-on-failure
 ```
 
-Some tests [are known to be broken](https://github.com/organicmaps/organicmaps/issues?q=is%3Aissue+is%3Aopen+label%3ATests) and disabled on CI.
+Some tests [are known to be broken](https://github.com/mexamaps/mexamaps/issues?q=is%3Aissue+is%3Aopen+label%3ATests) and disabled on CI.
 
 To skip building tests, configure with `-DBUILD_TESTING=OFF`.
 
@@ -372,7 +372,7 @@ Steps to generate coverage report:
 
 ### Debug commands
 
-Organic Maps has some "hidden" debug commands that you can trigger by entering them into the search box.
+MexaMaps has some "hidden" debug commands that you can trigger by entering them into the search box.
 
 For example you can switch theme which is very useful for checking [styles](STYLES.md) changes.
 To switch themes you can enter this commands:
@@ -420,7 +420,7 @@ The `build_omim.sh` script basically runs these commands:
 
 ### Preparing
 
-Linux, MacOS, or Windows should work to build Organic Maps for Android.
+Linux, MacOS, or Windows should work to build MexaMaps for Android.
 
 Ensure that you have at least 30GB of free space and Python 3 installed.
 
@@ -499,7 +499,7 @@ See also https://developer.android.com/studio/run.
 To enable logging in case of crashes, after installing a debug version, run:
 
 ```bash
-adb shell pm grant app.organicmaps.debug android.permission.READ_LOGS
+adb shell pm grant app.mexamaps.debug android.permission.READ_LOGS
 ```
 
 
@@ -523,7 +523,7 @@ To run Android Auto, connect the phone using USB cable and run the Desktop Head 
 [I]: Attached!
 ```
 
-Organic Maps icon will appear in the application list in DHU.
+MexaMaps icon will appear in the application list in DHU.
 
 ### More options
 
@@ -649,14 +649,14 @@ E.g.
 2. Follow the guide https://perfetto.dev/docs/quickstart/android-tracing to set-up Perfetto
 Example of command line for running system tracing:
 ```
-./record_android_trace -a app.organicmaps.debug -o trace_file.perfetto-trace -t 30s -b 64mb sched freq idle am wm gfx view binder_driver hal dalvik camera input res memory
+./record_android_trace -a app.mexamaps.debug -o trace_file.perfetto-trace -t 30s -b 64mb sched freq idle am wm gfx view binder_driver hal dalvik camera input res memory
 ```
 
 ## iOS app
 
 ### Preparing
 
-Building Organic Maps for iOS requires a Mac.
+Building MexaMaps for iOS requires a Mac.
 
 Ensure that you have at least 20GB of free space.
 
@@ -668,7 +668,7 @@ xcode-select --install
 
 Then, install [Xcode](https://apps.apple.com/app/xcode/id497799835?mt=12) from the App Store.
 
-Enroll in the [Apple Developer Program](https://developer.apple.com/programs/) (you can run Organic Maps in Simulator without this step).
+Enroll in the [Apple Developer Program](https://developer.apple.com/programs/) (you can run MexaMaps in Simulator without this step).
 
 ### Configuring Xcode
 
@@ -687,10 +687,10 @@ Reconfigure the project to use your developer signing keys:
 - Open `xcode/omim.xcworkspace` in Xcode.
 - Click on "Maps" project.
 - Open "Signing & Capabilities" tab.
-- Choose a unique bundle identifier (not app.organicmaps.debug) and your team.
+- Choose a unique bundle identifier (not app.mexamaps.debug) and your team.
 - Select "Automatically manage signing".
 
-If you want to run Organic Maps on a real device, you have to remove the CarPlay entitlement. Open `iphone/Maps/OMaps-Debug.entitlements`
+If you want to run MexaMaps on a real device, you have to remove the CarPlay entitlement. Open `iphone/Maps/OMaps-Debug.entitlements`
 and remove the `com.apple.developer.carplay-maps` entry. Now you can sign your app again in the "Signing & Capabilities" tab. Testing CarPlay
 on a real device requires [requesting entitlements from Apple](https://developer.apple.com/documentation/carplay/requesting_carplay_entitlements).
 
@@ -706,4 +706,4 @@ Select "OMaps" product scheme.
 Compile and run the project ("Product" → "Run").
 
 ## Map data and styles
-See readme for the [map generator](https://github.com/organicmaps/organicmaps/blob/master/docs/MAPS.md) and [styles](https://github.com/organicmaps/organicmaps/blob/master/docs/STYLES.md) if you need to customize the map files and styles.
+See readme for the [map generator](https://github.com/mexamaps/mexamaps/blob/master/docs/MAPS.md) and [styles](https://github.com/mexamaps/mexamaps/blob/master/docs/STYLES.md) if you need to customize the map files and styles.

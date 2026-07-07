@@ -3116,7 +3116,7 @@ bool Framework::ParseDrapeDebugCommand(std::string const & query)
 #if defined(OMIM_OS_ANDROID)
     if (m_drapeEngine->GetApiVersion() == dp::ApiVersion::Vulkan)
     {
-      // See comment in android/jni/app/organicmaps/Framework.cpp Framework::MarkMapStyle().
+      // See comment in android/jni/app/mexamaps/Framework.cpp Framework::MarkMapStyle().
       SetMapStyle(desiredStyle);
     }
     else
@@ -3974,7 +3974,7 @@ std::string Framework::GetDonateUrl() const
 {
   std::string url;
   UNUSED_VALUE(settings::Get(settings::kDonateUrl, url));
-  if (url.ends_with("organicmaps.app/donate/"))
+  if (url.ends_with("mexamaps.app/donate/"))
     return platform::GetLocalizedString("translated_om_site_url") + "donate/";
   return url;
 }

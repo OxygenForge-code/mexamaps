@@ -1,6 +1,6 @@
 • Deskripsi teks dan HTML untuk trek kini didukung, sama seperti deskripsi untuk bookmark. Tekan ikon pensil untuk menambahkan deskripsi.
 • Data peta OpenStreetMap per 27 Mei 2026
-• Text-to-Speech (TTS) kini memilih suara terbaik yang terpasang untuk bahasa tersebut (Enhanced / Premium). Lihat pengaturan Organic Maps untuk cara mengunduh suara berkualitas lebih tinggi.
+• Text-to-Speech (TTS) kini memilih suara terbaik yang terpasang untuk bahasa tersebut (Enhanced / Premium). Lihat pengaturan MexaMaps untuk cara mengunduh suara berkualitas lebih tinggi.
 • Ditambahkan lambang jalan untuk Australia dan Selandia Baru
 • Ditambahkan ikon untuk tempat-tempat boule, bersepeda, dan olahraga motor
 • Ditambahkan gerbang seremonial, seluncuran air, taman hiburan, dan roller coaster

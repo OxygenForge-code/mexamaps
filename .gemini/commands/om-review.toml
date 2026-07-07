@@ -1,4 +1,4 @@
-description = "Review code changes or PR for bugs, style issues, and potential problems specific to Organic Maps"
+description = "Review code changes or PR for bugs, style issues, and potential problems specific to MexaMaps"
 prompt = """
 @{.github/skills/om-review.md}
 

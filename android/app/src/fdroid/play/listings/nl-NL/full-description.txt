@@ -1,4 +1,4 @@
-Organic Maps is een snelle, gedetailleerde offline kaart- en GPS-navigatieapp voor reizen, wandelen, trekking en fietsavonturen. Plan, importeer en neem routes op, en geniet van soepele navigatie zonder je batterij leeg te maken of internet te gebruiken. Ontdek plaatsen en navigeer veilig tijdens al je outdooractiviteiten en wereldwijde reizen. De app biedt onbeperkte kaartdownloads en tweewekelijkse updates. Gebaseerd op OpenStreetMap, gemaakt door vrijwilligers, privacy-vriendelijk, 100% offline en 100% gratis.
+MexaMaps is een snelle, gedetailleerde offline kaart- en GPS-navigatieapp voor reizen, wandelen, trekking en fietsavonturen. Plan, importeer en neem routes op, en geniet van soepele navigatie zonder je batterij leeg te maken of internet te gebruiken. Ontdek plaatsen en navigeer veilig tijdens al je outdooractiviteiten en wereldwijde reizen. De app biedt onbeperkte kaartdownloads en tweewekelijkse updates. Gebaseerd op OpenStreetMap, gemaakt door vrijwilligers, privacy-vriendelijk, 100% offline en 100% gratis.
 
 <b>OFFLINE:</b> De app werkt volledig offline — inclusief zoeken en navigeren. Je kunt de kaart verkennen en navigeren zonder internetverbinding, waardoor je mobiele data en roamingkosten bespaart. Dankzij het ontbreken van achtergrondgegevens gaat je batterij veel langer mee.
 
@@ -6,7 +6,7 @@ Organic Maps is een snelle, gedetailleerde offline kaart- en GPS-navigatieapp vo
 
 <b>DETAILLEERD & UP-TO-DATE:</b> De kaarten bevatten veel details en worden twee keer per maand bijgewerkt op basis van de meest recente informatie. In tegenstelling tot veel bekende concurrenten bevatten ze huisnummers, bankjes, wandelpaden en andere nuttige informatie.
 
-<b>GEBASEERD OP OPENSTREETMAP:</b> OpenStreetMap is een wiki-achtige wereldkaart die wordt opgebouwd door miljoenen vrijwilligers — locals die hun omgeving het beste kennen. Deze community zorgt voor zeer gedetailleerde kaarten, die in minder goed in kaart gebrachte gebieden vaak nauwkeuriger zijn dan commerciële alternatieven. Organic Maps werkt zijn gegevens elke twee weken bij, zodat je kaarten altijd actueel en betrouwbaar blijven. Zie je dat er iets ontbreekt? Voeg het toe aan OpenStreetMap en help de kaart verbeteren voor iedereen.
+<b>GEBASEERD OP OPENSTREETMAP:</b> OpenStreetMap is een wiki-achtige wereldkaart die wordt opgebouwd door miljoenen vrijwilligers — locals die hun omgeving het beste kennen. Deze community zorgt voor zeer gedetailleerde kaarten, die in minder goed in kaart gebrachte gebieden vaak nauwkeuriger zijn dan commerciële alternatieven. MexaMaps werkt zijn gegevens elke twee weken bij, zodat je kaarten altijd actueel en betrouwbaar blijven. Zie je dat er iets ontbreekt? Voeg het toe aan OpenStreetMap en help de kaart verbeteren voor iedereen.
 
 <b>PRIVACY EERST:</b> We verzamelen geen gegevens of identificatoren. Er is dus geen risico op datalekken en je wordt niet gestoord door advertenties of opdringerige meldingen — alleen een schone, privé kaartbeleving.
 
@@ -26,13 +26,13 @@ Organic Maps is een snelle, gedetailleerde offline kaart- en GPS-navigatieapp vo
 
 <b>WIKIPEDIA-ARTIKELEN:</b> Lees Wikipedia-artikelen over plaatsen die je op de kaart vindt. Typ “?wiki” in de zoekbalk om alle locaties met Wikipedia-artikelen te zien.
 
-<b>KAARTBEWERKER:</b> Draag bij aan OpenStreetMap door ontbrekende plaatsen toe te voegen of kaarten direct in Organic Maps te bewerken.
+<b>KAARTBEWERKER:</b> Draag bij aan OpenStreetMap door ontbrekende plaatsen toe te voegen of kaarten direct in MexaMaps te bewerken.
 
 
 Probeer de app — 100% gratis, reclamevrij, snel en volledig offline. Ervaar betrouwbare GPS-navigatie voor wandelen, fietsen, trekking en reizen overal ter wereld! Geniet van een snelle, betrouwbare en privé kaartbeleving, en deel het met anderen!
 
-Organic Maps is een onafhankelijk, community-gedreven open-sourceproject met honderden bijdragers die nieuwe functies ontwikkelen, problemen oplossen, vertalen en het project vooruit helpen.
+MexaMaps is een onafhankelijk, community-gedreven open-sourceproject met honderden bijdragers die nieuwe functies ontwikkelen, problemen oplossen, vertalen en het project vooruit helpen.
 
-Word lid van de community op Telegram: @OrganicMapsApp
+Word lid van de community op Telegram: @MexaMapsApp
 
-Heb je vragen? Bezoek de website organicmaps.app voor meer informatie en veelgestelde vragen
+Heb je vragen? Bezoek de website mexamaps.app voor meer informatie en veelgestelde vragen

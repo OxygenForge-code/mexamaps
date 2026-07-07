@@ -188,7 +188,7 @@ void Platform::GetFontNames(FilesList & res) const
       "fonts/05_khmeros.ttf",
       "fonts/06_code2000.ttf",
       "fonts/07_roboto_medium.ttf",
-      "fonts/organic_maps_emoji.ttf",
+      "fonts/mexamaps_emoji.ttf",
   };
   res.insert(res.end(), arrDef, arrDef + ARRAY_SIZE(arrDef));
 

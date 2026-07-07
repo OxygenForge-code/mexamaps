@@ -165,7 +165,7 @@ bool GetBoundingBoxArea(FeatureType & ft, int zoom, double & sqM)
   if (feature::GeomType::Area != ft.GetGeomType())
     return false;
 
-  // https://github.com/organicmaps/organicmaps/issues/2840
+  // https://github.com/mexamaps/mexamaps/issues/2840
   sqM = mercator::AreaOnEarth(ft.GetLimitRect(zoom));
   return true;
 }

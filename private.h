@@ -7,11 +7,11 @@
 #define OSM_OAUTH2_REDIRECT_URI "om://oauth2/osm/callback"
 #define OSM_OAUTH2_SCOPE "read_prefs write_api write_notes"
 #define MWM_GEOLOCATION_SERVER ""
-#define METASERVER_URL "https://meta.omaps.app/maps"
+#define METASERVER_URL "https://meta.mexamaps.app/maps"
 #define DIFF_LIST_URL ""
 #define DEFAULT_URLS_JSON \
-  R"({"servers":["https://cdn-nl1.organicmaps.app/","https://cdn-uk1.organicmaps.app/","https://cdn.organicmaps.app/"]})"
-#define DEFAULT_CONNECTION_CHECK_IP "162.55.100.169"  // For now the IP of cdn.organicmaps.app
+  R"({"servers":["https://cdn-nl1.mexamaps.app/","https://cdn-uk1.mexamaps.app/","https://cdn.mexamaps.app/"]})"
+#define DEFAULT_CONNECTION_CHECK_IP "162.55.100.169"  // For now the IP of cdn.mexamaps.app
 #define TRAFFIC_DATA_BASE_URL ""
 #define USER_BINDING_PKCS12 ""
 #define USER_BINDING_PKCS12_PASSWORD ""

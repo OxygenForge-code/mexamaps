@@ -43,7 +43,7 @@ std::string FormatOSGrid(double lat, double lon, int figures = kDefaultFigures);
  */
 std::optional<ms::LatLon> OSGridToLatLon(std::string_view gridRef);
 
-/* True if regionId (an Organic Maps mwm region id) is covered by the British National
+/* True if regionId (an MexaMaps mwm region id) is covered by the British National
  * Grid: Great Britain (England, Scotland, Wales) and the Isle of Man. Northern Ireland
  * and the Republic of Ireland are excluded - they use the Irish Grid, even though the
  * projection rectangle mathematically reaches them. Used to offer the OS Grid format

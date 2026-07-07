@@ -47,7 +47,7 @@ bool IsRoad(Types const & types)
 
   if (PedestrianModel::AllLimitsInstance().HasRoadType(types) || IsBicycleRoad(types))
   {
-    // https://github.com/organicmaps/organicmaps/issues/3929
+    // https://github.com/mexamaps/mexamaps/issues/3929
     // In case when road has pedestrian/bicycle=designated + highway=construction types.
     static uint32_t const constructionType = classif().GetTypeByPath({"highway", "construction"});
     return !base::IsExist(types, constructionType);

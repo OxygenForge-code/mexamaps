@@ -401,7 +401,7 @@ ElevationInfo::AltitudesInfo CalcAltitudesInfo(std::string const & fileName, Alt
 }
 }  // namespace
 
-// https://github.com/organicmaps/organicmaps/issues/5087#issuecomment-4177262973
+// https://github.com/mexamaps/mexamaps/issues/5087#issuecomment-4177262973
 UNIT_TEST(Elevation_AscentDescent_Transalpes)
 {
   auto const altInfo = CalcAltitudesInfo("test_data/gpx/transalpes-2026-preparation.gpx", 15);
@@ -412,7 +412,7 @@ UNIT_TEST(Elevation_AscentDescent_Transalpes)
   TEST_ALMOST_EQUAL_ABS(double(altInfo.GetTotalDescent()), 850.0, 850.0 * kEps, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5087#issuecomment-3390365431
+// https://github.com/mexamaps/mexamaps/issues/5087#issuecomment-3390365431
 UNIT_TEST(Elevation_AscentDescent_AllenMountain)
 {
   auto const altInfo = CalcAltitudesInfo("test_data/gpx/East River Trail to Allen Mountain.gpx", 4);
@@ -422,7 +422,7 @@ UNIT_TEST(Elevation_AscentDescent_AllenMountain)
   TEST_ALMOST_EQUAL_ABS(double(altInfo.GetTotalDescent()), 114.0, 114.0 * 0.1, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5454#issuecomment-3140515619
+// https://github.com/mexamaps/mexamaps/issues/5454#issuecomment-3140515619
 UNIT_TEST(Elevation_AscentDescent_Solden_Merano)
 {
   auto const altInfo = CalcAltitudesInfo("test_data/gpx/Solden (Tirol) to Merano (South Tirol).gpx", 6);
@@ -433,7 +433,7 @@ UNIT_TEST(Elevation_AscentDescent_Solden_Merano)
   TEST_ALMOST_EQUAL_ABS(double(altInfo.GetTotalDescent()), 2427.0, 2427.0 * kEps, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5087#issuecomment-4009485791
+// https://github.com/mexamaps/mexamaps/issues/5087#issuecomment-4009485791
 UNIT_TEST(Elevation_AscentDescent_Peak4120)
 {
   auto const altInfo = CalcAltitudesInfo("test_data/gpx/Peak 4120.20260209.gpx", 10);

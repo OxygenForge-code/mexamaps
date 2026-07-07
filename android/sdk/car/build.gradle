@@ -6,7 +6,7 @@ apply from: "${rootProject.rootDir}/groovy/common-config.gradle"
 apply from: "${rootProject.rootDir}/groovy/publishing.gradle"
 
 android {
-  namespace 'app.organicmaps.sdk.car'
+  namespace 'app.mexamaps.sdk.car'
   // enableKotlin = true  // see app/build.gradle
 }
 
@@ -20,6 +20,6 @@ dependencies {
 
 Publish(project, [
     'artifactId' : 'car',
-    'name'       : 'Organic Maps SDK for Android Auto and Android Automotive',
-    'description': 'A library that provides Organic Maps integration for Android Auto and Android Automotive'
+    'name'       : 'MexaMaps SDK for Android Auto and Android Automotive',
+    'description': 'A library that provides MexaMaps integration for Android Auto and Android Automotive'
 ])

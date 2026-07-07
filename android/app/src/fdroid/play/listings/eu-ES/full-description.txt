@@ -1,10 +1,10 @@
-Organic Maps bidaia, mendiko ibilaldi, trekking eta txirrindularitza abenturetarako mapa lineaz kanpoko eta GPS nabigazio aplikazio azkar eta zehatza da. Planifikatu, inportatu eta grabatu ibilbideak, eta gozatu nabigazio leunaz bateria agortu gabe edo Internet konexiorik erabili gabe. Aztertu tokiek eskaintzen dutena eta nabigatu segurtasunez zure kanpoko abenturetan eta mundu osoko bidaietan. Aplikazioak mapa deskarga mugagabeak eta hamabostero eguneraketak eskaintzen ditu. OpenStreetMap-en oinarritua, boluntarioek egina, pribatutasuna lehenesten duena, %100 lineaz kanpo, eta %100 doakoa.
+MexaMaps bidaia, mendiko ibilaldi, trekking eta txirrindularitza abenturetarako mapa lineaz kanpoko eta GPS nabigazio aplikazio azkar eta zehatza da. Planifikatu, inportatu eta grabatu ibilbideak, eta gozatu nabigazio leunaz bateria agortu gabe edo Internet konexiorik erabili gabe. Aztertu tokiek eskaintzen dutena eta nabigatu segurtasunez zure kanpoko abenturetan eta mundu osoko bidaietan. Aplikazioak mapa deskarga mugagabeak eta hamabostero eguneraketak eskaintzen ditu. OpenStreetMap-en oinarritua, boluntarioek egina, pribatutasuna lehenesten duena, %100 lineaz kanpo, eta %100 doakoa.
 
 <b>LINEAZ KANPO:</b> Aplikazioa %100 lineaz kanpo funtzionatzen du — bilaketa eta nabigazioa barne. Mapa araka dezakezu eta nabigatu Internet konexiorik gabe, datu mugikorrean eta roaming-gastuetan aurrezteko. Atzeko planoko datu-transferentziarik gabe, bateriak askoz gehiago irauten du.
 
 <b>XEHATZA ETA EGUNERATUA:</b> Mapak xehetasunez beteak daude eta hilean bitan eguneratzen dira benetako baldintzak islatzeko. Ohiko lehiakide askok ez bezala, eraikinen izenak, bankuak, mendi-ibilbideak eta bestelako informazio erabilgarria biltzen dituzte.
 
-<b>OPENSTREETMAP-OINARRITUA:</b> OpenStreetMap munduko mapa kolaboratiboa da, milioika boluntariok eraikia — euren tokirik ondoen ezagutzen duten bertakoek. Komunitate-lan horrek xehetasun handiko mapak sortzen ditu, askotan komertzialak baino zehatzagoak gutxi mapatutako eskualdeetan. Organic Maps-ek OpenStreetMap datuak bi astetik behin eguneratzen ditu, zure mapak eguneratuta eta fidagarri mantenduz. Eta zerbait falta dela ikusten baduzu, zuk zeuk gehi dezakezu OpenStreetMap-era eta lagundu mapa guztiontzat hobetzen.
+<b>OPENSTREETMAP-OINARRITUA:</b> OpenStreetMap munduko mapa kolaboratiboa da, milioika boluntariok eraikia — euren tokirik ondoen ezagutzen duten bertakoek. Komunitate-lan horrek xehetasun handiko mapak sortzen ditu, askotan komertzialak baino zehatzagoak gutxi mapatutako eskualdeetan. MexaMaps-ek OpenStreetMap datuak bi astetik behin eguneratzen ditu, zure mapak eguneratuta eta fidagarri mantenduz. Eta zerbait falta dela ikusten baduzu, zuk zeuk gehi dezakezu OpenStreetMap-era eta lagundu mapa guztiontzat hobetzen.
 
 <b>PRIBATUTASUNA LEHENIK:</b> Ez dugu daturik edo identifikatzailerik biltzen. Horrek esan nahi du ez dagoela datu-ihesen arriskurik eta ez zaituela distraituko iragarkiek edo jakinarazpen gogaikariek — mapa-esperientzia garbia eta pribatua besterik ez duzu izango.
 
@@ -24,8 +24,8 @@ Organic Maps bidaia, mendiko ibilaldi, trekking eta txirrindularitza abenturetar
 
 <b>WIKIPEDIA ARTIKULUAK:</b> Arakatu mapan aurkitzen dituzun tokien Wikipedia artikuluak. Idatzi “?wiki” bilaketan artikuluak dituzten toki guztiak ikusteko.
 
-<b>MAPA EDITOREA:</b> Lagundu OpenStreetMap hobetzera tokirik faltan badaude edo mapa zuzenean Organic Maps-etik editatuz.
+<b>MAPA EDITOREA:</b> Lagundu OpenStreetMap hobetzera tokirik faltan badaude edo mapa zuzenean MexaMaps-etik editatuz.
 
 Probatu aplikazioa — %100 doakoa, iragarkirik gabea, azkarra eta guztiz lineaz kanpokoa. Esperimentatu GPS nabigazio fidagarria mendian, bizikletan, trekkingean eta munduko edozein bidaiatan! Gozatu mapa-esperientzia azkar, fidagarri eta pribatu batez, eta partekatu besteekin!
 
-Organic Maps proiektu independente, komunitatean oinarritua eta kode irekikoa da, eta ehunka laguntzaile ditu ezaugarri berriak garatzen, arazoak konpontzen, itzultzen eta proiektua aurrera eramaten.
+MexaMaps proiektu independente, komunitatean oinarritua eta kode irekikoa da, eta ehunka laguntzaile ditu ezaugarri berriak garatzen, arazoak konpontzen, itzultzen eta proiektua aurrera eramaten.

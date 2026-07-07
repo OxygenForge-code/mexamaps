@@ -1,1 +1,1 @@
-Organic Maps: mapas offline
+MexaMaps: mapas offline

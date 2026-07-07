@@ -3,7 +3,7 @@ function(omim_add_executable executable)
   add_executable(${executable} ${ARGN})
 
   if (PLATFORM_WIN)
-    target_sources(${executable} PRIVATE "${CMAKE_CURRENT_FUNCTION_LIST_DIR}/windows/OrganicMaps.manifest")
+    target_sources(${executable} PRIVATE "${CMAKE_CURRENT_FUNCTION_LIST_DIR}/windows/MexaMaps.manifest")
   endif()
 
   # Enable warnings for all our binaries.

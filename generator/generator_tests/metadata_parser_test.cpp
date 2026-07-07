@@ -653,8 +653,8 @@ UNIT_TEST(Metadata_ValidateAndFormat_website)
   MetadataTagProcessor p(params);
   Metadata & md = params.GetMetadata();
 
-  p("website", "https://organicmaps.app/");
-  TEST_EQUAL(md.Get(Metadata::FMD_WEBSITE), "https://organicmaps.app", ());
+  p("website", "https://mexamaps.app/");
+  TEST_EQUAL(md.Get(Metadata::FMD_WEBSITE), "https://mexamaps.app", ());
   md.Drop(Metadata::FMD_WEBSITE);
 
   // heritage:website is parsed and validated the same way as a regular website.

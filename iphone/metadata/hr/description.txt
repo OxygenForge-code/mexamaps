@@ -1,10 +1,10 @@
-Organic Maps je brza, detaljna offline karta i GPS navigacijska aplikacija za putovanja, planinarenje i vožnje. Planirajte, uvozite i bilježite rute te uživajte u glatkom vođenju bez pražnjenja baterije ili korištenja internetske veze. Istražujte mjesta i sigurno se krećite tijekom svojih avantura na otvorenom i putovanja širom svijeta. Aplikacija nudi neograničeno preuzimanje karata i ažuriranja svaka dva tjedna. Temeljeno na OpenStreetMap, izrađeno od volontera, s prioritetom privatnosti, 100% offline i potpuno besplatno.
+MexaMaps je brza, detaljna offline karta i GPS navigacijska aplikacija za putovanja, planinarenje i vožnje. Planirajte, uvozite i bilježite rute te uživajte u glatkom vođenju bez pražnjenja baterije ili korištenja internetske veze. Istražujte mjesta i sigurno se krećite tijekom svojih avantura na otvorenom i putovanja širom svijeta. Aplikacija nudi neograničeno preuzimanje karata i ažuriranja svaka dva tjedna. Temeljeno na OpenStreetMap, izrađeno od volontera, s prioritetom privatnosti, 100% offline i potpuno besplatno.
 
 OFFLINE: Aplikacija radi 100% offline — uključujući pretraživanje i navigaciju. Možete istraživati kartu i navigirati bez internetske veze, štedeći mobilne podatke i naknade za roaming. Bez prijenosa podataka u pozadini, baterija traje mnogo dulje.
 
 DETALJNO I AŽURIRANO: Karte su bogate detaljima i ažuriraju se dva puta mjesečno kako bi odražavale stvarne uvjete. Za razliku od mnogih poznatih konkurenata, uključuju oznake zgrada, klupe, pješačke staze i druge korisne informacije.
 
-TEMELJENO NA OPENSTREETMAP: OpenStreetMap je wiki-stil svjetske karte koju grade i održavaju milijuni volontera — lokalni stanovnici koji najbolje poznaju svoje područje. Ovaj zajednički napor rezultira vrlo detaljnim kartama, često preciznijim od komercijalnih u slabije kartiranim područjima. Organic Maps ažurira podatke iz OpenStreetMap svaka dva tjedna, održavajući karte svježima i pouzdanim. Ako primijetite da nešto nedostaje, možete to dodati u OpenStreetMap i pomoći poboljšati kartu za sve.
+TEMELJENO NA OPENSTREETMAP: OpenStreetMap je wiki-stil svjetske karte koju grade i održavaju milijuni volontera — lokalni stanovnici koji najbolje poznaju svoje područje. Ovaj zajednički napor rezultira vrlo detaljnim kartama, često preciznijim od komercijalnih u slabije kartiranim područjima. MexaMaps ažurira podatke iz OpenStreetMap svaka dva tjedna, održavajući karte svježima i pouzdanim. Ako primijetite da nešto nedostaje, možete to dodati u OpenStreetMap i pomoći poboljšati kartu za sve.
 
 PRIORITET PRIVATNOSTI: Ne prikupljamo nikakve podatke ili identifikatore. To znači da nema rizika od curenja podataka i nema smetnji poput oglasa ili bučnih obavijesti — samo čisto, privatno iskustvo karte.
 
@@ -24,14 +24,14 @@ SNIMAČ RUTA: Snimajte, uvozite, izvozite i dijelite svoje rute i omiljena mjest
 
 WIKIPEDIA ČLANCI: Istražite Wikipedia članke za mjesta koja otkrijete na karti. Upišite “?wiki” u pretraživanju kako biste pronašli sva mjesta s člancima.
 
-UREĐIVAČ KARTE: Doprinijeti OpenStreetMap dodavanjem nedostajućih mjesta ili uređivanjem karte izravno u Organic Maps.
+UREĐIVAČ KARTE: Doprinijeti OpenStreetMap dodavanjem nedostajućih mjesta ili uređivanjem karte izravno u MexaMaps.
 
 iCLOUD SINHRONIZACIJA: Jednostavno izrađujte sigurnosne kopije i sinkronizirajte sve svoje oznake i rute putem iClouda.
 
 Isprobajte aplikaciju — 100% je besplatna, bez oglasa, brza i potpuno offline. Uživajte u brzom, pouzdanom i privatnom iskustvu karte i podijelite ga s drugima!
-Organic Maps je indie, zajednicom vođen, open-source projekt sa stotinama suradnika koji pomažu u razvoju novih funkcija, ispravljanju problema, prevođenju i napretku projekta.
+MexaMaps je indie, zajednicom vođen, open-source projekt sa stotinama suradnika koji pomažu u razvoju novih funkcija, ispravljanju problema, prevođenju i napretku projekta.
 
-Pridružite se zajednici na Telegramu: @OrganicMapsApp
-Ili saznajte druge načine podrške projektu: https://organicmaps.app/contribute/
+Pridružite se zajednici na Telegramu: @MexaMapsApp
+Ili saznajte druge načine podrške projektu: https://mexamaps.app/contribute/
 
 Vaše iskrene povratne informacije i recenzije u trgovini motiviraju nas! Volimo čuti vaše mišljenje.

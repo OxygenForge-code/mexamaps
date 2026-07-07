@@ -150,7 +150,7 @@ public:
 
 UNIT_CLASS_TEST(MwmTestsFixture, TopPOIs_Smoke)
 {
-  // https://github.com/organicmaps/organicmaps/issues/3026
+  // https://github.com/mexamaps/mexamaps/issues/3026
   {
     // Berlin
     ms::LatLon const center(52.5170365, 13.3888599);
@@ -165,7 +165,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, TopPOIs_Smoke)
     TEST_LESS(SortedByDistance(range, center).first, 550, ());
   }
 
-  // https://github.com/organicmaps/organicmaps/issues/1376
+  // https://github.com/mexamaps/mexamaps/issues/1376
   {
     // Madrid
     ms::LatLon const center(40.41048, -3.69773);
@@ -180,7 +180,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, TopPOIs_Smoke)
     TEST_LESS(SortedByDistance(range, center).first, 200, ());
   }
 
-  // https://github.com/organicmaps/organicmaps/issues/2530
+  // https://github.com/mexamaps/mexamaps/issues/2530
   {
     // Nicosia
     ms::LatLon const center(35.16915, 33.36141);
@@ -199,7 +199,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, TopPOIs_Smoke)
     EqualClassifType(Range(results, 6, 8), GetClassifTypes({{"leisure", "playground"}, {"amenity", "parking"}}));
   }
 
-  // https://github.com/organicmaps/organicmaps/issues/2470
+  // https://github.com/mexamaps/mexamaps/issues/2470
   {
     // Aarhus
     ms::LatLon const center(56.14958, 10.20394);
@@ -215,7 +215,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, TopPOIs_Smoke)
   }
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2133
+// https://github.com/mexamaps/mexamaps/issues/2133
 UNIT_CLASS_TEST(MwmTestsFixture, NY_Subway)
 {
   auto const & cl = classif();
@@ -262,8 +262,8 @@ UNIT_CLASS_TEST(MwmTestsFixture, Paris_Hotel)
   TEST_GREATER(CountClassifType(top10, cl.GetTypeByPath({"tourism", "hotel"})), 2, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3249
-// https://github.com/organicmaps/organicmaps/issues/1997
+// https://github.com/mexamaps/mexamaps/issues/3249
+// https://github.com/mexamaps/mexamaps/issues/1997
 UNIT_CLASS_TEST(MwmTestsFixture, London_Asda)
 {
   // London
@@ -282,7 +282,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, London_Asda)
   }
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3103
+// https://github.com/mexamaps/mexamaps/issues/3103
 UNIT_CLASS_TEST(MwmTestsFixture, Lyon_Aldi)
 {
   // Lyon
@@ -299,7 +299,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Lyon_Aldi)
   TEST_LESS(SortedByDistance(range, center).first, 2000, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1262
+// https://github.com/mexamaps/mexamaps/issues/1262
 UNIT_CLASS_TEST(MwmTestsFixture, NY_BarnesNoble)
 {
   // New York
@@ -315,7 +315,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, NY_BarnesNoble)
   TEST_LESS(SortedByDistance(range, center).first, 1000, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2470
+// https://github.com/mexamaps/mexamaps/issues/2470
 UNIT_CLASS_TEST(MwmTestsFixture, Hamburg_Park)
 {
   // Hamburg
@@ -346,7 +346,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Hamburg_Park)
                                          }));
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1560
+// https://github.com/mexamaps/mexamaps/issues/1560
 UNIT_CLASS_TEST(MwmTestsFixture, Barcelona_Carrers)
 {
   // Barcelona
@@ -394,7 +394,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Barcelona_Carrers)
   }
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3307
+// https://github.com/mexamaps/mexamaps/issues/3307
 // "Karlstraße" is a common street name in Germany.
 UNIT_CLASS_TEST(MwmTestsFixture, Germany_Karlstraße_3)
 {
@@ -411,8 +411,8 @@ UNIT_CLASS_TEST(MwmTestsFixture, Germany_Karlstraße_3)
   TEST_LESS(GetDistanceM(results[0], {48.4042014, 9.9860426}), 500, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3318
-// https://github.com/organicmaps/organicmaps/issues/3317
+// https://github.com/mexamaps/mexamaps/issues/3318
+// https://github.com/mexamaps/mexamaps/issues/3317
 UNIT_CLASS_TEST(MwmTestsFixture, IceCream)
 {
   // Load all USA.
@@ -467,7 +467,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Hilo_City)
   TEST(found, (results));
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3266
+// https://github.com/mexamaps/mexamaps/issues/3266
 // Moscow has suburb "Арбат" and many streets, starting from number (2-й Обыденский), (4-й Голутвинский) inside.
 // So "Арбат 2" is a _well-ranked_ street result like [Suburb full match, Street full prefix],
 // but we obviously expect the building "улица Арбат 2 с/1", which is a _low-ranked_ substring.
@@ -496,7 +496,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Hawaii_Address)
   HasAddress(Range(request->Results(), 0, 3), "Ululani Street", "1000", {"entrance"});
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3712
+// https://github.com/mexamaps/mexamaps/issues/3712
 UNIT_CLASS_TEST(MwmTestsFixture, French_StopWord_Category)
 {
   // Metz
@@ -623,7 +623,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, UTH_Airport)
   TEST(found, (results));
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5186
+// https://github.com/mexamaps/mexamaps/issues/5186
 UNIT_CLASS_TEST(MwmTestsFixture, Milan_Streets)
 {
   // Milan
@@ -640,7 +640,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Milan_Streets)
   TEST_LESS(SortedByDistance(range, center).second, 20000.0, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5150
+// https://github.com/mexamaps/mexamaps/issues/5150
 UNIT_CLASS_TEST(MwmTestsFixture, London_RedLion)
 {
   // Milan
@@ -984,7 +984,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, RelaxedStreets)
   }
 }
 
-// https://github.com/organicmaps/organicmaps/issues/6127
+// https://github.com/mexamaps/mexamaps/issues/6127
 UNIT_CLASS_TEST(MwmTestsFixture, Streets_Rank)
 {
   {
@@ -1109,7 +1109,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Pois_Rank)
     TEST_LESS(SortedByDistance(range, center).first, 1000, ());
   }
 
-  // https://github.com/organicmaps/organicmaps/issues/1017
+  // https://github.com/mexamaps/mexamaps/issues/1017
   {
     // Adazi, Latvia
     ms::LatLon const center(57.0819824, 24.3243274);
@@ -1128,7 +1128,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Pois_Rank)
     TEST_LESS(SortedByDistance(range, center).second, 1500, ());
   }
 
-  // https://github.com/organicmaps/organicmaps/issues/5756
+  // https://github.com/mexamaps/mexamaps/issues/5756
   {
     // Istanbul
     ms::LatLon const center(40.95058, 29.17255);
@@ -1140,7 +1140,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, Pois_Rank)
     EqualClassifType(Range(results, 0, 1), GetClassifTypes({{"leisure", "park"}}));
   }
 
-  // https://github.com/organicmaps/organicmaps/issues/4291
+  // https://github.com/mexamaps/mexamaps/issues/4291
   {
     // Greenville, SC
     ms::LatLon const center(34.8513533, -82.3984875);
@@ -1374,7 +1374,7 @@ UNIT_CLASS_TEST(MwmTestsFixture, UK_Postcodes)
     TEST_GREATER(results.size(), kTopPoiResultsCount, ());
 
     TEST_EQUAL(results[0].GetResultType(), search::Result::Type::Feature, ());
-    /// @todo Should be fixed after https://github.com/organicmaps/organicmaps/issues/4670
+    /// @todo Should be fixed after https://github.com/mexamaps/mexamaps/issues/4670
     /// The first result now is a fuzzy matched street from the neighbour MWM.
     TEST_LESS(GetDistanceM(results[0], {55.8736281, -4.27685338}), kEqualCoordEpsM, (GetLatLon(results[0])));
   }

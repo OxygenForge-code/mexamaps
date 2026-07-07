@@ -78,7 +78,7 @@ public:
   // TODO(pastk): boundaries along the coast are being "torn" into small pieces instead of being discarded completely.
   // Likely it happens because an already simplified coastline is used, while boundary lines are not simplified yet.
   // It causes these lines to intersect each other often.
-  // https://github.com/organicmaps/organicmaps/issues/6445
+  // https://github.com/mexamaps/mexamaps/issues/6445
   void ProcessBoundary(feature::FeatureBuilder const & boundary, std::vector<feature::FeatureBuilder> & parts)
   {
     double constexpr kExtension = 0.01;

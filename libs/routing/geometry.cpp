@@ -240,7 +240,7 @@ void RoadGeometry::Load(VehicleModelInterface const & vehicleModel, FeatureType 
     if (isFerry || !durationMeta.empty())
     {
       /// @todo Also process "interval" OSM tag (without additional boarding penalties).
-      // https://github.com/organicmaps/organicmaps/issues/3695
+      // https://github.com/mexamaps/mexamaps/issues/3695
 
       auto const roadLenKm = GetRoadLengthM() / 1000.0;
       double const durationH = CalcFerryDurationHours(durationMeta, roadLenKm);

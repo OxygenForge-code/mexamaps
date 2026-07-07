@@ -51,7 +51,7 @@ void SaveStringWithCDATA(Writer & writer, std::string const & s)
   // Rarely, in these copy-pasted texts, there are invalid XML1.0 symbols.
   // See https://en.wikipedia.org/wiki/Valid_characters_in_XML
   // A robust solution requires parsing invalid XML on loading (then users can restore "bad" XML files), see
-  // https://github.com/organicmaps/organicmaps/issues/3837
+  // https://github.com/mexamaps/mexamaps/issues/3837
   // When a robust solution is implemented, this workaround can be removed for better performance/battery.
   //
   // This solution is a simple ASCII-range check that does not check symbols from other unicode ranges

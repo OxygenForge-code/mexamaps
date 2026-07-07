@@ -996,7 +996,7 @@ text::TextMetrics GlyphManager::ShapeText(std::string_view utf8, int8_t lang)
   }
 
   // Uncomment utf8 printing for debugging if necessary. It crashes JNI with non-modified UTF-8 strings on Android 5
-  // and 6. See https://github.com/organicmaps/organicmaps/issues/10685
+  // and 6. See https://github.com/mexamaps/mexamaps/issues/10685
   if (allGlyphs.m_glyphs.empty())
     LOG(LWARNING, ("No glyphs were found in all fonts for string with characters in warnings above" /*, utf8*/));
 

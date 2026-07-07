@@ -144,7 +144,7 @@ std::optional<ms::LatLon> OSGridToLatLon(std::string_view gridRef)
 
 bool IsOSGridRegion(std::string_view regionId)
 {
-  // Organic Maps mwm region ids: "UK_England_*", "UK_Scotland*", "UK_Wales" and the separate
+  // MexaMaps mwm region ids: "UK_England_*", "UK_Scotland*", "UK_Wales" and the separate
   // "Isle of Man". Matching these explicitly (rather than a bare "UK_" prefix) keeps out
   // "UK_Northern Ireland"; the Republic of Ireland is "Ireland", which has no "UK_" prefix.
   return regionId.starts_with("UK_England") || regionId.starts_with("UK_Scotland") ||

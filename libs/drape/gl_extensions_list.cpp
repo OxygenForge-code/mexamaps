@@ -10,7 +10,7 @@ void GLExtensionsList::Init()
 {
 #ifdef OMIM_OS_ANDROID
   // NOTE: MapBuffer/MapBufferRange are disabled by performance reasons according to
-  // https://github.com/organicmaps/organicmaps/commit/d72ab7c8cd8be0eb5a622d9d33ae943b391d5707
+  // https://github.com/mexamaps/mexamaps/commit/d72ab7c8cd8be0eb5a622d9d33ae943b391d5707
   SetExtension(MapBuffer, false);
 #else
   SetExtension(MapBuffer, true);

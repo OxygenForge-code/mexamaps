@@ -88,7 +88,7 @@ UNIT_TEST(BLAKE3_Streaming)
 UNIT_TEST(BLAKE3_File_And_Truncation)
 {
   std::string const contents =
-      "Organic Maps is the ultimate companion app for travellers, tourists, hikers, and cyclists!";
+      "MexaMaps is the ultimate companion app for travellers, tourists, hikers, and cyclists!";
   platform::tests_support::ScopedFile sf("blake3_test.tmp", contents);
   auto const & path = sf.GetFullPath();
 

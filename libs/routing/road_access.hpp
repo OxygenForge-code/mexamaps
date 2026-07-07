@@ -41,10 +41,10 @@ public:
 
     /// @name Generator only, not serialized options.
     /// @{
-    // https://github.com/organicmaps/organicmaps/issues/2600
+    // https://github.com/mexamaps/mexamaps/issues/2600
     // Open only to people who have obtained a permit granting them access, but permit is ordinarily granted.
     Permit,
-    // https://github.com/organicmaps/organicmaps/issues/4442
+    // https://github.com/mexamaps/mexamaps/issues/4442
     // locked=yes, will be transformed into Private.
     Locked,
     /// @}

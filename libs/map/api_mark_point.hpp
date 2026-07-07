@@ -8,7 +8,7 @@
 
 namespace style
 {
-// Fixes icons which are not supported by Organic Maps.
+// Fixes icons which are not supported by MexaMaps.
 df::ColorConstant GetSupportedStyle(std::string_view style);
 }  // namespace style
 

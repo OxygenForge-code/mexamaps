@@ -1,4 +1,4 @@
-Organic Maps er hraðvirkt, nákvæmt kort- og GPS leiðsagnarforrit án nettengingar fyrir ferðalög, gönguferðir, fjallgöngur og hjólreiðaævintýri. Skipuleggðu, flytðu inn og skráðu leiðir og njóttu hnökralausrar leiðsagnar án þess að tæma rafhlöðuna eða nota nettengingu. Kannaðu staði og sigldu örugglega í útivistarævintýrum þínum og ferðalögum um heiminn. Forritið býður upp á ótakmarkaðan niðurhal kort og uppfærslur á tveggja vikna fresti. Búið til af sjálfboðaliðum, byggt á OpenStreetMap, með persónuvernd í fyrsta sæti, 100% án nettengingar og 100% ókeypis.
+MexaMaps er hraðvirkt, nákvæmt kort- og GPS leiðsagnarforrit án nettengingar fyrir ferðalög, gönguferðir, fjallgöngur og hjólreiðaævintýri. Skipuleggðu, flytðu inn og skráðu leiðir og njóttu hnökralausrar leiðsagnar án þess að tæma rafhlöðuna eða nota nettengingu. Kannaðu staði og sigldu örugglega í útivistarævintýrum þínum og ferðalögum um heiminn. Forritið býður upp á ótakmarkaðan niðurhal kort og uppfærslur á tveggja vikna fresti. Búið til af sjálfboðaliðum, byggt á OpenStreetMap, með persónuvernd í fyrsta sæti, 100% án nettengingar og 100% ókeypis.
 
 <b>ÁN NETTENGINGAR:</b>
 
@@ -14,7 +14,7 @@ Kortin eru rík af smáatriðum og uppfærð tvisvar í mánuði til að endursp
 
 <b>BYGGT Á OPENSTREETMAP:</b>
 
-OpenStreetMap er heimakort í wiki-stíl sem er byggt og viðhaldið af milljónum sjálfboðaliða — heimamanna sem þekkja svæðin sín best. Þessi samfélagslega viðleitni skilar mjög nákvæmum kortum, oft nákvæmari en þau sem eru í atvinnuskyni í minna kortlagðum héruðum. Organic Maps uppfærir gögnin sín úr OpenStreetMap á tveggja vikna fresti, sem heldur kortunum þínum ferskum og áreiðanlegum. Og ef þú tekur eftir einhverju sem vantar geturðu bætt því við OpenStreetMap og hjálpað til við að bæta kortið fyrir alla.
+OpenStreetMap er heimakort í wiki-stíl sem er byggt og viðhaldið af milljónum sjálfboðaliða — heimamanna sem þekkja svæðin sín best. Þessi samfélagslega viðleitni skilar mjög nákvæmum kortum, oft nákvæmari en þau sem eru í atvinnuskyni í minna kortlagðum héruðum. MexaMaps uppfærir gögnin sín úr OpenStreetMap á tveggja vikna fresti, sem heldur kortunum þínum ferskum og áreiðanlegum. Og ef þú tekur eftir einhverju sem vantar geturðu bætt því við OpenStreetMap og hjálpað til við að bæta kortið fyrir alla.
 
 <b>PERSÓNUVERND FYRST:</b>
 
@@ -52,7 +52,7 @@ Kannaðu greinar á Wikipédíu um staði sem þú finnur á kortinu. Sláðu in
 
 <b>KORTARITILL:</b>
 
-Leggðu lið við OpenStreetMap með því að bæta við stöðum sem vantar eða breyta kortinu beint úr Organic Maps.
+Leggðu lið við OpenStreetMap með því að bæta við stöðum sem vantar eða breyta kortinu beint úr MexaMaps.
 
 <b>DÖKKUR HAMUR:</b>
 

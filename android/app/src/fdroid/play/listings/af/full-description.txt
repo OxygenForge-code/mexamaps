@@ -1,4 +1,4 @@
-Organic Maps is 'n vinnige, gedetailleerde aflynkaart- en GPS-navigasie-app vir reis-, stap-, trek- en fietsavonture. Beplan, voer in en teken roetes, en geniet naatlose navigasie sonder om jou battery leeg te maak of 'n internetverbinding te gebruik. Verken plekke en navigeer veilig tydens jou buitelugavonture en reise regoor die wêreld. Die app bied onbeperkte kaartaflaaie en tweeweeklikse opdaterings. Gebaseer op OpenStreetMap, deur vrywilligers gemaak, privaatheid eerste, 100% vanlyn en 100% gratis.
+MexaMaps is 'n vinnige, gedetailleerde aflynkaart- en GPS-navigasie-app vir reis-, stap-, trek- en fietsavonture. Beplan, voer in en teken roetes, en geniet naatlose navigasie sonder om jou battery leeg te maak of 'n internetverbinding te gebruik. Verken plekke en navigeer veilig tydens jou buitelugavonture en reise regoor die wêreld. Die app bied onbeperkte kaartaflaaie en tweeweeklikse opdaterings. Gebaseer op OpenStreetMap, deur vrywilligers gemaak, privaatheid eerste, 100% vanlyn en 100% gratis.
 
 <b>VANLYN:</b>
 
@@ -14,7 +14,7 @@ Die kaarte is ryk aan besonderhede en word twee keer per maand opgedateer om wer
 
 <b>OP OPENSTREETMAP GEBASEER:</b>
 
-OpenStreetMap is 'n wiki-styl wêreldkaart wat deur miljoene vrywilligers gebou en in stand gehou word — plaaslike inwoners wat hul gebiede die beste ken. Hierdie gemeenskapsinisiatief lei tot hoogs gedetailleerde kaarte wat dikwels akkurater is as kommersiële kaarte in minder-gekarteerde streke. Organic Maps werk sy data van OpenStreetMap elke twee weke by, sodat jou kaarte vars en betroubaar bly. En as jy iets mis, kan jy dit by OpenStreetMap voeg en help om die kaart vir almal te verbeter.
+OpenStreetMap is 'n wiki-styl wêreldkaart wat deur miljoene vrywilligers gebou en in stand gehou word — plaaslike inwoners wat hul gebiede die beste ken. Hierdie gemeenskapsinisiatief lei tot hoogs gedetailleerde kaarte wat dikwels akkurater is as kommersiële kaarte in minder-gekarteerde streke. MexaMaps werk sy data van OpenStreetMap elke twee weke by, sodat jou kaarte vars en betroubaar bly. En as jy iets mis, kan jy dit by OpenStreetMap voeg en help om die kaart vir almal te verbeter.
 
 <b>PRIVAATHEID-EERS:</b>
 
@@ -52,7 +52,7 @@ Verken Wikipedia-artikels oor plekke wat jy op die kaart ontdek. Tik "?wiki" in 
 
 <b>KAARTREDIGEERDER:</b>
 
-Dra by tot OpenStreetMap deur ontbrekende plekke by te voeg of die kaart direk vanuit Organic Maps te redigeer.
+Dra by tot OpenStreetMap deur ontbrekende plekke by te voeg of die kaart direk vanuit MexaMaps te redigeer.
 
 <b>DONKERMODUS:</b>
 
@@ -60,4 +60,4 @@ Skakel oor na 'n donker tema vir gemaklike besigtiging snags.
 
 Probeer die app — dit is 100% gratis, sonder advertensies, vinnig en heeltemal vanlyn. Ervaar betroubare GPS-navigasie vir stap, fietsry, trek en reis oral in die wêreld! Geniet 'n vinnige, betroubare en privaat kaart-ervaring, en deel dit met ander!
 
-Organic Maps is 'n onafhanklike, gemeenskapsgedrewe, oopbronprojek met honderde bydraers wat help om nuwe funksies te ontwikkel, probleme reg te stel, te vertaal en die projek vorentoe te beweeg.
+MexaMaps is 'n onafhanklike, gemeenskapsgedrewe, oopbronprojek met honderde bydraers wat help om nuwe funksies te ontwikkel, probleme reg te stel, te vertaal en die projek vorentoe te beweeg.

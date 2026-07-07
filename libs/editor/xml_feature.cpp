@@ -263,7 +263,7 @@ void XMLFeature::SetHouse(string const & house)
   SetTagValue(kHouseNumber, house);
 }
 
-/// https://github.com/organicmaps/organicmaps/issues/1118
+/// https://github.com/mexamaps/mexamaps/issues/1118
 /// @todo Make full diet:xxx support.
 /// @{
 string XMLFeature::GetCuisine() const

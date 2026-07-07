@@ -1,6 +1,6 @@
 • Nyní jsou podporovány textové a HTML popisy tras, stejně jako popisy záložek. Stisknutím ikony tužky přidáte popis.
 • Mapová data OpenStreetMap k 27. květnu 2026
-• Funkce Text-to-Speech (TTS) nyní vybírá nejlepší nainstalovaný hlas pro daný jazyk (Enhanced / Premium). Informace o tom, jak stáhnout hlas vyšší kvality, najdete v nastavení Organic Maps.
+• Funkce Text-to-Speech (TTS) nyní vybírá nejlepší nainstalovaný hlas pro daný jazyk (Enhanced / Premium). Informace o tom, jak stáhnout hlas vyšší kvality, najdete v nastavení MexaMaps.
 • Přidány silniční značky pro Austrálii a Nový Zéland
 • Přidány ikony pro místa určená pro pétanque, cyklistiku a motoristické sporty
 • Přidány slavnostní brány, vodní skluzavky, zábavní parky a horské dráhy

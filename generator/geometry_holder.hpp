@@ -208,7 +208,7 @@ private:
     tesselator::TrianglesInfo info;
     if (0 == tesselator::TesselateInterior(polys, info))
     {
-      /// @todo Some examples here: https://github.com/organicmaps/organicmaps/issues/5607
+      /// @todo Some examples here: https://github.com/mexamaps/mexamaps/issues/5607
       LOG(LWARNING, ("GeometryHolder: No triangles for scale index", i, "in", m_fb.GetMostGenericOsmId()));
       return false;
     }

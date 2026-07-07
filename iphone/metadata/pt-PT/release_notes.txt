@@ -1,6 +1,6 @@
 • As descrições de texto e HTML dos trilhos são agora suportadas, da mesma forma que as descrições dos marcadores. Toque no ícone do lápis para adicionar uma descrição.
 • Dados cartográficos do OpenStreetMap a 27 de maio de 2026
-• A conversão de texto em voz (TTS) seleciona agora a melhor voz instalada para o idioma (Enhanced / Premium). Consulte as definições do Organic Maps para saber como descarregar uma voz de maior qualidade.
+• A conversão de texto em voz (TTS) seleciona agora a melhor voz instalada para o idioma (Enhanced / Premium). Consulte as definições do MexaMaps para saber como descarregar uma voz de maior qualidade.
 • Adicionados sinais de trânsito da Austrália e da Nova Zelândia
 • Adicionados ícones para locais de petanca, ciclismo e desportos motorizados
 • Adicionados portais cerimoniais, escorregas aquáticos, parques temáticos e montanhas-russas

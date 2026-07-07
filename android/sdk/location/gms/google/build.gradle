@@ -6,7 +6,7 @@ apply from: "${rootProject.rootDir}/groovy/common-config.gradle"
 apply from: "${rootProject.rootDir}/groovy/publishing.gradle"
 
 android {
-  namespace = 'app.organicmaps.sdk.location.gms'
+  namespace = 'app.mexamaps.sdk.location.gms'
   // enableKotlin = true  // see app/build.gradle
 }
 
@@ -20,6 +20,6 @@ dependencies {
 
 Publish(project, [
     'artifactId' : 'location-google',
-    'name'       : 'Organic Maps SDK. Google Fused Location',
-    'description': 'A library that provides Google fused location services for the Organic Maps SDK'
+    'name'       : 'MexaMaps SDK. Google Fused Location',
+    'description': 'A library that provides Google fused location services for the MexaMaps SDK'
 ])

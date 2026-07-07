@@ -180,7 +180,7 @@ RuleDrawer::RuleDrawer(TCheckCancelledCallback const & checkCancelled, TIsCountr
     ASSERT_LESS(index, m_mapShapes.size(), ());
 
     /// @todo MinZoom was used for optimization in RenderGroup::UpdateCanBeDeletedStatus(), but is long time
-    /// broken. See https://github.com/organicmaps/organicmaps/pull/5903 for details.
+    /// broken. See https://github.com/mexamaps/mexamaps/pull/5903 for details.
     shape->SetFeatureMinZoom(0);
     m_mapShapes[index].push_back(std::move(shape));
   };

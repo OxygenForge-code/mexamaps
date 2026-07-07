@@ -115,7 +115,7 @@ UNIT_TEST(HouseNumber_Matcher)
   TEST(HouseNumbersMatch("39с79", "39 к. 79"), ());
 
   TEST(HouseNumbersMatch("39 - 79", "39 строение 79"), ());
-  /// @todo https://github.com/organicmaps/organicmaps/issues/4421
+  /// @todo https://github.com/mexamaps/mexamaps/issues/4421
   TEST(!HouseNumbersMatch("39-79", "49"), ());
 
   TEST(HouseNumbersMatch("39/79", "39 строение 79"), ());

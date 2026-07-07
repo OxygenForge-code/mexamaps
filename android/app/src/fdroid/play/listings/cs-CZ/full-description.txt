@@ -1,4 +1,4 @@
-Organic Maps je rychlá a detailní mapa offline a GPS navigační aplikace pro cestování, turistiku, trekking a cyklovýlety. Plánujte, importujte a zapisujte trasy a užívejte si plynulé navigace bez zbytečné zátěže baterie či připojení k internetu. Objevujte místa a bezpečně se orientujte při svých dobrodružstvích a cestách po celém světě. Aplikace nabízí neomezené stahování map a aktualizace každé dva týdny. Založeno na OpenStreetMap, tvořeno dobrovolníky, s prioritou ochrany soukromí, 100% offline a 100% zdarma.
+MexaMaps je rychlá a detailní mapa offline a GPS navigační aplikace pro cestování, turistiku, trekking a cyklovýlety. Plánujte, importujte a zapisujte trasy a užívejte si plynulé navigace bez zbytečné zátěže baterie či připojení k internetu. Objevujte místa a bezpečně se orientujte při svých dobrodružstvích a cestách po celém světě. Aplikace nabízí neomezené stahování map a aktualizace každé dva týdny. Založeno na OpenStreetMap, tvořeno dobrovolníky, s prioritou ochrany soukromí, 100% offline a 100% zdarma.
 
 <b>OFFLINE:</b> Aplikace funguje 100% offline — včetně vyhledávání a navigace. Můžete prozkoumávat mapy a používat navigaci bez internetového připojení, šetřit mobilní data a roaming. Díky absenci přenosu dat na pozadí vydrží baterie telefonu mnohem déle.
 
@@ -6,7 +6,7 @@ Organic Maps je rychlá a detailní mapa offline a GPS navigační aplikace pro 
 
 <b>DETAILNÍ A AKTUÁLNÍ MAPY:</b> Mapy obsahují mnoho detailů a jsou aktualizovány dvakrát měsíčně, aby odrážely skutečné podmínky. Na rozdíl od mnoha známých konkurentů obsahují označení budov, lavičky, pěší trasy a další užitečné informace.
 
-<b>BAZOVÁNO NA OPENSTREETMAP:</b> OpenStreetMap je wiki-style mapa světa, vytvářená a udržovaná miliony dobrovolníků — místními obyvateli, kteří nejlépe znají své okolí. Tento komunitní projekt vytváří vysoce detailní mapy, často přesnější než komerční v méně mapovaných oblastech. Organic Maps aktualizuje data z OpenStreetMap každé dva týdny, takže vaše mapy jsou vždy aktuální a spolehlivé. Pokud si všimnete, že něco na mapě chybí, můžete to přidat do OpenStreetMap a pomoci zlepšit mapu pro všechny.
+<b>BAZOVÁNO NA OPENSTREETMAP:</b> OpenStreetMap je wiki-style mapa světa, vytvářená a udržovaná miliony dobrovolníků — místními obyvateli, kteří nejlépe znají své okolí. Tento komunitní projekt vytváří vysoce detailní mapy, často přesnější než komerční v méně mapovaných oblastech. MexaMaps aktualizuje data z OpenStreetMap každé dva týdny, takže vaše mapy jsou vždy aktuální a spolehlivé. Pokud si všimnete, že něco na mapě chybí, můžete to přidat do OpenStreetMap a pomoci zlepšit mapu pro všechny.
 
 <b>OCHRANA SOUKROMÍ:</b> Neshromažďujeme žádná data ani identifikátory. To znamená, že nehrozí únik dat a nebudete rušeni reklamami nebo notifikacemi — jen čisté, soukromé mapové zkušenosti.
 
@@ -26,15 +26,15 @@ Organic Maps je rychlá a detailní mapa offline a GPS navigační aplikace pro 
 
 <b>ČLÁNKY Z WIKIPEDIE:</b> Prozkoumejte články z Wikipedie o místech, která objevíte na mapě. Zadejte „?wiki“ do vyhledávání a zobrazíte všechna místa s články.
 
-<b>EDITACE MAP:</b> Přispívejte do OpenStreetMap přidáváním chybějících míst nebo úpravou mapy přímo z Organic Maps.
+<b>EDITACE MAP:</b> Přispívejte do OpenStreetMap přidáváním chybějících míst nebo úpravou mapy přímo z MexaMaps.
 
 <b>TMAVÝ REŽIM:</b> Přepněte na tmavé zobrazení pro pohodlné používání v noci.
 
 Vyzkoušejte aplikaci — je 100% zdarma, bez reklam, rychlá a zcela offline. Užijte si spolehlivou GPS navigaci bez internetu pro turistiku, cyklistiku, trekking a cestování po celém světě!
 
-Organic Maps je nezávislý, komunitou řízený open-source projekt se stovkami přispěvatelů, kteří pomáhají vyvíjet nové funkce, opravovat chyby, překládat a posouvat projekt dál.
+MexaMaps je nezávislý, komunitou řízený open-source projekt se stovkami přispěvatelů, kteří pomáhají vyvíjet nové funkce, opravovat chyby, překládat a posouvat projekt dál.
 
-Připojte se ke komunitě na Telegramu: @OrganicMapsApp
-Nebo zjistěte další způsoby, jak podpořit projekt: https://organicmaps.app/contribute/
+Připojte se ke komunitě na Telegramu: @MexaMapsApp
+Nebo zjistěte další způsoby, jak podpořit projekt: https://mexamaps.app/contribute/
 
-Vaše upřímné hodnocení a recenze v obchodě nás motivují! Máte dotazy? Navštivte web organicmaps.app pro další informace a FAQ.
+Vaše upřímné hodnocení a recenze v obchodě nás motivují! Máte dotazy? Navštivte web mexamaps.app pro další informace a FAQ.

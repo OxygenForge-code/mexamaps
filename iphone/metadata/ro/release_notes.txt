@@ -1,6 +1,6 @@
 • Descrierile textuale și HTML ale traseelor sunt acum acceptate, la fel ca descrierile pentru marcaje. Apăsați pictograma creion pentru a adăuga o descriere.
 • Date cartografice OpenStreetMap la data de 27 mai 2026
-• Text-to-Speech (TTS) alege acum cea mai bună voce instalată pentru limba respectivă (Enhanced / Premium). Consultați setările Organic Maps pentru a afla cum puteți descărca o voce de calitate superioară.
+• Text-to-Speech (TTS) alege acum cea mai bună voce instalată pentru limba respectivă (Enhanced / Premium). Consultați setările MexaMaps pentru a afla cum puteți descărca o voce de calitate superioară.
 • S-au adăugat indicatoare rutiere pentru Australia și Noua Zeelandă
 • S-au adăugat pictograme pentru locuri de petanque, ciclism și sporturi cu motor
 • S-au adăugat porți ceremoniale, tobogane cu apă, parcuri de distracții și montagne russe

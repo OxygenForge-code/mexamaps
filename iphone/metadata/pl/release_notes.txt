@@ -1,6 +1,6 @@
 • Obsługiwane są teraz opisy tekstowe i HTML śladów, tak samo jak opisy zakładek. Naciśnij ikonę ołówka, aby dodać opis.
 • Dane map OpenStreetMap na dzień 27 maja 2026 r.
-• Funkcja zamiany tekstu na mowę (TTS) wybiera teraz najlepszy zainstalowany głos dla danego języka (Enhanced / Premium). Zobacz ustawienia Organic Maps, aby dowiedzieć się, jak pobrać głos o wyższej jakości.
+• Funkcja zamiany tekstu na mowę (TTS) wybiera teraz najlepszy zainstalowany głos dla danego języka (Enhanced / Premium). Zobacz ustawienia MexaMaps, aby dowiedzieć się, jak pobrać głos o wyższej jakości.
 • Dodano znaki drogowe Australii i Nowej Zelandii
 • Dodano ikony miejsc związanych z bule, kolarstwem i sportami motorowymi
 • Dodano bramy ceremonialne, zjeżdżalnie wodne, parki rozrywki i kolejki górskie

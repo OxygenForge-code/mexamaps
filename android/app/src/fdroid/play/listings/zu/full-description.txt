@@ -1,4 +1,4 @@
-Organic Maps iyithuluzi elishesha nelinemininingwane elisebenza ngaphandle kokuxhumeka kwe-intanethi futhi line-GPS yokuhola indlela, elenzelwe ukuhamba, ukuhamba ngezintaba, ukuhamba ngezinyawo, kanye nokugibela ibhayisikili. Hlela, uthumele, futhi urekhoda izindlela, futhi ujabulele ukuqondiswa okuhle ngaphandle kokudla ibhethri lakho noma ukusebenzisa uxhumano lwe-intanethi. Hlola izindawo futhi uqondise ngokuphepha ngesikhathi sokuzijabulisa kwakho ngaphandle kanye nohambo lwakho emhlabeni wonke. Lolu hlelo lokusebenza lunikeza ukulanda kwemephu okungenamkhawulo kanye nezibuyekezo eziphindwa kabili ngenyanga. Lusekelwe ku-OpenStreetMap, lwenziwe ngabavolontiya, lugxile ekuvikelweni kwemfihlo, lusebenza ngaphandle kwe-intanethi ngokuphelele, futhi luyamahhala ngokuphelele.
+MexaMaps iyithuluzi elishesha nelinemininingwane elisebenza ngaphandle kokuxhumeka kwe-intanethi futhi line-GPS yokuhola indlela, elenzelwe ukuhamba, ukuhamba ngezintaba, ukuhamba ngezinyawo, kanye nokugibela ibhayisikili. Hlela, uthumele, futhi urekhoda izindlela, futhi ujabulele ukuqondiswa okuhle ngaphandle kokudla ibhethri lakho noma ukusebenzisa uxhumano lwe-intanethi. Hlola izindawo futhi uqondise ngokuphepha ngesikhathi sokuzijabulisa kwakho ngaphandle kanye nohambo lwakho emhlabeni wonke. Lolu hlelo lokusebenza lunikeza ukulanda kwemephu okungenamkhawulo kanye nezibuyekezo eziphindwa kabili ngenyanga. Lusekelwe ku-OpenStreetMap, lwenziwe ngabavolontiya, lugxile ekuvikelweni kwemfihlo, lusebenza ngaphandle kwe-intanethi ngokuphelele, futhi luyamahhala ngokuphelele.
 
 <b>NGAPHANDLE KWENETHIWEKI:</b>
 
@@ -14,7 +14,7 @@ Amamephu agcwele imininingwane futhi avuselelwa kabili ngenyanga ukuze abonise i
 
 <b>ESEKELWE KU-OPENSTREETMAP:</b>
 
-I-OpenStreetMap iyimephu yomhlaba yesitayela se-wiki eyakhiwe futhi igcinwe yizigidi zabavolontiya — abantu bendawo abazi kahle izindawo zabo. Lomzamo womphakathi uholela kumamephu anemininingwane eningi, kaningi anembile kakhulu kunalawo ezohwebo ezindaweni ezingakaze zidwetshwe kakhulu. I-Organic Maps ivuselela idatha yayo evela ku-OpenStreetMap njalo ngemva kwamaviki amabili, igcina amamephu akho esesikhathini futhi ethembekile. Futhi uma ubona ukuthi kukhona okushodayo, ungakwengeza ku-OpenStreetMap futhi usize ukuthuthukisa imephu kubo bonke.
+I-OpenStreetMap iyimephu yomhlaba yesitayela se-wiki eyakhiwe futhi igcinwe yizigidi zabavolontiya — abantu bendawo abazi kahle izindawo zabo. Lomzamo womphakathi uholela kumamephu anemininingwane eningi, kaningi anembile kakhulu kunalawo ezohwebo ezindaweni ezingakaze zidwetshwe kakhulu. I-MexaMaps ivuselela idatha yayo evela ku-OpenStreetMap njalo ngemva kwamaviki amabili, igcina amamephu akho esesikhathini futhi ethembekile. Futhi uma ubona ukuthi kukhona okushodayo, ungakwengeza ku-OpenStreetMap futhi usize ukuthuthukisa imephu kubo bonke.
 
 <b>IMFIHLO KUZA KUQALA:</b>
 

@@ -711,7 +711,7 @@ void SearchMarks::ProcessMarks(std::function<base::ControlFlow(SearchMarkPoint *
 void SearchMarks::UpdateMaxDimension()
 {
   // Use only generic search mark as 'filter' dimension. Users claim about missing results.
-  // https://github.com/organicmaps/organicmaps/issues/2070
+  // https://github.com/mexamaps/mexamaps/issues/2070
   auto const it = s_markSizes.find(kSymbols[SearchMarkType::Default]);
   if (it != s_markSizes.end())
     m_maxDimension = it->second;

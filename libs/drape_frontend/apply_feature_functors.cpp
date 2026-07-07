@@ -414,7 +414,7 @@ void ApplyPointFeature::ProcessPointRules(drule::SymbolRule const * symbolRule, 
     params.m_symbolName = symbolRule->name;
     ASSERT_GREATER_OR_EQUAL(symbolRule->min_distance, 0, ());
 
-    // Where 0.1 comes from: https://github.com/organicmaps/organicmaps/pull/649
+    // Where 0.1 comes from: https://github.com/mexamaps/mexamaps/pull/649
     params.m_extendingSize =
         static_cast<uint32_t>(m_params.m_vparams.GetVisualScale() * symbolRule->min_distance * 0.1);
 
@@ -495,9 +495,9 @@ void ApplyPointFeature::ProcessPointRules(drule::SymbolRule const * symbolRule, 
 }
 
 // Not sure with kEmptyTriangleS, check these:
-// https://github.com/organicmaps/organicmaps/issues/2643
-// https://github.com/organicmaps/organicmaps/issues/2862
-// https://github.com/organicmaps/organicmaps/issues/8903
+// https://github.com/mexamaps/mexamaps/issues/2643
+// https://github.com/mexamaps/mexamaps/issues/2862
+// https://github.com/mexamaps/mexamaps/issues/8903
 void ApplyAreaFeature::operator()(PointT const & p1, PointT const & p2, PointT const & p3)
 {
   double const crossProduct = m2::robust::OrientedS(p2, p3, p1);

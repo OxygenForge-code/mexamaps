@@ -31,7 +31,7 @@ uint32_t GetFeatureType(FeatureType & ft)
   return res;
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2035
+// https://github.com/mexamaps/mexamaps/issues/2035
 UNIT_CLASS_TEST(TestRawGenerator, Towns)
 {
   uint32_t const cityType = classif().GetTypeByPath({"place", "city"});
@@ -114,7 +114,7 @@ UNIT_CLASS_TEST(TestRawGenerator, Towns)
   TEST_EQUAL(count, 1, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2475
+// https://github.com/mexamaps/mexamaps/issues/2475
 UNIT_CLASS_TEST(TestRawGenerator, Highway_Links)
 {
   std::string const mwmName = "Highways";
@@ -508,7 +508,7 @@ UNIT_CLASS_TEST(TestRawGenerator, Building_Address)
   TEST_EQUAL(count, 1, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/4974
+// https://github.com/mexamaps/mexamaps/issues/4974
 UNIT_TEST(Relation_Wiki)
 {
   std::string const mwmName = "Relation";
@@ -935,7 +935,7 @@ UNIT_CLASS_TEST(TestRawGenerator, Shuttle_Route)
   TEST_GREATER(count, 30, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/4924
+// https://github.com/mexamaps/mexamaps/issues/4924
 UNIT_TEST(MiniRoundabout_Connectivity)
 {
   std::string const mwmName = "MiniRoundabout";
@@ -1061,7 +1061,7 @@ UNIT_CLASS_TEST(TestRawGenerator, Addr_Interpolation)
   TEST_EQUAL(count, 1, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/4994
+// https://github.com/mexamaps/mexamaps/issues/4994
 UNIT_CLASS_TEST(TestRawGenerator, NamedAddress)
 {
   std::string const mwmName = "Address";
@@ -1091,7 +1091,7 @@ UNIT_CLASS_TEST(TestRawGenerator, NamedAddress)
   TEST_EQUAL(withNumber, 0, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5096
+// https://github.com/mexamaps/mexamaps/issues/5096
 UNIT_CLASS_TEST(TestRawGenerator, Place_State)
 {
   uint32_t const stateType = classif().GetTypeByPath({"place", "state"});
@@ -1164,7 +1164,7 @@ UNIT_CLASS_TEST(TestRawGenerator, CycleBarrier)
   TEST_EQUAL(carAcc, bicycleAcc, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/9029
+// https://github.com/mexamaps/mexamaps/issues/9029
 UNIT_CLASS_TEST(TestRawGenerator, Addr_Street_Place)
 {
   std::string const mwmName = "Address";

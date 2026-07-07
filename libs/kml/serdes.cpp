@@ -26,7 +26,7 @@ std::string_view constexpr kPair = "Pair";
 std::string_view constexpr kExtendedData = "ExtendedData";
 std::string_view constexpr kCompilation = "mwm:compilation";
 std::string_view constexpr kCompilationFooter = "</mwm:compilation>\n";
-std::string_view constexpr kExtendedDataHeader = "<ExtendedData xmlns:mwm=\"https://omaps.app\">\n";
+std::string_view constexpr kExtendedDataHeader = "<ExtendedData xmlns:mwm=\"https://mexamaps.app\">\n";
 std::string_view constexpr kExtendedDataFooter = "</ExtendedData>\n";
 std::string_view constexpr kCoordinates = "coordinates";
 
@@ -149,7 +149,7 @@ void SaveStyle(Writer & writer, std::string_view style, uint32_t iconColorRGBA, 
   SaveColorToABGR(writer, iconColorRGBA);
   writer << "</color>\n";
   writer << indent << kIndent6 << "<Icon>\n"
-         << indent << kIndent8 << "<href>https://omaps.app/placemarks/" << style << ".png</href>\n"
+         << indent << kIndent8 << "<href>https://mexamaps.app/placemarks/" << style << ".png</href>\n"
          << indent << kIndent6 << "</Icon>\n"
          << indent << kIndent4 << "</IconStyle>\n"
          << indent << kIndent2 << "</Style>\n";
@@ -1067,7 +1067,7 @@ void KmlParser::Pop(std::string_view tag)
     // loading of KML files which were stored by older versions of OMaps.
     TrackLayer layer;
     layer.m_lineWidth = m_trackWidth;
-    // Fix wrongly parsed transparent color, see https://github.com/organicmaps/organicmaps/issues/5800
+    // Fix wrongly parsed transparent color, see https://github.com/mexamaps/mexamaps/issues/5800
     // TODO: Remove this fix in 2024 when all users will have their imported GPX files fixed.
     if (m_color == 0 || (m_color & 0xFF) < 10)
       layer.m_color.m_rgba = kDefaultTrackColor;

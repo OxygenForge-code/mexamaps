@@ -10,10 +10,10 @@ Here is the basic workflow to update styles:
 Please prepend `[styles]` to your commit message and add [Developers Certificate of Origin](CONTRIBUTING.md#legal-requirements) to it.
 Files changed by the script should be added as a separate `[styles] Regenerated` commit.
 
-Please check [a list of current styling issues](https://github.com/organicmaps/organicmaps/issues?q=is%3Aopen+is%3Aissue+label%3AStyles)
-and ["icons wanted" issues](https://github.com/organicmaps/organicmaps/issues?q=is%3Aopen+is%3Aissue+label%3AIcons+label%3A%22Good+first+issue%22).
+Please check [a list of current styling issues](https://github.com/mexamaps/mexamaps/issues?q=is%3Aopen+is%3Aissue+label%3AStyles)
+and ["icons wanted" issues](https://github.com/mexamaps/mexamaps/issues?q=is%3Aopen+is%3Aissue+label%3AIcons+label%3A%22Good+first+issue%22).
 
-An overview of currently used icons can be found in the [Wiki](https://github.com/organicmaps/organicmaps/wiki/Icons).
+An overview of currently used icons can be found in the [Wiki](https://github.com/mexamaps/mexamaps/wiki/Icons).
 
 ## Requirements
 
@@ -76,7 +76,7 @@ by rebuilding styles and symbols quickly, but it's broken as of now, please help
 To test on Android or iOS device either re-build the app or put
 the compiled style files (e.g. `drules_default.bin`) into
 a `styles/` subfolder of maps directory on the device
-(e.g. `Android/data/app.organicmaps/files/styles/`).
+(e.g. `Android/data/app.mexamaps/files/styles/`).
 
 Changing display zoom level for features (e.g. from z16- to z14-) might
 not take effect until map's visibility/scale index is rebuilt:
@@ -98,7 +98,7 @@ A whole map needs to be [regenerated](MAPS.md) for the changes to take effect if
 Map style files syntax is based on [MapCSS/0.2](https://wiki.openstreetmap.org/wiki/MapCSS/0.2),
 though the specification is not supported in full and there are OM-specific extensions to it.
 
-The `tools/unix/generate_drules.sh` script uses a customized version of [Kothic](https://github.com/organicmaps/kothic)
+The `tools/unix/generate_drules.sh` script uses a customized version of [Kothic](https://github.com/mexamaps/kothic)
 stylesheet processor to compile MapCSS files into binary drawing rules files `data/drules_*.bin`.
 The processor also produces text versions of these files (`data/drules_*.txt`) to ease debugging.
 

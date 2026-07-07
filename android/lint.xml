@@ -2,16 +2,16 @@
 <lint>
   <issue id="MissingTranslation" severity="ignore" />
 
-  <!-- https://github.com/organicmaps/organicmaps/issues/3551 -->
+  <!-- https://github.com/mexamaps/mexamaps/issues/3551 -->
   <issue id="MissingQuantity" severity="ignore" />
   <issue id="UnusedQuantity" severity="ignore" />
 
-  <!-- https://github.com/organicmaps/organicmaps/issues/3550 -->
+  <!-- https://github.com/mexamaps/mexamaps/issues/3550 -->
   <issue id="ByteOrderMark" severity="ignore" />
 
-  <!-- https://github.com/organicmaps/organicmaps/issues/1077 -->
+  <!-- https://github.com/mexamaps/mexamaps/issues/1077 -->
   <issue id="CustomSplashScreen" severity="ignore" />
 
-  <!-- https://github.com/organicmaps/organicmaps/issues/3610 -->
+  <!-- https://github.com/mexamaps/mexamaps/issues/3610 -->
   <issue id="InsecureBaseConfiguration" severity="ignore" />
 </lint>

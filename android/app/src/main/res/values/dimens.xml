@@ -83,11 +83,11 @@
   <dimen name="routes_popup_elevation">2dp</dimen>
   <dimen name="routes_popup_shadow_offset">1dp</dimen>
 
-  <!-- corner radii -->
-  <dimen name="corner_radius_small">8dp</dimen>
-  <dimen name="corner_radius_medium">14dp</dimen>
-  <dimen name="corner_radius_large">20dp</dimen>
-  <dimen name="bottom_sheet_corner_radius">24dp</dimen>
+  <!-- MexaMaps Modern UI - Rounded corners -->
+  <dimen name="corner_radius_small">10dp</dimen>
+  <dimen name="corner_radius_medium">16dp</dimen>
+  <dimen name="corner_radius_large">24dp</dimen>
+  <dimen name="bottom_sheet_corner_radius">28dp</dimen>
 
   <!-- map widgets -->
   <dimen name="viewport_min_height">100dp</dimen>
@@ -104,8 +104,8 @@
   <dimen name="elevation_profile_separator_dash">8dp</dimen>
   <dimen name="elevation_profile_separator_gap">4dp</dimen>
   <dimen name="elevation_profile_marker_width">25dp</dimen>
-  <dimen name="map_button_size">48dp</dimen>
-  <dimen name="map_button_icon_size">32dp</dimen>
+  <dimen name="map_button_size">52dp</dimen>
+  <dimen name="map_button_icon_size">28dp</dimen>
   <dimen name="map_button_arrow_icon_size">34dp</dimen>
 
   <!-- routing layout -->
@@ -149,7 +149,7 @@
   <dimen name="map_buttons_bottom_margin">136dp</dimen>
   <dimen name="map_buttons_bottom_max_width">300dp</dimen>
 
-  <dimen name="appbar_elevation">4dp</dimen>
+  <dimen name="appbar_elevation">6dp</dimen>
 
   <dimen name="tabs_height">64dp</dimen>
 

@@ -59,7 +59,7 @@ HighwayBasedSpeeds const kDefaultSpeeds = {
     {HighwayType::RouteFerry, InOutCitySpeedKMpH(SpeedKMpH(3.0, 20.0))},
 };
 
-// https://github.com/organicmaps/organicmaps/issues/2492
+// https://github.com/mexamaps/mexamaps/issues/2492
 // 3 kmph (was before) is a big default offroad speed, almost as normal walking speed.
 SpeedKMpH constexpr kSpeedOffroadKMpH = {0.5 /* weight */, 3.0 /* eta */};
 

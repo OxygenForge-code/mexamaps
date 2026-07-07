@@ -638,7 +638,7 @@ UNIT_CLASS_TEST(ProcessorTest, TestRankingInfo_PureCategory)
 
   /// @todo We don't match cuisines if input query is category.
   /// Good news that "ice cream (gelato)" is the only category like this now.
-  /// https://github.com/organicmaps/organicmaps/issues/2961
+  /// https://github.com/mexamaps/mexamaps/issues/2961
   Rules const rules{ExactMatch(wonderlandId, cafe1), ExactMatch(wonderlandId, cafe2), ExactMatch(wonderlandId, cafe4)};
 
   // Pure category results should be ordered by distance, not matter about name.
@@ -736,7 +736,7 @@ UNIT_CLASS_TEST(ProcessorTest, RankingInfo_ErrorsMade_1)
   checkErrors("лермонтов чеховъ антон павлович", ErrorsMade(2));
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5296
+// https://github.com/mexamaps/mexamaps/issues/5296
 UNIT_CLASS_TEST(ProcessorTest, RankingInfo_ErrorsMade_2)
 {
   TestStreet hernandes({{-0.5, -0.5}, {0, 0}, {0.5, 0.5}}, "José Hernández", "es");
@@ -1184,10 +1184,10 @@ UNIT_CLASS_TEST(ProcessorTest, SearchCoordinates)
        53.018729, 158.643359},
       {"https://yandex.com.tr/harita/115707/fatih/?ll=28.967470%2C41.008857&z=10", 41.008857, 28.967470},
 
-      {"http://omaps.app/kyuh76X_vf/Borgo_Maggiore", 43.941187, 12.447423},
+      {"http://mexamaps.app/kyuh76X_vf/Borgo_Maggiore", 43.941187, 12.447423},
       {"ge0://kyuh76X_vf/Borgo_Maggiore", 43.941187, 12.447423},
       {"Check out Ospedale di Stato My Places • Hospital "
-       "http://omaps.app/syujRR7Xgi/Ospedale_di_Stato ge0://syujRR7Xgi/Ospedale_di_Stato",
+       "http://mexamaps.app/syujRR7Xgi/Ospedale_di_Stato ge0://syujRR7Xgi/Ospedale_di_Stato",
        43.950255, 12.455579},
 
       {"https://en.mapy.cz/zakladni?x=37.5516243&y=55.7638088&z=12", 55.7638088, 37.5516243},
@@ -2787,7 +2787,7 @@ UNIT_CLASS_TEST(ProcessorTest, ViewportFilter)
     params.m_mode = Mode::Viewport;
 
     /// @todo If we gonna show "relaxed" street result, will be a lot of dummies:
-    /// https://github.com/organicmaps/organicmaps/issues/4190
+    /// https://github.com/mexamaps/mexamaps/issues/4190
 
     // |street23| should not appear in viewport search because it has 2 unmatched tokens.
     // |street8| has 1 unmatched token.
@@ -3295,7 +3295,7 @@ UNIT_CLASS_TEST(ProcessorTest, TestRankingInfo_MultipleOldNames)
 }
 
 /// @todo We are not ready for this test yet.
-/// https://github.com/organicmaps/organicmaps/issues/2961
+/// https://github.com/mexamaps/mexamaps/issues/2961
 /*
 UNIT_CLASS_TEST(ProcessorTest, BurgerStreet)
 {
@@ -3546,7 +3546,7 @@ UNIT_CLASS_TEST(ProcessorTest, StreetCategories)
   }
 }
 
-// https://github.com/organicmaps/organicmaps/issues/4421
+// https://github.com/mexamaps/mexamaps/issues/4421
 UNIT_CLASS_TEST(ProcessorTest, BarcelonaStreet)
 {
   TestStreet street({{-1, -1}, {1, 1}}, "Carrer de la Concòrdia", "default");
@@ -3700,7 +3700,7 @@ UNIT_CLASS_TEST(ProcessorTest, Numeric_POI_Name)
   }
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1151
+// https://github.com/mexamaps/mexamaps/issues/1151
 UNIT_CLASS_TEST(ProcessorTest, SkipSuggestWithAddress)
 {
   std::string const lang = "pl";
@@ -3739,7 +3739,7 @@ UNIT_CLASS_TEST(ProcessorTest, SkipSuggestWithAddress)
   TEST(ResultsMatch("ul. Szubinska 1", {ExactMatch(wonderlandId, building)}), ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/8356
+// https://github.com/mexamaps/mexamaps/issues/8356
 UNIT_CLASS_TEST(ProcessorTest, USAddress_WState_Chicago)
 {
   using namespace mercator;

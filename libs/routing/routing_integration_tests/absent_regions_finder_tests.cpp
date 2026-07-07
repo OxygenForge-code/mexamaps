@@ -264,7 +264,7 @@ UNIT_CLASS_TEST(TestAbsentRegionsFinder, Finland)
   TestRegions(checkpoints, {});
 }
 
-// https://github.com/organicmaps/organicmaps/issues/980
+// https://github.com/mexamaps/mexamaps/issues/980
 UNIT_CLASS_TEST(TestAbsentRegionsFinder, BC_Alberta)
 {
   Checkpoints const checkpoints{mercator::FromLatLon(49.2608724, -123.1139529),
@@ -276,7 +276,7 @@ UNIT_CLASS_TEST(TestAbsentRegionsFinder, BC_Alberta)
   TestRegions(checkpoints, planRegions);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1721
+// https://github.com/mexamaps/mexamaps/issues/1721
 UNIT_CLASS_TEST(TestAbsentRegionsFinder, Germany_Cologne_Croatia_Zagreb)
 {
   Checkpoints const checkpoints{mercator::FromLatLon(50.924, 6.943), mercator::FromLatLon(45.806, 15.963)};

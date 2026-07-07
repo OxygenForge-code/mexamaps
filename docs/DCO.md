@@ -50,4 +50,4 @@ In the past, once someone wanted to contribute they needed to go through the CLA
 
 ## Contributors
 
-Please feel free to add your name to [CONTRIBUTORS](https://github.com/organicmaps/organicmaps/blob/master/CONTRIBUTORS) in your first PR.
+Please feel free to add your name to [CONTRIBUTORS](https://github.com/mexamaps/mexamaps/blob/master/CONTRIBUTORS) in your first PR.

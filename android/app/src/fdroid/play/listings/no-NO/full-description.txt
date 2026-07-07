@@ -1,4 +1,4 @@
-Organic Maps er en rask og detaljert offline kart- og GPS-navigasjonsapp for reiser, fotturer, trekking og sykkelturer. Planlegg, importer og ta opp ruter, og nyt jevn veiledning uten å tømme batteriet eller bruke internett. Utforsk steder og naviger trygt under utendørsaktiviteter og reiser over hele verden. Appen tilbyr ubegrensede kartnedlastinger og oppdateringer annenhver uke. Basert på OpenStreetMap, laget av frivillige, personvernbasert, 100 % offline og helt gratis.
+MexaMaps er en rask og detaljert offline kart- og GPS-navigasjonsapp for reiser, fotturer, trekking og sykkelturer. Planlegg, importer og ta opp ruter, og nyt jevn veiledning uten å tømme batteriet eller bruke internett. Utforsk steder og naviger trygt under utendørsaktiviteter og reiser over hele verden. Appen tilbyr ubegrensede kartnedlastinger og oppdateringer annenhver uke. Basert på OpenStreetMap, laget av frivillige, personvernbasert, 100 % offline og helt gratis.
 
 OFFLINE:
 Appen fungerer 100 % offline – inkludert søk og navigasjon. Du kan utforske kartet og navigere uten internett, noe som sparer mobildata og roamingkostnader. Uten bakgrunnsoverføringer varer også batteriet lengre.
@@ -10,7 +10,7 @@ DETALJERT & OPPDATERT:
 Kartene inneholder rikelige detaljer og oppdateres to ganger i måneden for å gjenspeile virkelige forhold. I motsetning til mange kjente konkurrenter inkluderer de bygningsnavn, benker, turstier og annen nyttig informasjon.
 
 BASERT PÅ OPENSTREETMAP:
-OpenStreetMap er et verdensdekkende kart i wiki-stil, bygget og vedlikeholdt av millioner av frivillige – lokale folk som kjenner områdene sine best. Dette fellesskapet gir svært detaljerte kart, ofte mer nøyaktige enn kommersielle alternativer i mindre kartlagte områder. Organic Maps oppdaterer OSM-data annenhver uke, slik at kartene dine alltid er friske og pålitelige. Og hvis du legger merke til at noe mangler, kan du legge det til i OSM og hjelpe alle brukere.
+OpenStreetMap er et verdensdekkende kart i wiki-stil, bygget og vedlikeholdt av millioner av frivillige – lokale folk som kjenner områdene sine best. Dette fellesskapet gir svært detaljerte kart, ofte mer nøyaktige enn kommersielle alternativer i mindre kartlagte områder. MexaMaps oppdaterer OSM-data annenhver uke, slik at kartene dine alltid er friske og pålitelige. Og hvis du legger merke til at noe mangler, kan du legge det til i OSM og hjelpe alle brukere.
 
 PERSONVERN FØRST:
 Vi samler ikke inn noen data eller identifikatorer. Det betyr ingen risiko for datalekkasjer, ingen annonser og ingen forstyrrende varsler – bare en ren og privat kartopplevelse.
@@ -39,16 +39,16 @@ WIKIPEDIA-ARTIKLER:
 Utforsk Wikipedia-artikler for steder du finner på kartet. Skriv “?wiki” i søkefeltet for å vise steder som har artikler.
 
 KARTREDIGERING:
-Bidra til OpenStreetMap ved å legge inn manglende steder eller redigere kartet direkte fra Organic Maps.
+Bidra til OpenStreetMap ved å legge inn manglende steder eller redigere kartet direkte fra MexaMaps.
 
 MØRK MODUS:
 Bytt til mørk modus for komfortabel visning om natten.
 
 Prøv appen — den er 100 % gratis, uten annonser, rask og helt offline. Opplev pålitelig GPS-navigasjon for hiking, sykling, trekking og reiser hvor som helst i verden! Nyt en rask, stabil og privat kartopplevelse – og del den med andre!
 
-Organic Maps er et uavhengig, fellesskapsdrevet og åpen kildekode-basert prosjekt med hundrevis av bidragsytere som utvikler funksjoner, fikser problemer, oversetter og hjelper prosjektet fremover.
+MexaMaps er et uavhengig, fellesskapsdrevet og åpen kildekode-basert prosjekt med hundrevis av bidragsytere som utvikler funksjoner, fikser problemer, oversetter og hjelper prosjektet fremover.
 
-Bli med i fellesskapet på Telegram: @OrganicMapsApp
-Eller finn flere måter å støtte prosjektet på: organicmaps.app/contribute
+Bli med i fellesskapet på Telegram: @MexaMapsApp
+Eller finn flere måter å støtte prosjektet på: mexamaps.app/contribute
 
-Din ærlige tilbakemelding og vurdering i appbutikken motiverer oss! Har du spørsmål? Besøk nettsiden organicmaps.app for mer info og FAQ.
+Din ærlige tilbakemelding og vurdering i appbutikken motiverer oss! Har du spørsmål? Besøk nettsiden mexamaps.app for mer info og FAQ.

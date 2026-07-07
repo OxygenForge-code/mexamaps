@@ -24,7 +24,7 @@ export TMPDIR="$BUILD_PATH/subways"
 # The output file, which needs post-processing by transit_graph_generator.py
 export MAPSME="$SUBWAYS_PATH/subways.json"
 
-# Produce additional files needed for https://cdn.organicmaps.app/subway/
+# Produce additional files needed for https://cdn.mexamaps.app/subway/
 export HTML_DIR="$SUBWAYS_VALIDATOR_PATH"
 export DUMP="$SUBWAYS_VALIDATOR_PATH"
 export GEOJSON="$SUBWAYS_VALIDATOR_PATH"

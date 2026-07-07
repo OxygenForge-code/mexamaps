@@ -11,7 +11,7 @@ ext.Publish = { Project project, Map<String, Object> props ->
   }
 
   mavenPublishing {
-    coordinates('app.organicmaps.sdk', props['artifactId'], rootProject.ext.versionName)
+    coordinates('app.mexamaps.sdk', props['artifactId'], rootProject.ext.versionName)
 
     // Sign only when a key is configured; local tasks (e.g. publishToMavenLocal) run without one.
     if (project.findProperty('signingInMemoryKey') != null) {
@@ -21,50 +21,50 @@ ext.Publish = { Project project, Map<String, Object> props ->
     pom {
       name = props['name']
       description = props['description']
-      url = 'https://github.com/organicmaps/organicmaps'
+      url = 'https://github.com/mexamaps/mexamaps'
       inceptionYear = '2026'
 
       licenses {
         license {
           name = 'The Apache License, Version 2.0'
-          url = 'https://github.com/organicmaps/organicmaps/blob/master/LICENSE'
+          url = 'https://github.com/mexamaps/mexamaps/blob/master/LICENSE'
           distribution = 'repo'
         }
         license {
-          name = 'Organic Maps Binary Data License'
-          url = 'https://github.com/organicmaps/organicmaps/blob/master/DATA_LICENSE.txt'
+          name = 'MexaMaps Binary Data License'
+          url = 'https://github.com/mexamaps/mexamaps/blob/master/DATA_LICENSE.txt'
           distribution = 'repo'
         }
       }
 
       organization {
-        name = 'Organic Maps'
-        url = 'https://organicmaps.app'
+        name = 'MexaMaps'
+        url = 'https://mexamaps.app'
       }
 
       developers {
         developer {
-          id = 'OrganicMaps'
-          name = 'Organic Maps Team'
-          email = 'sdk@organicmaps.app'
-          organizationUrl = 'https://organicmaps.app'
+          id = 'MexaMaps'
+          name = 'MexaMaps Team'
+          email = 'sdk@mexamaps.app'
+          organizationUrl = 'https://mexamaps.app'
         }
       }
 
       scm {
-        connection = 'scm:git:https://github.com/organicmaps/organicmaps.git'
-        developerConnection = 'scm:git:ssh://git@github.com/organicmaps/organicmaps.git'
-        url = 'https://github.com/organicmaps/organicmaps'
+        connection = 'scm:git:https://github.com/mexamaps/mexamaps.git'
+        developerConnection = 'scm:git:ssh://git@github.com/mexamaps/mexamaps.git'
+        url = 'https://github.com/mexamaps/mexamaps'
       }
 
       ciManagement {
         system = 'GitHub Actions'
-        url = 'https://github.com/organicmaps/organicmaps/actions'
+        url = 'https://github.com/mexamaps/mexamaps/actions'
       }
 
       issueManagement {
         system = 'GitHub Issues'
-        url = 'https://github.com/organicmaps/organicmaps/issues'
+        url = 'https://github.com/mexamaps/mexamaps/issues'
       }
     }
   }

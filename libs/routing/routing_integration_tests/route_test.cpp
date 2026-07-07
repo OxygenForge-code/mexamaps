@@ -488,28 +488,28 @@ UNIT_TEST(RussiaShorterFakeEdges2)
                                    FromLatLon(55.31155, 38.8217), 2489.8);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1788
+// https://github.com/mexamaps/mexamaps/issues/1788
 UNIT_TEST(Germany_ShortRouteWithPassThroughChanges)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(49.512076, 8.284476), {0., 0.},
                                    FromLatLon(49.523783, 8.288701), 2014.);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/821
+// https://github.com/mexamaps/mexamaps/issues/821
 UNIT_TEST(Ukraine_UmanOdessa)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(48.7498, 30.2203), {0., 0.},
                                    FromLatLon(46.4859, 30.6837), 265163.);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1736
+// https://github.com/mexamaps/mexamaps/issues/1736
 UNIT_TEST(Belgium_LiegeBrugge)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(50.645205, 5.573507), {0., 0.},
                                    FromLatLon(51.208479, 3.225558), 193436.);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1627
+// https://github.com/mexamaps/mexamaps/issues/1627
 UNIT_TEST(Spain_MadridSevilla)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(40.415322, -3.703517), {0., 0.},
@@ -522,42 +522,42 @@ UNIT_TEST(Belarus_Lithuania_MinskVilnius)
                                    FromLatLon(54.686821, 25.283189), 183231.);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/338
+// https://github.com/mexamaps/mexamaps/issues/338
 UNIT_TEST(Russia_MendeleevoReutov)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(56.036866, 37.232630), {0., 0.},
                                    FromLatLon(55.762128, 37.856665), 66261.9);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1721
+// https://github.com/mexamaps/mexamaps/issues/1721
 UNIT_TEST(Austria_Croatia_SalzburgZagreb)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(47.795928, 13.047597), {0., 0.},
                                    FromLatLon(45.812822, 15.977049), 414275);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1071
+// https://github.com/mexamaps/mexamaps/issues/1071
 UNIT_TEST(Russia_MoscowDesnogorsk)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(55.715208, 37.396528), {0., 0.},
                                    FromLatLon(54.151853, 33.287128), 355887);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1271
+// https://github.com/mexamaps/mexamaps/issues/1271
 UNIT_TEST(USA_DontLeaveHighway)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(34.1801345, -118.885005),
                                    {0., 0.}, FromLatLon(34.1767471, -118.869327), 1523);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2085
+// https://github.com/mexamaps/mexamaps/issues/2085
 UNIT_TEST(USA_NorthCarolina_CrossMWMs)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(35.6233244, -78.3917262),
                                    {0., 0.}, FromLatLon(36.0081839, -81.5245347), 333425);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1565
+// https://github.com/mexamaps/mexamaps/issues/1565
 UNIT_TEST(Cyprus_NoUTurnFromFake)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(34.70639, 33.1184951), {0., 0.},
@@ -576,44 +576,44 @@ UNIT_TEST(Crimea_UseGravelTertiary)
                                    FromLatLon(45.424964, 36.080336), 55220.2);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2475
+// https://github.com/mexamaps/mexamaps/issues/2475
 UNIT_TEST(Spain_LinksJunction)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(38.8031, 0.0383), {0., 0.},
                                    FromLatLon(38.8228, 0.0357), 3479.63);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1773
+// https://github.com/mexamaps/mexamaps/issues/1773
 UNIT_TEST(Netherlands_CrossMwm_A15)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(51.847656, 4.089189), {0., 0.},
                                    FromLatLon(51.651632, 4.725924), 70596.3);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2494
+// https://github.com/mexamaps/mexamaps/issues/2494
 UNIT_TEST(Netherlands_CrossMwm_GoudaToApenheul)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(52.0181, 4.7111), {0., 0.},
                                    FromLatLon(52.2153, 5.9187), 103576);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2285
+// https://github.com/mexamaps/mexamaps/issues/2285
 UNIT_TEST(Hawaii_KeepH1)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(21.277841, -157.779314), {0., 0.},
                                    FromLatLon(21.296098, -157.823823), 5289.31);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1668
+// https://github.com/mexamaps/mexamaps/issues/1668
 UNIT_TEST(Russia_Moscow_KeepPrimary)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(55.7083688, 37.6213856), {0., 0.},
                                    FromLatLon(55.724623, 37.62588), 1921.88);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1727
-// https://github.com/organicmaps/organicmaps/issues/2020
-// https://github.com/organicmaps/organicmaps/issues/2057
+// https://github.com/mexamaps/mexamaps/issues/1727
+// https://github.com/mexamaps/mexamaps/issues/2020
+// https://github.com/mexamaps/mexamaps/issues/2057
 UNIT_TEST(DontUseLinksWhenRidingOnMotorway)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(32.16881, 34.90656), {0., 0.},
@@ -644,14 +644,14 @@ UNIT_TEST(Germany_Italy_Malcesine)
                                    FromLatLon(45.7662964, 10.8111554), 776000);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3363
+// https://github.com/mexamaps/mexamaps/issues/3363
 UNIT_TEST(Belarus_UseP27_PastawyBraslaw)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(55.1187744, 26.8460319), {0., 0.},
                                    FromLatLon(55.6190911, 27.0938092), 86239.8);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3257
+// https://github.com/mexamaps/mexamaps/issues/3257
 UNIT_TEST(Turkey_AvoidMountainsSecondary)
 {
   TRouteResult const res = CalculateRoute(GetVehicleComponents(VehicleType::Car), FromLatLon(41.0027, 27.6752),
@@ -664,7 +664,7 @@ UNIT_TEST(Turkey_AvoidMountainsSecondary)
   TestRouteTime(*res.first, 5319.01);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/4110
+// https://github.com/mexamaps/mexamaps/issues/4110
 UNIT_TEST(Slovenia_Croatia_CrossBorderPenalty)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(46.038579, 14.469414), {0., 0.},
@@ -700,8 +700,8 @@ UNIT_TEST(Turkey_Salarialaca_Sanliurfa)
   TestRouteTime(route, 20453.5);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/4924
-// https://github.com/organicmaps/organicmaps/issues/4996
+// https://github.com/mexamaps/mexamaps/issues/4924
+// https://github.com/mexamaps/mexamaps/issues/4996
 UNIT_TEST(UK_MiniRoundabout)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(50.4155631, -4.17201038),
@@ -715,7 +715,7 @@ UNIT_TEST(UK_MiniRoundabout)
                                    {0., 0.}, FromLatLon(51.5684408, -0.00596725822), 40);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5069
+// https://github.com/mexamaps/mexamaps/issues/5069
 UNIT_TEST(Germany_Netherlands_AvoidLoops)
 {
   // https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=51.682%2C10.220%3B51.919%2C5.845
@@ -745,7 +745,7 @@ UNIT_TEST(Finland_Avoid_CompactedUnclassified)
                                    FromLatLon(61.4577, 24.035), 3128.31);
 }
 
-// https://github.com/orgs/organicmaps/discussions/5158#discussioncomment-5938807
+// https://github.com/orgs/mexamaps/discussions/5158#discussioncomment-5938807
 UNIT_TEST(Greece_Crete_Use_EO94)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(35.5170594, 24.0938699), {0., 0.},
@@ -768,7 +768,7 @@ UNIT_TEST(Russia_UseGravelPrimary_Not_DefaultTertiary)
                                    FromLatLon(55.8260004, 57.0367732), 19910);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5695
+// https://github.com/mexamaps/mexamaps/issues/5695
 UNIT_TEST(Russia_UseGravel_NotPrimaryDetour)
 {
   // OSRM, GraphHopper uses gravel, Valhalla makes a detour.
@@ -778,7 +778,7 @@ UNIT_TEST(Russia_UseGravel_NotPrimaryDetour)
                                    FromLatLon(55.7555, 57.8348), 45788);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5695
+// https://github.com/mexamaps/mexamaps/issues/5695
 UNIT_TEST(Russia_CrossMwm_Ferry)
 {
   TRouteResult const routeResult =
@@ -796,7 +796,7 @@ UNIT_TEST(Russia_CrossMwm_Ferry)
   TEST_GREATER(route.GetTotalTimeSec(), 7200 + 20 * 60, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/6035
+// https://github.com/mexamaps/mexamaps/issues/6035
 UNIT_TEST(Netherlands_CrossMwm_Ferry)
 {
   /// @todo Should work after reducing ferry landing penalty, but nope ..
@@ -805,7 +805,7 @@ UNIT_TEST(Netherlands_CrossMwm_Ferry)
                                    FromLatLon(52.3924362, 6.12166998), 1322);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/6278
+// https://github.com/mexamaps/mexamaps/issues/6278
 UNIT_TEST(Turkey_PreferSecondary_NotResidential)
 {
   /// @todo Now the app wrongly takes tertiary (no limits) vs primary/secondary (with maxspeed = 30).
@@ -825,21 +825,21 @@ UNIT_TEST(Israel_Jerusalem_Palestine_NoBorderPenalty)
                                    FromLatLon(31.7776832, 35.2236876), 76133);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/6510
+// https://github.com/mexamaps/mexamaps/issues/6510
 UNIT_TEST(EqualMaxSpeeds_PreferPrimary_NotResidential)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(46.5239, 5.6187), {0., 0.},
                                    FromLatLon(46.5240, 5.6096), 1123);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3033#issuecomment-1798343531
+// https://github.com/mexamaps/mexamaps/issues/3033#issuecomment-1798343531
 UNIT_TEST(Spain_NoMaxSpeeds_KeepTrunk_NotTrunkLink)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(43.3773971, -3.43177355),
                                    {0., 0.}, FromLatLon(43.3685773, -3.42580007), 1116.79);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/8823
+// https://github.com/mexamaps/mexamaps/issues/8823
 UNIT_TEST(LATAM_UsePrimary_NotTrunkDetour)
 {
   // 10247 or less should be here.
@@ -850,8 +850,8 @@ UNIT_TEST(LATAM_UsePrimary_NotTrunkDetour)
   /// Looks like it is bad to assign maxspeed for _all_ connected links if it is defined for the middle one.
 }
 
-// https://github.com/organicmaps/organicmaps/issues/8729
-// https://github.com/organicmaps/organicmaps/issues/8541
+// https://github.com/mexamaps/mexamaps/issues/8729
+// https://github.com/mexamaps/mexamaps/issues/8541
 UNIT_TEST(USA_UseDirt_WithMaxspeed)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(46.5361985, -111.943183),
@@ -864,7 +864,7 @@ UNIT_TEST(USA_UseDirt_WithMaxspeed)
                                    FromLatLon(42.3878106, 19.7831402), 247.139);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/8507
+// https://github.com/mexamaps/mexamaps/issues/8507
 UNIT_TEST(Norway_MotorVehicleBackward_No)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(59.91734, 10.75949), {0., 0.},
@@ -874,14 +874,14 @@ UNIT_TEST(Norway_MotorVehicleBackward_No)
                                    FromLatLon(59.92056, 10.759317), 419);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/9620
+// https://github.com/mexamaps/mexamaps/issues/9620
 UNIT_TEST(Germany_Avoid_Agricultural)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(47.6584463, 11.038139), {0., 0.},
                                    FromLatLon(47.6580109, 11.0432625), 1096.11);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/3731
+// https://github.com/mexamaps/mexamaps/issues/3731
 /* Not valid mapping, should be:
  * motor_vehicle = no
  * motor_vehicle:conditional = yes @ (23:00-11:00)
@@ -904,7 +904,7 @@ UNIT_TEST(Turkey_MotorVehicle_Conditional_Yes)
 }
 */
 
-// https://github.com/organicmaps/organicmaps/issues/5280
+// https://github.com/mexamaps/mexamaps/issues/5280
 UNIT_TEST(Colombia_MotorVehicle_Conditional_No)
 {
   using namespace platform::tests_support;
@@ -961,7 +961,7 @@ UNIT_TEST(Lithuania_MaxspeedConditional)
   TEST_LESS(eta2 * 1.1, eta1, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/10848
+// https://github.com/mexamaps/mexamaps/issues/10848
 UNIT_TEST(Russia_Nsk_NoPassThrough)
 {
   // Direct route via "Забалуева"
@@ -975,7 +975,7 @@ UNIT_TEST(Russia_Nsk_NoPassThrough)
 // The destination (43.5298373, 5.44563164) lies on Rue de la Treille. The route must
 // reach it along a road, not end ~120 m away (on the parallel Rue du Bon Pasteur) with a long straight
 // offroad "snap" onto the destination.
-// https://github.com/organicmaps/organicmaps/issues/11709
+// https://github.com/mexamaps/mexamaps/issues/11709
 UNIT_TEST(France_RueDeLaTreille_FinishSnap)
 {
   auto const finish = FromLatLon(43.5298373, 5.44563164);
@@ -1010,7 +1010,7 @@ UNIT_TEST(France_RueDeLaTreille_FinishSnap)
 
 // Regression test: forward and backward A* waves meet on a two-way feature, which used to wire a
 // same-feature cycle into the connectibility "parents" graph and hang IndexGraph::IsRestricted forever.
-// https://github.com/organicmaps/organicmaps/issues/13063
+// https://github.com/mexamaps/mexamaps/issues/13063
 UNIT_TEST(India_Bangalore_ShortRoute)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Car), FromLatLon(12.963008, 77.648966), {0., 0.},

@@ -1,10 +1,10 @@
-Organic Maps ir ātra un detalizēta bezsaistes karšu un GPS navigācijas lietotne ceļojumiem, pārgājieniem, trekingam un riteņbraukšanas piedzīvojumiem. Plānojiet, importējiet un ierakstiet maršrutus un izbaudiet vienmērīgu navigāciju, neiztērējot bateriju vai interneta pieslēgumu. Izpētiet vietas un droši orientējieties savos āra piedzīvojumos un ceļojumos visā pasaulē. Lietotne piedāvā neierobežotu karšu lejupielādi un divreiz mēnesī atjauninājumus. Balstīta uz OpenStreetMap, veidota brīvprātīgo, privātuma prioritāte, 100% bezsaistē un pilnīgi bez maksas.
+MexaMaps ir ātra un detalizēta bezsaistes karšu un GPS navigācijas lietotne ceļojumiem, pārgājieniem, trekingam un riteņbraukšanas piedzīvojumiem. Plānojiet, importējiet un ierakstiet maršrutus un izbaudiet vienmērīgu navigāciju, neiztērējot bateriju vai interneta pieslēgumu. Izpētiet vietas un droši orientējieties savos āra piedzīvojumos un ceļojumos visā pasaulē. Lietotne piedāvā neierobežotu karšu lejupielādi un divreiz mēnesī atjauninājumus. Balstīta uz OpenStreetMap, veidota brīvprātīgo, privātuma prioritāte, 100% bezsaistē un pilnīgi bez maksas.
 
 <b>BEZSAISTĒ:</b> Lietotne darbojas 100% bezsaistē — ieskaitot meklēšanu un navigāciju. Jūs varat izpētīt karti un orientēties bez interneta savienojuma, ietaupot mobilos datus un viesabonēšanas maksu. Ar fona datu pārsūtīšanu nav jāuztraucas, un jūsu baterija kalpo daudz ilgāk.
 
 <b>DETALIZĒTI UN ATJAUNINĀTI:</b> Kartes ir bagātas ar detaļām un tiek atjauninātas divreiz mēnesī, atspoguļojot reālos apstākļus. Atšķirībā no daudzām labi zināmām konkurentu lietotnēm, tās ietver ēku nosaukumus, soliņus, pārgājienu takas un citu noderīgu informāciju.
 
-<b>BALSTĪTS UZ OPENSTREETMAP:</b> OpenStreetMap ir pasaules karte wiki stilā, ko veido un uztur miljoniem brīvprātīgo — vietējie iedzīvotāji, kuri vislabāk pārzina savas teritorijas. Šī kopienas iniciatīva nodrošina ļoti detalizētas kartes, bieži vien precīzākas nekā komerciālās mazāk pārklātās teritorijās. Organic Maps atjaunina savus datus no OpenStreetMap ik pēc divām nedēļām, uzturot jūsu kartes svaigas un uzticamas. Ja pamanāt, ka kaut kas trūkst, varat pievienot to OpenStreetMap un palīdzēt uzlabot karti visiem.
+<b>BALSTĪTS UZ OPENSTREETMAP:</b> OpenStreetMap ir pasaules karte wiki stilā, ko veido un uztur miljoniem brīvprātīgo — vietējie iedzīvotāji, kuri vislabāk pārzina savas teritorijas. Šī kopienas iniciatīva nodrošina ļoti detalizētas kartes, bieži vien precīzākas nekā komerciālās mazāk pārklātās teritorijās. MexaMaps atjaunina savus datus no OpenStreetMap ik pēc divām nedēļām, uzturot jūsu kartes svaigas un uzticamas. Ja pamanāt, ka kaut kas trūkst, varat pievienot to OpenStreetMap un palīdzēt uzlabot karti visiem.
 
 <b>PRIVĀTUMS PIRMAJĀ VIETĀ:</b> Mēs neveicam datu vai identifikatoru vākšanu. Tas nozīmē, ka nav datu noplūdes riska un nav traucēkļu, piemēram, reklāmu vai trokšņainu paziņojumu — tikai tīra, privāta kartes pieredze.
 
@@ -24,8 +24,8 @@ Organic Maps ir ātra un detalizēta bezsaistes karšu un GPS navigācijas lieto
 
 <b>WIKIPEDIA RAKSTI:</b> Izpētiet Wikipedia rakstus par vietām, kuras atklājat kartē. Meklēšanā ierakstiet “?wiki”, lai atrastu visas vietas ar Wikipedia rakstiem.
 
-<b>KARTES REDAKTORS:</b> Veiciniet OpenStreetMap, pievienojot trūkstošas vietas vai rediģējot karti tieši no Organic Maps.
+<b>KARTES REDAKTORS:</b> Veiciniet OpenStreetMap, pievienojot trūkstošas vietas vai rediģējot karti tieši no MexaMaps.
 
 Izmēģiniet lietotni — tā ir 100% bez maksas, bez reklāmām, ātra un pilnībā bezsaistē. Piedzīvojiet uzticamu GPS navigāciju pārgājieniem, riteņbraukšanai, trekingam un ceļojumiem visā pasaulē! Izbaudiet ātru, uzticamu un privātu kartes pieredzi un dalieties tajā ar citiem!
 
-Organic Maps ir neatkarīgs, kopienas vadīts, atvērtā koda projekts ar simtiem līdzstrādnieku, kas palīdz izstrādāt jaunas funkcijas, labot problēmas, tulkot un virzīt projektu uz priekšu.
+MexaMaps ir neatkarīgs, kopienas vadīts, atvērtā koda projekts ar simtiem līdzstrādnieku, kas palīdz izstrādāt jaunas funkcijas, labot problēmas, tulkot un virzīt projektu uz priekšu.

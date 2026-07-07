@@ -1,6 +1,6 @@
 • Spårtext och HTML-beskrivningar stöds nu, på samma sätt som beskrivningar för bokmärken. Tryck på pennikonen för att lägga till en beskrivning.
 • OpenStreetMap-kartdata per den 27 maj 2026
-• Text-till-tal (TTS) väljer nu den bästa installerade rösten för språket (Enhanced / Premium). Se inställningarna i Organic Maps för information om hur du laddar ner en röst av högre kvalitet.
+• Text-till-tal (TTS) väljer nu den bästa installerade rösten för språket (Enhanced / Premium). Se inställningarna i MexaMaps för information om hur du laddar ner en röst av högre kvalitet.
 • Vägskyltar för Australien och Nya Zeeland har lagts till
 • Ikoner för boules, cykling och motorsportplatser har lagts till
 • Ceremoniella portar, vattenrutschbanor, nöjesparker och berg-och-dalbanor har lagts till

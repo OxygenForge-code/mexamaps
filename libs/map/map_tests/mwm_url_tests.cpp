@@ -25,7 +25,7 @@ UNIT_TEST(MapApiSmoke)
 {
   string urlString =
       "mapswithme://"
-      "map?ll=38.970559,-9.419289&ignoreThisParam=Yes&z=17&n=Point%20Name&s=black&backurl=https%3A%2F%2Forganicmaps."
+      "map?ll=38.970559,-9.419289&ignoreThisParam=Yes&z=17&n=Point%20Name&s=black&backurl=https%3A%2F%2Fmexamaps."
       "app";
   TEST(url::Url(urlString).IsValid(), ());
 
@@ -39,7 +39,7 @@ UNIT_TEST(MapApiSmoke)
   TEST_EQUAL(p0.m_id, "", ());
   TEST_EQUAL(p0.m_style, "black", ());
   TEST_ALMOST_EQUAL_ABS(test.GetZoomLevel(), 17.0, kEps, ());
-  TEST_EQUAL(test.GetGlobalBackUrl(), "https://organicmaps.app", ());
+  TEST_EQUAL(test.GetGlobalBackUrl(), "https://mexamaps.app", ());
 }
 
 UNIT_TEST(RouteApiSmoke)
@@ -73,7 +73,7 @@ UNIT_TEST(SearchApiSmoke)
   TEST_ALMOST_EQUAL_ABS(latlon.m_lat, 35.3166654, kEps, ());
   TEST_ALMOST_EQUAL_ABS(latlon.m_lon, 33.2833322, kEps, ());
   TEST_EQUAL(request.m_locale, "ru", ());
-  TEST_EQUAL(test.GetAppName(), "Organic Maps", ());
+  TEST_EQUAL(test.GetAppName(), "MexaMaps", ());
   TEST(request.m_isSearchOnMap, ());
 }
 
@@ -285,11 +285,11 @@ UNIT_TEST(MapApiGe0)
     TEST_EQUAL(p0.m_name, "Zoo Zürich", ());
   }
   {
-    ParsedMapApi api("http://omaps.app/o4B4pYZsRs/Zoo_Zürich");
+    ParsedMapApi api("http://mexamaps.app/o4B4pYZsRs/Zoo_Zürich");
     TEST_EQUAL(api.GetRequestType(), UrlType::Map, ());
   }
   {
-    ParsedMapApi api("https://omaps.app/o4B4pYZsRs/Zoo_Zürich");
+    ParsedMapApi api("https://mexamaps.app/o4B4pYZsRs/Zoo_Zürich");
     TEST_EQUAL(api.GetRequestType(), UrlType::Map, ());
   }
   {
@@ -387,7 +387,7 @@ UNIT_TEST(CrosshairApi)
     TEST_EQUAL(api.GetAppName(), "Google Maps", ());
   }
   {
-    ParsedMapApi api("https://omaps.app/crosshair?cll=47.3813,8.5889&appname=Google%20Maps");
+    ParsedMapApi api("https://mexamaps.app/crosshair?cll=47.3813,8.5889&appname=Google%20Maps");
     TEST_EQUAL(api.GetRequestType(), UrlType::Crosshair, ());
     ms::LatLon latlon = api.GetCenterLatLon();
     TEST_ALMOST_EQUAL_ABS(latlon.m_lat, 47.3813, kEps, ());

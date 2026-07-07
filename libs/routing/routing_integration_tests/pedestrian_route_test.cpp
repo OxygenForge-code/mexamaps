@@ -614,7 +614,7 @@ UNIT_TEST(France_Uphill_Downlhill)
   TEST_GREATER(timeUphill - timeDownhill, 900, ());
 }
 
-// https://github.com/organicmaps/organicmaps/issues/1342
+// https://github.com/mexamaps/mexamaps/issues/1342
 UNIT_TEST(Crimea_Altitude_Mountains)
 {
   integration::CalculateRouteAndTestRouteLength(integration::GetVehicleComponents(VehicleType::Pedestrian),
@@ -622,7 +622,7 @@ UNIT_TEST(Crimea_Altitude_Mountains)
                                                 mercator::FromLatLon(44.7632754, 34.313077), 1303.43);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/2803
+// https://github.com/mexamaps/mexamaps/issues/2803
 UNIT_TEST(Italy_Rome_Altitude_Footway)
 {
   integration::CalculateRouteAndTestRouteLength(integration::GetVehicleComponents(VehicleType::Pedestrian),
@@ -652,7 +652,7 @@ UNIT_TEST(Spain_N634_Piligrim_Road)
                                                 mercator::FromLatLon(43.5435194, -6.5340694), 7217.93);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/5410
+// https://github.com/mexamaps/mexamaps/issues/5410
 UNIT_TEST(Australia_Mountains_Downlhill)
 {
   TRouteResult const routeResult =

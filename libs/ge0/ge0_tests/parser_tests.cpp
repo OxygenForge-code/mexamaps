@@ -302,14 +302,14 @@ UNIT_TEST(Bad_Base64)
 
 UNIT_TEST(OtherPrefixes)
 {
-  TestSuccess("http://omaps.app/Byqqqqqqqq/Name", 45, 0, 4.25, "Name");
-  TestSuccess("https://omaps.app/Byqqqqqqqq/Name", 45, 0, 4.25, "Name");
+  TestSuccess("http://mexamaps.app/Byqqqqqqqq/Name", 45, 0, 4.25, "Name");
+  TestSuccess("https://mexamaps.app/Byqqqqqqqq/Name", 45, 0, 4.25, "Name");
   TestFailure("http://omapz.app/Byqqqqqqqq/Name");
-  TestSuccess("http://omaps.app/AwAAAAAAAA/Super%5fPoi", 0, 0, 4, "Super Poi");
-  TestSuccess("https://omaps.app/AwAAAAAAAA/Super%5fPoi", 0, 0, 4, "Super Poi");
+  TestSuccess("http://mexamaps.app/AwAAAAAAAA/Super%5fPoi", 0, 0, 4, "Super Poi");
+  TestSuccess("https://mexamaps.app/AwAAAAAAAA/Super%5fPoi", 0, 0, 4, "Super Poi");
   TestFailure("https://omapz.app/AwAAAAAAAA/Super%5fPoi");
 
-  TestSuccess("https://omaps.app/Byqqqqqqqq", 45, 0, 4.25, "");
-  TestFailure("https://omaps.app/Byqqqqqqq");
+  TestSuccess("https://mexamaps.app/Byqqqqqqqq", 45, 0, 4.25, "");
+  TestFailure("https://mexamaps.app/Byqqqqqqq");
 }
 }  // namespace parser_tests

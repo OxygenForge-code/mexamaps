@@ -3,8 +3,8 @@
 SCRIPT_DIR=$(dirname -- "${BASH_SOURCE[0]}")
 OUTPUT_FILE="$SCRIPT_DIR/../../data/faq.html"
 
-echo "Downloading latest FAQ page from organicmaps.app website ..."
-curl -s -L -f -o $OUTPUT_FILE https://organicmaps.app/faq/embedded-faq
+echo "Downloading latest FAQ page from mexamaps.app website ..."
+curl -s -L -f -o $OUTPUT_FILE https://mexamaps.app/faq/embedded-faq
 
 res=$?
 if test "$res" != "0"; then

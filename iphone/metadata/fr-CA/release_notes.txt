@@ -1,6 +1,6 @@
 • Les descriptions textuelles et HTML des tracés sont désormais prises en charge, de la même manière que les descriptions des signets. Appuyez sur l'icône en forme de crayon pour ajouter une description.
 • Données cartographiques OpenStreetMap au 27 mai 2026
-• La synthèse vocale (TTS) sélectionne désormais la meilleure voix installée pour la langue (Enhanced / Premium). Consultez les paramètres d'Organic Maps pour savoir comment télécharger une voix de meilleure qualité.
+• La synthèse vocale (TTS) sélectionne désormais la meilleure voix installée pour la langue (Enhanced / Premium). Consultez les paramètres d'MexaMaps pour savoir comment télécharger une voix de meilleure qualité.
 • Ajout des panneaux routiers pour l'Australie et la Nouvelle-Zélande
 • Ajout d'icônes pour les lieux dédiés à la pétanque, au cyclisme et aux sports mécaniques
 • Ajout des portes cérémonielles, des toboggans aquatiques, des parcs d'attractions et des montagnes russes

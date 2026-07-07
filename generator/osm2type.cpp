@@ -1056,7 +1056,7 @@ void PostprocessElement(OsmElement * p, FeatureBuilderParams & params)
     {
       AddParam(CachedTypes::Address);
 
-      // https://github.com/organicmaps/organicmaps/issues/5803
+      // https://github.com/mexamaps/mexamaps/issues/5803
       std::string_view const disusedPrefix[] = {"disused:", "abandoned:", "was:"};
       for (auto const & tag : p->Tags())
       {

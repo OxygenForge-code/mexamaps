@@ -252,7 +252,7 @@ def write_svg(svg: ET.Element, output: Path) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate derived Organic Maps SVG symbols from regular symbol SVGs."
+        description="Generate derived MexaMaps SVG symbols from regular symbol SVGs."
     )
     parser.add_argument("symbol", choices=["search_result"], help="Symbol type to generate.")
     parser.add_argument("input", type=Path, help="Input SVG, for example bank-m.svg.")

@@ -12,7 +12,7 @@ target_link_libraries(${PROJECT_NAME}
 
 # This test requires additional data from the other repository
 if(NOT TEST_DATA_REPO_URL)
-	set(TEST_DATA_REPO_URL "https://github.com/organicmaps/world_feed_integration_tests_data.git")
+	set(TEST_DATA_REPO_URL "https://github.com/mexamaps/world_feed_integration_tests_data.git")
 endif()
 set(DESTINATION_FOLDER "${OMIM_DATA_DIR}/test_data/world_feed_integration_tests_data/")
 

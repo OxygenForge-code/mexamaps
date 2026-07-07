@@ -53,7 +53,7 @@ std::unordered_map<std::string, RoadShieldType> const kRoadNetworkShields = {
     {"bg:national", RoadShieldType::Generic_Green},
     {"bg:regional", RoadShieldType::Generic_Blue},
     {"by:national", RoadShieldType::Generic_Red},
-    // https://github.com/organicmaps/organicmaps/issues/3083
+    // https://github.com/mexamaps/mexamaps/issues/3083
     //{"by:regional", RoadShieldType::Generic_Red},
     {"co:national", RoadShieldType::Generic_White},
     {"cz:national", RoadShieldType::Generic_Red},

@@ -6,7 +6,7 @@ apply from: "${rootProject.rootDir}/groovy/common-config.gradle"
 apply from: "${rootProject.rootDir}/groovy/publishing.gradle"
 
 android {
-  namespace = 'app.organicmaps.sdk'
+  namespace = 'app.mexamaps.sdk'
   enableKotlin = true  // see app/build.gradle
 
   buildFeatures {
@@ -40,7 +40,7 @@ android {
             '-DBUILD_TESTING=OFF', '-DSKIP_TOOLS=ON', "-DUSE_PCH=$pchFlag",
             "-DNJOBS=$njobs", "-DENABLE_VULKAN_DIAGNOSTICS=$enableVulkanDiagnostics",
             "-DENABLE_TRACE=$enableTrace"
-        targets 'organicmaps'
+        targets 'mexamaps'
       }
     }
 
@@ -120,6 +120,6 @@ project.afterEvaluate {
 
 Publish(project, [
     'artifactId' : 'sdk',
-    'name'       : 'Organic Maps SDK',
-    'description': 'An open-source Android library for building fully offline, privacy-respecting map and navigation applications powered by OpenStreetMap data and Organic Maps'
+    'name'       : 'MexaMaps SDK',
+    'description': 'An open-source Android library for building fully offline, privacy-respecting map and navigation applications powered by OpenStreetMap data and MexaMaps'
 ])

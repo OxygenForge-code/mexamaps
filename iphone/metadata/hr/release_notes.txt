@@ -1,6 +1,6 @@
 • Tekstualni i HTML opisi staza sada su podržani, na isti način kao i opisi za oznake. Pritisnite ikonu olovke da biste dodali opis.
 • Podaci karata OpenStreetMap od 27. svibnja 2026.
-• Tekst u govor (TTS) sada odabire najbolji instalirani glas za jezik (Enhanced / Premium). Pogledajte postavke aplikacije Organic Maps kako biste preuzeli glasove veće kvalitete.
+• Tekst u govor (TTS) sada odabire najbolji instalirani glas za jezik (Enhanced / Premium). Pogledajte postavke aplikacije MexaMaps kako biste preuzeli glasove veće kvalitete.
 • Dodani su znakovi za ceste u Australiji i Novom Zelandu
 • Dodane su ikone za boćanje, biciklizam i mjesta za motorsport
 • Dodana su svečana vrata, vodeni tobogani, tematski parkovi i rolerkosteri

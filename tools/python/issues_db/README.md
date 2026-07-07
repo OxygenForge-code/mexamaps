@@ -1,6 +1,6 @@
 # Issues database
 
-Local JSONL mirror of issues from `organicmaps/organicmaps`. Used for triage —
+Local JSONL mirror of issues from `mexamaps/mexamaps`. Used for triage —
 detecting duplicates, finding already-closed reports, or browsing historical
 context without hitting the GitHub API every time.
 
@@ -54,7 +54,7 @@ python3 tools/python/issues_db/search_issues.py --no-comments "route waypoint"
   "author": "username",
   "comments": 3,
   "body": "…",
-  "html_url": "https://github.com/organicmaps/organicmaps/issues/1234",
+  "html_url": "https://github.com/mexamaps/mexamaps/issues/1234",
   "comments_fetched_at": "2024-05-06T07:08:09Z",
   "comments_data": [
     {

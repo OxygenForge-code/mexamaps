@@ -1,4 +1,4 @@
-Organic Maps je brza i detaljna aplikacija za offline mape i GPS navigaciju za putovanja, planinarenje, treking i biciklističke avanture. Planirajte, uvozite i snimajte rute i uživajte u glatkoj navigaciji bez pražnjenja baterije ili potrebe za internet vezom. Istražujte mesta i navigirajte bezbedno tokom svojih avantura na otvorenom i putovanja širom sveta. Aplikacija nudi neograničeno preuzimanje mapa i ažuriranja svake dve nedelje. Bazirana je na OpenStreetMap-u, kreirana od strane volontera, sa prioritetom privatnosti, 100% offline i potpuno besplatna.
+MexaMaps je brza i detaljna aplikacija za offline mape i GPS navigaciju za putovanja, planinarenje, treking i biciklističke avanture. Planirajte, uvozite i snimajte rute i uživajte u glatkoj navigaciji bez pražnjenja baterije ili potrebe za internet vezom. Istražujte mesta i navigirajte bezbedno tokom svojih avantura na otvorenom i putovanja širom sveta. Aplikacija nudi neograničeno preuzimanje mapa i ažuriranja svake dve nedelje. Bazirana je na OpenStreetMap-u, kreirana od strane volontera, sa prioritetom privatnosti, 100% offline i potpuno besplatna.
 
 <b>OFFLINE:</b> Aplikacija radi 100% offline — uključujući pretragu i navigaciju. Možete istraživati mapu i navigirati bez internet veze, štedeći mobilne podatke i troškove rominga. Bez prenosa podataka u pozadini, baterija traje znatno duže.
 
@@ -6,7 +6,7 @@ Organic Maps je brza i detaljna aplikacija za offline mape i GPS navigaciju za p
 
 <b>DETALJNO I AŽURIRANO:</b> Mape su bogate detaljima i osvežavaju se dva puta mesečno kako bi odražavale stvarne uslove. Za razliku od mnogih poznatih konkurenata, uključuju oznake zgrada, klupe, planinarske staze i druge korisne informacije.
 
-<b>BAZIRANO NA OPENSTREETMAP:</b> OpenStreetMap je svetska mapa u stilu vikija koju grade i održavaju milioni volontera — lokalci koji najbolje poznaju svoje područje. Ovaj zajednički napor rezultira veoma detaljnim mapama, često preciznijim od komercijalnih u slabije mapiranim regionima. Organic Maps ažurira svoje podatke sa OpenStreetMap-a svake dve nedelje, održavajući mape svežim i pouzdanim. Ako primetite da nešto nedostaje, možete dodati na OpenStreetMap i pomoći da mapa bude bolja za sve.
+<b>BAZIRANO NA OPENSTREETMAP:</b> OpenStreetMap je svetska mapa u stilu vikija koju grade i održavaju milioni volontera — lokalci koji najbolje poznaju svoje područje. Ovaj zajednički napor rezultira veoma detaljnim mapama, često preciznijim od komercijalnih u slabije mapiranim regionima. MexaMaps ažurira svoje podatke sa OpenStreetMap-a svake dve nedelje, održavajući mape svežim i pouzdanim. Ako primetite da nešto nedostaje, možete dodati na OpenStreetMap i pomoći da mapa bude bolja za sve.
 
 <b>PRIORITET PRIVATNOSTI:</b> Ne prikupljamo nikakve podatke ili identifikatore. To znači da nema rizika od curenja podataka i nema ometanja kao što su oglasi ili zvučne notifikacije — samo čist, privatni doživljaj mape.
 
@@ -26,11 +26,11 @@ Organic Maps je brza i detaljna aplikacija za offline mape i GPS navigaciju za p
 
 <b>WIKIPEDIJA ČLANCI:</b> Istražite Wikipedia članke za mesta koja otkrijete na mapi. Ukucajte “?wiki” u pretrazi da pronađete sva mesta sa Wikipedia člancima.
 
-<b>UREĐIVAČ MAPA:</b> Doprinesite OpenStreetMap dodavanjem nedostajućih mesta ili uređivanjem mape direktno iz Organic Maps.
+<b>UREĐIVAČ MAPA:</b> Doprinesite OpenStreetMap dodavanjem nedostajućih mesta ili uređivanjem mape direktno iz MexaMaps.
 
 Isprobajte aplikaciju — 100% je besplatna, bez reklama, brza i potpuno offline. Iskusite pouzdanu GPS navigaciju za planinarenje, biciklizam, treking i putovanja bilo gde u svetu! Uživajte u brzom, pouzdanom i privatnom doživljaju mape i podelite ga sa drugima!
 
-Organic Maps je nezavisni, zajednički projekat otvorenog koda sa stotinama saradnika koji pomažu u razvoju novih funkcija, rešavanju problema, prevođenju i unapređivanju projekta.
+MexaMaps je nezavisni, zajednički projekat otvorenog koda sa stotinama saradnika koji pomažu u razvoju novih funkcija, rešavanju problema, prevođenju i unapređivanju projekta.
 
-Pridružite se zajednici na Telegramu: @OrganicMapsApp
-Ili saznajte druge načine da podržite projekat: https://organicmaps.app/contribute/
+Pridružite se zajednici na Telegramu: @MexaMapsApp
+Ili saznajte druge načine da podržite projekat: https://mexamaps.app/contribute/

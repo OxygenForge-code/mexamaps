@@ -1,4 +1,4 @@
-Organic Maps ni programu ya haraka, yenye ramani za kina na urambazaji wa GPS inayofanya kazi bila intaneti kwa ajili ya safari, matembezi ya miguu, matembezi ya milimani, na matembezi ya baiskeli. Panga, ingiza, na rekodi njia, na ufurahie mwongozo laini bila kuchosha betri yako au kutumia muunganisho wa intaneti. Gundua maeneo na urambazaji salama wakati wa matembezi yako ya nje na safari zako duniani kote. App hii inatoa upakuaji wa ramani usio na kikomo na masasisho kila baada ya wiki mbili. Inatokana na OpenStreetMap, imetengenezwa na watu wa kujitolea, inazingatia faragha kwanza, haihitaji intaneti 100%, na ni bure 100%.
+MexaMaps ni programu ya haraka, yenye ramani za kina na urambazaji wa GPS inayofanya kazi bila intaneti kwa ajili ya safari, matembezi ya miguu, matembezi ya milimani, na matembezi ya baiskeli. Panga, ingiza, na rekodi njia, na ufurahie mwongozo laini bila kuchosha betri yako au kutumia muunganisho wa intaneti. Gundua maeneo na urambazaji salama wakati wa matembezi yako ya nje na safari zako duniani kote. App hii inatoa upakuaji wa ramani usio na kikomo na masasisho kila baada ya wiki mbili. Inatokana na OpenStreetMap, imetengenezwa na watu wa kujitolea, inazingatia faragha kwanza, haihitaji intaneti 100%, na ni bure 100%.
 
 <b>HAINA INTANETI:</b>
 
@@ -14,7 +14,7 @@ Ramani zina maelezo ya kina na husasishwa mara mbili kwa mwezi ili kuakisi hali 
 
 <b>IMETENGENEZWA KWA KUTUMIA OPENSTREETMAP:</b>
 
-OpenStreetMap ni ramani ya dunia ya mtindo wa wiki iliyotengenezwa na kudumishwa na mamilioni ya watu wa kujitolea — wenyeji wanaozijua vizuri zaidi maeneo yao. Juhudi hii ya jamii hutoa ramani zenye maelezo ya kina sana, mara nyingi zikiwa sahihi zaidi kuliko zile za kibiashara katika maeneo ambayo hayajaorodheshwa vizuri. Organic Maps husasisha data yake kutoka OpenStreetMap kila baada ya wiki mbili, na hivyo kuweka ramani zako zikiwa mpya na za kuaminika. Na ukiona kitu kimepungua, unaweza kuongeza kwenye OpenStreetMap na kusaidia kuboresha ramani kwa ajili ya kila mtu.
+OpenStreetMap ni ramani ya dunia ya mtindo wa wiki iliyotengenezwa na kudumishwa na mamilioni ya watu wa kujitolea — wenyeji wanaozijua vizuri zaidi maeneo yao. Juhudi hii ya jamii hutoa ramani zenye maelezo ya kina sana, mara nyingi zikiwa sahihi zaidi kuliko zile za kibiashara katika maeneo ambayo hayajaorodheshwa vizuri. MexaMaps husasisha data yake kutoka OpenStreetMap kila baada ya wiki mbili, na hivyo kuweka ramani zako zikiwa mpya na za kuaminika. Na ukiona kitu kimepungua, unaweza kuongeza kwenye OpenStreetMap na kusaidia kuboresha ramani kwa ajili ya kila mtu.
 
 <b>FARAGHA KWANZA:</b>
 
@@ -52,7 +52,7 @@ Chunguza makala za Wikipedia za maeneo unayogundua kwenye ramani. Andika "?wiki"
 
 <b>MHARIRI WA RAMANI:</b>
 
-Changia OpenStreetMap kwa kuongeza maeneo yanayokosekana au kuhariri ramani moja kwa moja kutoka Organic Maps.
+Changia OpenStreetMap kwa kuongeza maeneo yanayokosekana au kuhariri ramani moja kwa moja kutoka MexaMaps.
 
 <b>HALI YA GIZA:</b>
 

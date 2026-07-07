@@ -1,6 +1,6 @@
 • Jälkien teksti- ja HTML-kuvauksia tuetaan nyt samalla tavalla kuin kirjanmerkkien kuvauksia. Lisää kuvaus painamalla kynäkuvaketta.
 • OpenStreetMap-karttatiedot 27. toukokuuta 2026
-• Teksti puheeksi (TTS) valitsee nyt parhaan asennetun äänen kielelle (Enhanced / Premium). Katso Organic Maps -asetuksista, miten voit ladata korkealaatuisemman äänen.
+• Teksti puheeksi (TTS) valitsee nyt parhaan asennetun äänen kielelle (Enhanced / Premium). Katso MexaMaps -asetuksista, miten voit ladata korkealaatuisemman äänen.
 • Lisätty Australian ja Uuden-Seelannin tienviitat
 • Lisätty kuvakkeet petankki-, pyöräily- ja moottoriurheilupaikoille
 • Lisätty seremonialliset portit, vesiliukumäet, teemapuistot ja vuoristoradat

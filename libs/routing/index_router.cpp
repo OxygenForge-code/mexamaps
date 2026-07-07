@@ -967,8 +967,8 @@ RouterResultCode IndexRouter::CalculateSubrouteLeapsOnlyMode(Checkpoints const &
 
     // Additional heuristic to reduce number of candidates.
     // Group candidates by category and accept no more than *2* routes of each.
-    // https://github.com/organicmaps/organicmaps/issues/2998
-    // https://github.com/organicmaps/organicmaps/issues/3625
+    // https://github.com/mexamaps/mexamaps/issues/2998
+    // https://github.com/mexamaps/mexamaps/issues/3625
     class HighwayCategoryChecker
     {
       IndexGraphStarter const & m_starter;
@@ -1576,9 +1576,9 @@ RouterResultCode IndexRouter::ProcessLeapsJoints(std::vector<Segment> const & in
   // { fake, startId, otherId, otherId, startId, startId, .. pairs of ids for other leaps .. , finishId, fake }.
 
   // Stable solution here is to calculate all routes with and without loops, and choose the best one.
-  // https://github.com/organicmaps/organicmaps/issues/821
-  // https://github.com/organicmaps/organicmaps/issues/2085
-  // https://github.com/organicmaps/organicmaps/issues/5069
+  // https://github.com/mexamaps/mexamaps/issues/821
+  // https://github.com/mexamaps/mexamaps/issues/2085
+  // https://github.com/mexamaps/mexamaps/issues/5069
 
   buffer_vector<size_t, 4> arrBeg, arrEnd;
   size_t const begIdx = 1;
@@ -1681,7 +1681,7 @@ RouterResultCode IndexRouter::ProcessLeapsJoints(std::vector<Segment> const & in
           // As written above, it may happen when "Avoid option" is enabled.
           // Possibile recover here is to shift |prev| and |next| to skip this "bad" MWM, and build a new
           // (mode = Joints) route (via several MWMs).
-          // https://github.com/organicmaps/organicmaps/issues/5695
+          // https://github.com/mexamaps/mexamaps/issues/5695
 
           /// @todo Anyway, this _recovering_ is a crutch. Should compare result.m_distance on caller side
           /// and call ProcessLeapsJoints for the next candidates (not for the "best" only).

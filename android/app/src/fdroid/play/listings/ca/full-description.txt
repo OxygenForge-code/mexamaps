@@ -1,4 +1,4 @@
-Organic Maps és una aplicació ràpida i detallada de mapes offline i navegació GPS per a viatges, senderisme, trekking i aventures en bicicleta. Planifiqueu, importeu i graveu rutes, i gaudiu d’una navegació fluida sense gastar bateria ni utilitzar connexió a Internet. Exploreu llocs i navegueu amb seguretat durant les vostres aventures a l’aire lliure i viatges arreu del món. L'app ofereix descàrregues de mapes il·limitades i actualitzacions quinzenals. Basada en OpenStreetMap, creada per voluntaris, centrada en la privacitat, 100% offline i 100% gratuïta.
+MexaMaps és una aplicació ràpida i detallada de mapes offline i navegació GPS per a viatges, senderisme, trekking i aventures en bicicleta. Planifiqueu, importeu i graveu rutes, i gaudiu d’una navegació fluida sense gastar bateria ni utilitzar connexió a Internet. Exploreu llocs i navegueu amb seguretat durant les vostres aventures a l’aire lliure i viatges arreu del món. L'app ofereix descàrregues de mapes il·limitades i actualitzacions quinzenals. Basada en OpenStreetMap, creada per voluntaris, centrada en la privacitat, 100% offline i 100% gratuïta.
 
 OFFLINE: L'app funciona completament offline — incloent-hi la cerca i la navegació. Podeu explorar el mapa i navegar sense connexió a Internet, estalviant dades mòbils i tarifes d’itinerància. Sense transferències de dades en segon pla, la bateria dura molt més.
 
@@ -6,7 +6,7 @@ RÀPIDA: El zoom, la cerca i el càlcul de rutes funcionen notablement ràpid.
 
 DETALLADA I ACTUALITZADA: Els mapes són rics en detalls i es refresquen dues vegades al mes per reflectir les condicions reals. A diferència de molts competidors coneguts, inclouen etiquetes d’edificis, bancs, senders de muntanya i altra informació útil.
 
-BASADA EN OPENSTREETMAP: OpenStreetMap és un mapa mundial tipus wiki creat i mantingut per milions de voluntaris — persones locals que coneixen millor les seves zones. Aquest esforç comunitari produeix mapes molt detallats, sovint més precisos que els comercials en regions poc cartografiades. Organic Maps actualitza les dades d’OpenStreetMap cada dues setmanes, mantenint els mapes frescos i fiables. I si detecteu que falta alguna cosa, podeu afegir-la a OpenStreetMap i ajudar a millorar el mapa per a tothom.
+BASADA EN OPENSTREETMAP: OpenStreetMap és un mapa mundial tipus wiki creat i mantingut per milions de voluntaris — persones locals que coneixen millor les seves zones. Aquest esforç comunitari produeix mapes molt detallats, sovint més precisos que els comercials en regions poc cartografiades. MexaMaps actualitza les dades d’OpenStreetMap cada dues setmanes, mantenint els mapes frescos i fiables. I si detecteu que falta alguna cosa, podeu afegir-la a OpenStreetMap i ajudar a millorar el mapa per a tothom.
 
 PRIVACITAT PRIMER: No recopilem cap dada ni identificador. Això significa que no hi ha risc de filtracions de dades ni distraccions com anuncis o notificacions — només una experiència de mapa neta i privada.
 
@@ -26,11 +26,11 @@ ENREGISTRADOR DE RUTES: Enregistreu, importeu, exporteu i compartiu les vostres 
 
 ARTICLES DE LA VIQUIPÈDIA: Exploreu articles de la Viquipèdia dels llocs descoberts al mapa. Escriviu “?wiki” a la cerca per trobar llocs amb articles.
 
-EDITOR DE MAPES: Contribuïu a OpenStreetMap afegint llocs que falten o editant el mapa directament des d’Organic Maps.
+EDITOR DE MAPES: Contribuïu a OpenStreetMap afegint llocs que falten o editant el mapa directament des d’MexaMaps.
 
 Proveu l’app — és 100% gratuïta, sense anuncis, ràpida i completament offline. Gaudiu de navegació GPS fiable per a senderisme, ciclisme, trekking i viatges a qualsevol lloc del món! Experimenteu un mapa ràpid, fiable i privat, i compartiu-lo amb altres!
 
-Organic Maps és un projecte independent, comunitari i de codi obert, amb centenars de col·laboradors que ajuden a desenvolupar noves funcions, corregir errors, traduir i impulsar el projecte.
+MexaMaps és un projecte independent, comunitari i de codi obert, amb centenars de col·laboradors que ajuden a desenvolupar noves funcions, corregir errors, traduir i impulsar el projecte.
 
-Uniu-vos a la comunitat a Telegram: @OrganicMapsApp
-O descobriu altres maneres de donar suport: https://organicmaps.app/contribute/
+Uniu-vos a la comunitat a Telegram: @MexaMapsApp
+O descobriu altres maneres de donar suport: https://mexamaps.app/contribute/

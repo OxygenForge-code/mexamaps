@@ -1,6 +1,6 @@
 • Giờ đây, văn bản và mô tả HTML của đường mòn đã được hỗ trợ, giống như mô tả cho dấu trang. Nhấn vào biểu tượng bút chì để thêm mô tả.
 • Dữ liệu bản đồ OpenStreetMap tính đến ngày 27 tháng 5 năm 2026
-• Chức năng Chuyển văn bản thành giọng nói (TTS) nay sẽ chọn giọng nói tốt nhất đã cài đặt cho ngôn ngữ đó (Enhanced / Premium). Xem cài đặt Organic Maps để biết cách tải xuống giọng nói chất lượng cao hơn.
+• Chức năng Chuyển văn bản thành giọng nói (TTS) nay sẽ chọn giọng nói tốt nhất đã cài đặt cho ngôn ngữ đó (Enhanced / Premium). Xem cài đặt MexaMaps để biết cách tải xuống giọng nói chất lượng cao hơn.
 • Thêm biểu tượng đường bộ cho Úc và New Zealand
 • Thêm biểu tượng cho các địa điểm chơi boules, đạp xe và thể thao mô tô
 • Thêm cổng nghi lễ, đường trượt nước, công viên giải trí và tàu lượn siêu tốc

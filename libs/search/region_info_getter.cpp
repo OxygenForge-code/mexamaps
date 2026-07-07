@@ -57,7 +57,7 @@ void RegionInfoGetter::GetLocalizedFullName(storage::CountryId const & id, NameB
   {
     // Avoid City in region info because it will be calculated correctly by cities boundary info.
     // We need only State / Region / Область + Country only.
-    // https://github.com/organicmaps/organicmaps/issues/857
+    // https://github.com/mexamaps/mexamaps/issues/857
     /// @todo Need to invent some common solution, not this Australia hack.
     size_t const numParts = (*ids.back() == "Australia" ? 1 : 2);
 

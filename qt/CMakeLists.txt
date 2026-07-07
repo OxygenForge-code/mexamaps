@@ -79,11 +79,11 @@ target_link_libraries(${PROJECT_NAME}
 if (BUILD_DESIGNER)
   target_link_libraries(${PROJECT_NAME} PRIVATE generator)
   set(BUNDLE_NAME "OMaps.Designer")
-  set(BUNDLE_DISPLAY_NAME "Organic Maps Designer")
+  set(BUNDLE_DISPLAY_NAME "MexaMaps Designer")
   set(BUNDLE_ICON designer.icns)
 else()
   set(BUNDLE_NAME "OMaps")
-  set(BUNDLE_DISPLAY_NAME "Organic Maps Desktop")
+  set(BUNDLE_DISPLAY_NAME "MexaMaps Desktop")
   set(BUNDLE_ICON mac.icns)
 endif()
 
@@ -130,12 +130,12 @@ copy_resources(
 )
 
 install(TARGETS ${PROJECT_NAME} DESTINATION ${CMAKE_INSTALL_PREFIX}/bin/)
-install(DIRECTORY ${OMIM_ROOT}/data DESTINATION ${CMAKE_INSTALL_PREFIX}/share/organicmaps/)
+install(DIRECTORY ${OMIM_ROOT}/data DESTINATION ${CMAKE_INSTALL_PREFIX}/share/mexamaps/)
 
 if (PLATFORM_LINUX)
-  install(FILES ${OMIM_ROOT}/packaging/app.organicmaps.desktop.metainfo.xml DESTINATION ${CMAKE_INSTALL_PREFIX}/share/metainfo/)
-  install(FILES ${OMIM_ROOT}/qt/res/linux/app.organicmaps.desktop.desktop DESTINATION ${CMAKE_INSTALL_PREFIX}/share/applications/)
-  install(FILES ${OMIM_ROOT}/qt/res/logo.png DESTINATION ${CMAKE_INSTALL_PREFIX}/share/icons/hicolor/512x512/apps/ RENAME organicmaps.png)
+  install(FILES ${OMIM_ROOT}/packaging/app.mexamaps.desktop.metainfo.xml DESTINATION ${CMAKE_INSTALL_PREFIX}/share/metainfo/)
+  install(FILES ${OMIM_ROOT}/qt/res/linux/app.mexamaps.desktop.desktop DESTINATION ${CMAKE_INSTALL_PREFIX}/share/applications/)
+  install(FILES ${OMIM_ROOT}/qt/res/logo.png DESTINATION ${CMAKE_INSTALL_PREFIX}/share/icons/hicolor/512x512/apps/ RENAME mexamaps.png)
 endif()
 
 if (NOT WITH_SYSTEM_PROVIDED_3PARTY)

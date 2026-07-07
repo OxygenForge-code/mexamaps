@@ -354,7 +354,7 @@ double RankingInfo::GetLinearModelRank(bool viewportMode /* = false */) const
       result += kCategoriesHasName;
   }
 
-  // Trying to fix https://github.com/organicmaps/organicmaps/issues/5251.
+  // Trying to fix https://github.com/mexamaps/mexamaps/issues/5251.
   if (m_nearbyMatch)
     result += kAltOldName;
 

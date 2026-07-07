@@ -1,4 +1,4 @@
-Organic Maps është një aplikacion i shpejtë, i detajuar për harta offline dhe navigim me GPS për udhëtime, ecje në natyrë, shëtitje malore dhe aventurat me biçikletë. Planifikoni, importoni dhe regjistroni rrugët, dhe shijoni udhëzime të qeta pa shterur baterinë ose pa përdorur lidhje interneti. Eksploroni vende dhe navigoni në mënyrë të sigurt gjatë aventurave tuaja në natyrë dhe udhëtimeve rreth botës. Aplikacioni ofron shkarkime të pakufizuara të hartave dhe përditësime çdo dy javë. Bazuar në OpenStreetMap, krijuar nga vullnetarë, me privatësi të parët, 100% jashtë linje dhe 100% falas.
+MexaMaps është një aplikacion i shpejtë, i detajuar për harta offline dhe navigim me GPS për udhëtime, ecje në natyrë, shëtitje malore dhe aventurat me biçikletë. Planifikoni, importoni dhe regjistroni rrugët, dhe shijoni udhëzime të qeta pa shterur baterinë ose pa përdorur lidhje interneti. Eksploroni vende dhe navigoni në mënyrë të sigurt gjatë aventurave tuaja në natyrë dhe udhëtimeve rreth botës. Aplikacioni ofron shkarkime të pakufizuara të hartave dhe përditësime çdo dy javë. Bazuar në OpenStreetMap, krijuar nga vullnetarë, me privatësi të parët, 100% jashtë linje dhe 100% falas.
 
 <b>JASHTË LINJE:</b>
 
@@ -14,7 +14,7 @@ Hartat janë të pasura me detaje dhe përditësohen dy herë në muaj për të 
 
 <b>MBËSHTETUR NË OPENSTREETMAP:</b>
 
-OpenStreetMap është një hartë botërore në stil wiki, e ndërtuar dhe e mirëmbajtur nga miliona vullnetarë — vendas që njohin më së miri zonat e tyre. Ky përpjekje komunitare rezulton në harta shumë të detajuara, shpesh më të sakta se ato komerciale në rajonet më pak të matura. Organic Maps përditëson të dhënat e saj nga OpenStreetMap çdo dy javë, duke i mbajtur hartat tuaja të freskëta dhe të besueshme. Dhe nëse vëreni që diçka mungon, mund ta shtoni në OpenStreetMap dhe të ndihmoni në përmirësimin e hartës për të gjithë.
+OpenStreetMap është një hartë botërore në stil wiki, e ndërtuar dhe e mirëmbajtur nga miliona vullnetarë — vendas që njohin më së miri zonat e tyre. Ky përpjekje komunitare rezulton në harta shumë të detajuara, shpesh më të sakta se ato komerciale në rajonet më pak të matura. MexaMaps përditëson të dhënat e saj nga OpenStreetMap çdo dy javë, duke i mbajtur hartat tuaja të freskëta dhe të besueshme. Dhe nëse vëreni që diçka mungon, mund ta shtoni në OpenStreetMap dhe të ndihmoni në përmirësimin e hartës për të gjithë.
 
 <b>PRIVATËSIA E PARË:</b>
 
@@ -52,7 +52,7 @@ Eksploroni artikujt në Wikipedia për vendet që zbuloni në hartë. Shkruani "
 
 <b>REDAKTUESI I HARTËS:</b>
 
-Kontribuoni në OpenStreetMap duke shtuar vende që mungojnë ose duke redaktuar hartën direkt nga Organic Maps.
+Kontribuoni në OpenStreetMap duke shtuar vende që mungojnë ose duke redaktuar hartën direkt nga MexaMaps.
 
 <b>MODI I ERRËT:</b>
 

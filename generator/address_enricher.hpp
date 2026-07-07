@@ -16,7 +16,7 @@ class AddressEnricher
 {
   // Looks too big here? Avoiding duplicates is a thing, because we still check street name first.
   // Was 20, see Generator_Filter_NY test.
-  /// @see https://github.com/organicmaps/organicmaps/pull/8502 for more threshold metrics.
+  /// @see https://github.com/mexamaps/mexamaps/pull/8502 for more threshold metrics.
   static double constexpr kDistanceThresholdM = 50.0;
 
 public:

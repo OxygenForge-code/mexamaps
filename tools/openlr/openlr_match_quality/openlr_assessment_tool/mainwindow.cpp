@@ -230,7 +230,7 @@ MainWindow::MainWindow(Framework & framework) : m_framework(framework)
 
   setCentralWidget(window);
 
-  setWindowTitle(tr("Organic Maps"));
+  setWindowTitle(tr("MexaMaps"));
   setWindowIcon(QIcon(":/ui/logo.png"));
 
   QMenu * fileMenu = new QMenu("File", this);

@@ -1,6 +1,6 @@
 • A nyomvonalak szöveges és HTML leírásai mostantól támogatottak, ugyanúgy, mint a könyvjelzők leírásai. A leírás hozzáadásához nyomja meg a ceruza ikont.
 • OpenStreetMap-térképadatok 2026. május 27-i állapot szerint
-• A szöveg-beszéd (TTS) funkció mostantól a nyelvhez legjobban illő, telepített hangot választja ki (Enhanced / Premium). A jobb minőségű hang letöltéséről az Organic Maps beállításaiban olvashat.
+• A szöveg-beszéd (TTS) funkció mostantól a nyelvhez legjobban illő, telepített hangot választja ki (Enhanced / Premium). A jobb minőségű hang letöltéséről az MexaMaps beállításaiban olvashat.
 • Hozzáadva Ausztrália és Új-Zéland útjelző táblái
 • Hozzáadva a petanque, kerékpározás és motorsport helyszíneinek ikonjai
 • Hozzáadva a szertartási kapuk, vízi csúszdák, vidámparkok és hullámvasutak

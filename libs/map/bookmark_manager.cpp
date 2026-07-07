@@ -146,7 +146,7 @@ std::string BuildIndexFile(std::vector<std::string> const & filesForIndex)
       "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
       "<kml xmlns=\"http://earth.google.com/kml/2.0\">\n"
       "<Document>\n"
-      "<name>Organic Maps Bookmarks and Tracks</name>\n";
+      "<name>MexaMaps Bookmarks and Tracks</name>\n";
   for (auto const & fileName : filesForIndex)
   {
     content.append("<NetworkLink><name>");
@@ -164,7 +164,7 @@ std::string BuildIndexFile(std::vector<std::string> const & filesForIndex)
 
 BookmarkManager::SharingResult ExportMultipleFiles(BookmarkManager::KMLDataCollectionPtr collection)
 {
-  auto const kmzFileName = "OrganicMapsBackup_" + std::to_string(base::GenerateYYMMDD(time(nullptr)));
+  auto const kmzFileName = "MexaMapsBackup_" + std::to_string(base::GenerateYYMMDD(time(nullptr)));
   auto kmzFilePath = base::JoinPath(GetPlatform().TmpDir(), kmzFileName + std::string{kKmzExtension});
   auto const filesDir = "files/";
   kml::GroupIdCollection categoriesIds;
@@ -184,7 +184,7 @@ BookmarkManager::SharingResult ExportMultipleFiles(BookmarkManager::KMLDataColle
   {
     std::string fileName = base::FilenameWithoutExt(GetFileNameForExport(kmlToExport));
     if (!strings::IsASCIIString(fileName))
-      fileName = "OrganicMaps_" + std::to_string(suffix++);
+      fileName = "MexaMaps_" + std::to_string(suffix++);
     auto const kmlPath = base::JoinPath(GetPlatform().TmpDir(), fileName + std::string{kKmlExtension});
     auto const filePathInArchive = filesDir + fileName + std::string{kKmlExtension};
     if (!SaveKmlFileSafe(*kmlToExport.second, kmlPath, FileType::Kml))

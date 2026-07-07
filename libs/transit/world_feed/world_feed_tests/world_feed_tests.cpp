@@ -405,7 +405,7 @@ UNIT_TEST(Transit_ColorPicker)
   TEST_EQUAL(colorPicker.GetNearestColor("d18aa2"), "pink_light", ());
 
   // Sydney Metro: #168388 (teal-cyan) must not collide with #0072CE (blue).
-  // https://github.com/organicmaps/organicmaps/issues/12329
+  // https://github.com/mexamaps/mexamaps/issues/12329
   TEST_EQUAL(colorPicker.GetNearestColor("168388"), "cyan_dark", ());
   TEST(colorPicker.GetNearestColor("168388") != colorPicker.GetNearestColor("0072CE"), ());
 }

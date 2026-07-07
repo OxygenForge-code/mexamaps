@@ -153,7 +153,7 @@ bool IndexGraphStarter::CheckLength(RouteWeight const & weight)
   // Avoid transit through living neighbourhoods.
   // Assume that start or end belongs to the living neighbourhood (HasNoPassThroughAllowed),
   // if at least one of the projections is non-pass-through road (service, living_street).
-  // Interesting example here: https://github.com/organicmaps/organicmaps/issues/1008
+  // Interesting example here: https://github.com/mexamaps/mexamaps/issues/1008
 
   // Allow pass-through <-> non-pass-through zone changes if start or end belongs
   // to no-pass-through zone (have to leave or arrive at living neighbourhood).

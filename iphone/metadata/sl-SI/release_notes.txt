@@ -1,6 +1,6 @@
 • Zdaj so podprti besedilni in HTML opisi poti, enako kot opisi za zaznamke. Za dodajanje opisa pritisnite ikono svinčnika.
 • Podatki zemljevida OpenStreetMap z dne 27. maja 2026
-• Prevajanje besedila v govor (TTS) zdaj izbere najboljši nameščen glas za jezik (Enhanced / Premium). V nastavitvah Organic Maps si oglejte, kako prenesti glas višje kakovosti.
+• Prevajanje besedila v govor (TTS) zdaj izbere najboljši nameščen glas za jezik (Enhanced / Premium). V nastavitvah MexaMaps si oglejte, kako prenesti glas višje kakovosti.
 • Dodani so prometni znaki za Avstralijo in Novo Zelandijo
 • Dodane so ikone za igrišča za balinanje, kolesarjenje in motošport
 • Dodana so obredna vrata, vodni tobogani, tematski parki in vlakci smrti

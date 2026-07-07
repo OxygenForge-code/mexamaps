@@ -1,4 +1,4 @@
-Organic Maps je hitra, podrobna offline aplikacija za karte in GPS navigacijo za potovanja, pohodništvo, treking in kolesarske avanture. Načrtujte, uvozite in beležite poti ter uživajte v gladkem vodenju brez praznjenja baterije ali uporabe internetne povezave. Raziščite kraje in se varno navigirajte med svojimi zunanjimi avanturami in potovanji po svetu. Aplikacija ponuja neomejeno prenos kart in dvotedenske posodobitve. Temelji na OpenStreetMap, jo izdelujejo prostovoljci, daje prednost zasebnosti, je 100 % offline in popolnoma brezplačna.
+MexaMaps je hitra, podrobna offline aplikacija za karte in GPS navigacijo za potovanja, pohodništvo, treking in kolesarske avanture. Načrtujte, uvozite in beležite poti ter uživajte v gladkem vodenju brez praznjenja baterije ali uporabe internetne povezave. Raziščite kraje in se varno navigirajte med svojimi zunanjimi avanturami in potovanji po svetu. Aplikacija ponuja neomejeno prenos kart in dvotedenske posodobitve. Temelji na OpenStreetMap, jo izdelujejo prostovoljci, daje prednost zasebnosti, je 100 % offline in popolnoma brezplačna.
 
 OFFLINE:
 Aplikacija deluje 100 % offline — vključno z iskanjem in navigacijo. Karte lahko raziskujete in se navigirate brez internetne povezave, prihranite mobilne podatke in stroške roaminga. Brez prenosa podatkov v ozadju baterija zdrži dlje.
@@ -10,7 +10,7 @@ PODROBNO IN POSODOBLJENO:
 Karte so bogate s podrobnostmi in osvežene dvakrat na mesec, da odražajo realne pogoje. Vključujejo oznake stavb, klopi, pohodniške poti in druge koristne informacije.
 
 NA PODLAGI OPENSTREETMAP:
-OpenStreetMap je svetovna karta v slogu wiki, ki jo ustvarjajo in vzdržujejo milijoni prostovoljcev. Organic Maps posodablja podatke vsakih 14 dni, da so vaše karte sveže in zanesljive. Če opazite kaj manjkajočega, lahko to dodate v OpenStreetMap in pomagate izboljšati karto za vse.
+OpenStreetMap je svetovna karta v slogu wiki, ki jo ustvarjajo in vzdržujejo milijoni prostovoljcev. MexaMaps posodablja podatke vsakih 14 dni, da so vaše karte sveže in zanesljive. Če opazite kaj manjkajočega, lahko to dodate v OpenStreetMap in pomagate izboljšati karto za vse.
 
 ZAŠČITA ZASEBNOSTI:
 Ne zbiramo nobenih podatkov ali identifikatorjev. Ni tveganja uhajanja podatkov in nobenih motenj, kot so oglasi ali hrupna obvestila — samo čista, zasebna izkušnja z zemljevidom.
@@ -39,12 +39,12 @@ Beležite, uvozite, izvozite in delite svoje poti in najljubše kraje.
 Raziščite članke Wikipedije o krajih na zemljevidu.
 
 UREJEVALEC ZEMLJEVIDOV:
-Prispevajte k OpenStreetMap z dodajanjem manjkajočih krajev ali urejanjem zemljevida neposredno iz Organic Maps.
+Prispevajte k OpenStreetMap z dodajanjem manjkajočih krajev ali urejanjem zemljevida neposredno iz MexaMaps.
 
 TEMNI NAČIN:
 Preklopite na temni način za udobno gledanje ponoči.
 
 Preizkusite aplikacijo — 100 % brezplačna, brez oglasov, hitra in popolnoma offline. Uživajte v zanesljivi GPS navigaciji za pohodništvo, kolesarjenje, treking in potovanja kjerkoli na svetu!
 
-Pridružite se skupnosti na Telegramu: @OrganicMapsApp
-Podprite projekt: https://organicmaps.app/contribute/
+Pridružite se skupnosti na Telegramu: @MexaMapsApp
+Podprite projekt: https://mexamaps.app/contribute/

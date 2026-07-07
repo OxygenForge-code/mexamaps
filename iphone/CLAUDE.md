@@ -94,7 +94,7 @@ Swift services/UI or legacy ObjC -> ObjC/ObjC++ wrappers (`MWM*`) -> CoreApi -> 
 - Build settings: iOS 15.0, macOS 10.15, C++23, Swift 5.5
 - App/build constants live in `xcode/common.xcconfig`, `xcode/common-debug.xcconfig`, and
   `xcode/common-release.xcconfig`
-- Entitlements: CarPlay, iCloud, Associated Domains (`applinks:omaps.app`), Push Notifications
+- Entitlements: CarPlay, iCloud, Associated Domains (`applinks:mexamaps.app`), Push Notifications
 
 ## Testing
 - XCTest framework

@@ -113,7 +113,7 @@ TagMapping const kBicycleTagMapping = {
 };
 
 /// @todo Still controversial?
-/// https://github.com/organicmaps/organicmaps/issues/713
+/// https://github.com/mexamaps/mexamaps/issues/713
 TagMapping const kBicycleBarriersTagMapping = {
     {OsmElement::Tag("barrier", "gate"), RoadAccess::Type::Private},
 };
@@ -160,7 +160,7 @@ std::set<OsmElement::Tag> const kHighwaysWhereIgnoreBarriersWithoutAccessBicycle
 
 // motorway_junction blocks not only highway link, but main road also.
 // Actually, tagging motorway_junction with access is not used, see https://overpass-turbo.eu/s/1d1t
-// https://github.com/organicmaps/organicmaps/issues/1389
+// https://github.com/mexamaps/mexamaps/issues/1389
 std::set<OsmElement::Tag> const kIgnoreAccess = {{"highway", "motorway_junction"}};
 
 std::set<OsmElement::Tag> const kHighwaysWhereIgnoreAccessDestination = {
@@ -306,7 +306,7 @@ void RoadAccessTagProcessor::Process(OsmElement const & elem)
     if (elem.IsNode())
     {
       // OSM mapping workaround.
-      // https://github.com/organicmaps/organicmaps/issues/4837
+      // https://github.com/mexamaps/mexamaps/issues/4837
       if (op == RoadAccess::Type::No && m_vehicleType == VehicleType::Bicycle && elem.GetTag("highway") == "crossing")
       {
         // Skip this "barrier". It blocks cycling on main road via this kind of crossings.

@@ -1,6 +1,6 @@
 • Tekst- og HTML-beskrivelser af spor understøttes nu på samme måde som beskrivelser for bogmærker. Tryk på blyantikonet for at tilføje en beskrivelse.
 • OpenStreetMap-kortdata pr. 27. maj 2026
-• Tekst-til-tale (TTS) vælger nu den bedste installerede stemme til sproget (Enhanced / Premium). Se indstillingerne i Organic Maps for at se, hvordan du downloader en stemme i højere kvalitet.
+• Tekst-til-tale (TTS) vælger nu den bedste installerede stemme til sproget (Enhanced / Premium). Se indstillingerne i MexaMaps for at se, hvordan du downloader en stemme i højere kvalitet.
 • Tilføjet vejskilte for Australien og New Zealand
 • Tilføjet ikoner for boules, cykling og motorsportssteder
 • Tilføjet ceremonielle porte, vandrutsbaner, forlystelsesparker og rutsjebaner

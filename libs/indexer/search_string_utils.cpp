@@ -77,7 +77,7 @@ LevenshteinDFA BuildLevenshteinDFA(UniString const & s)
 
 LevenshteinDFA BuildLevenshteinDFA_Category(UniString const & s)
 {
-  // https://github.com/organicmaps/organicmaps/issues/3655
+  // https://github.com/mexamaps/mexamaps/issues/3655
   // Separate DFA for categories (_Category) to avoid fancy matchings like:
   // cafe <-> care
   // ecco -> eco

@@ -6,7 +6,7 @@ set -euxo pipefail
 
 SCRIPT_DIR="$( cd "$(dirname "$0")" && pwd -P )"
 cd "$SCRIPT_DIR/.."
-./configure.sh git@github.com:organicmaps/organicmaps-keys
+./configure.sh git@github.com:mexamaps/mexamaps-keys
 cd "$SCRIPT_DIR"
 
 IOS_BUILD=$($SCRIPT_DIR/../tools/unix/version.sh ios_build)
@@ -45,7 +45,7 @@ cat > "$PLIST" <<EOM
   <string>9Z6432XD7L</string>
   <key>provisioningProfiles</key>
   <dict>
-    <key>app.organicmaps</key>
+    <key>app.mexamaps</key>
     <string>CarPlay AppStore</string>
   </dict>
 </dict>

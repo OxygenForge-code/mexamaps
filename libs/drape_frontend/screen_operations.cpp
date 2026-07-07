@@ -109,7 +109,7 @@ void ScaleInto(ScreenBase & screen, m2::RectD const & boundRect)
 
   auto const DoScale = [&](double k)
   {
-    // https://github.com/organicmaps/organicmaps/issues/544
+    // https://github.com/mexamaps/mexamaps/issues/544
     if (k > 0)
     {
       scale /= k;

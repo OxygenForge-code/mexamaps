@@ -180,7 +180,7 @@ bool FeatureBuilder::PreSerialize()
     if (!m_params.house.IsEmpty())
     {
       // Hack/Patch here. Convert non-number into default name for the search index.
-      // Happens with building-address: https://github.com/organicmaps/organicmaps/issues/4994
+      // Happens with building-address: https://github.com/mexamaps/mexamaps/issues/4994
       /// @todo Refactor to store raw name: and addr: values in FeatureBuilderParams and make one
       /// _finalization_ function here.
       auto const & hn = m_params.house.Get();

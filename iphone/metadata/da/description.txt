@@ -1,4 +1,4 @@
-Organic Maps er en hurtig, detaljeret offline kort- og GPS-navigationsapp til rejser, vandreture og cykelture. Planlæg, importer og optag ruter, og nyd glat vejledning uden at tømme batteriet eller bruge internetforbindelse. Udforsk steder og navigér sikkert under dine udendørs eventyr og rejser verden rundt. Appen tilbyder ubegrænsede kortdownloads og opdateringer hver anden uge. Baseret på OpenStreetMap, lavet af frivillige, privatlivsfokuseret, 100% offline og 100% gratis.
+MexaMaps er en hurtig, detaljeret offline kort- og GPS-navigationsapp til rejser, vandreture og cykelture. Planlæg, importer og optag ruter, og nyd glat vejledning uden at tømme batteriet eller bruge internetforbindelse. Udforsk steder og navigér sikkert under dine udendørs eventyr og rejser verden rundt. Appen tilbyder ubegrænsede kortdownloads og opdateringer hver anden uge. Baseret på OpenStreetMap, lavet af frivillige, privatlivsfokuseret, 100% offline og 100% gratis.
 
 OFFLINE: Appen fungerer 100% offline — inklusive søgning og navigation. Du kan udforske kortet og navigere uden internetforbindelse, hvilket sparer på mobildata og roamingafgifter. Og uden baggrundsoverførsler varer batteriet meget længere.
 
@@ -6,7 +6,7 @@ HURTIG: Zoom, søgning og ruteudregninger fungerer bemærkelsesværdigt hurtigt.
 
 DETALJERET & OPDATERET: Kortene er rige på detaljer og opdateres to gange om måneden for at afspejle de reelle forhold. I modsætning til mange velkendte konkurrenter inkluderer de bygningstegn, bænke, vandreruter og andre nyttige oplysninger.
 
-BASERET PÅ OPENSTREETMAP: OpenStreetMap er et wiki-stil verdens kort, bygget og vedligeholdt af millioner af frivillige — lokale, der kender deres områder bedst. Denne fællesskabsindsats resulterer i meget detaljerede kort, ofte mere præcise end kommercielle kort i mindre kortlagte områder. Organic Maps opdaterer sine data fra OpenStreetMap hver anden uge, hvilket holder kortene friske og pålidelige. Hvis du bemærker noget, der mangler, kan du tilføje det til OpenStreetMap og hjælpe med at forbedre kortet for alle.
+BASERET PÅ OPENSTREETMAP: OpenStreetMap er et wiki-stil verdens kort, bygget og vedligeholdt af millioner af frivillige — lokale, der kender deres områder bedst. Denne fællesskabsindsats resulterer i meget detaljerede kort, ofte mere præcise end kommercielle kort i mindre kortlagte områder. MexaMaps opdaterer sine data fra OpenStreetMap hver anden uge, hvilket holder kortene friske og pålidelige. Hvis du bemærker noget, der mangler, kan du tilføje det til OpenStreetMap og hjælpe med at forbedre kortet for alle.
 
 PRIVATLIV FØRST: Vi indsamler ingen data eller identifikatorer. Det betyder, at der ikke er nogen risiko for datalækager og ingen distraktioner som annoncer eller støjende meddelelser — kun en ren, privat kortoplevelse.
 
@@ -26,16 +26,16 @@ SPOROPTAGER: Optag, importer, eksporter og del dine ruter og yndlingssteder. Und
 
 WIKIPEDIA-ARTIKLER: Udforsk Wikipedia-artikler for steder, du opdager på kortet. Skriv “?wiki” i søgningen for at finde alle steder med Wikipedia-artikler.
 
-KORTREDIGERING: Bidrag til OpenStreetMap ved at tilføje manglende steder eller redigere kortet direkte fra Organic Maps.
+KORTREDIGERING: Bidrag til OpenStreetMap ved at tilføje manglende steder eller redigere kortet direkte fra MexaMaps.
 
 MØRKT TEMA: Skift til mørkt tema for komfortabel visning om natten.
 
 iCLOUD SYNC: Lav nemt backup og synkroniser alle dine bogmærker og spor via iCloud.
 
 Prøv appen — den er 100% gratis, uden reklamer, hurtig og fuldstændig offline. Nyd en hurtig, pålidelig og privat kortoplevelse, og del den med andre!
-Organic Maps er et indie, community-drevet, open-source projekt med hundredvis af bidragydere, der hjælper med at udvikle nye funktioner, rette problemer, oversætte og drive projektet fremad.
+MexaMaps er et indie, community-drevet, open-source projekt med hundredvis af bidragydere, der hjælper med at udvikle nye funktioner, rette problemer, oversætte og drive projektet fremad.
 
-Deltag i fællesskabet på Telegram: @OrganicMapsApp
-Eller lær andre måder at støtte projektet på: https://organicmaps.app/contribute/
+Deltag i fællesskabet på Telegram: @MexaMapsApp
+Eller lær andre måder at støtte projektet på: https://mexamaps.app/contribute/
 
-Din ærlige feedback og anmeldelser i butikken motiverer os! Vi elsker at høre fra dig. Har du spørgsmål? Besøg venligst organicmaps.app for yderligere detaljer og FAQ.
+Din ærlige feedback og anmeldelser i butikken motiverer os! Vi elsker at høre fra dig. Har du spørgsmål? Besøg venligst mexamaps.app for yderligere detaljer og FAQ.

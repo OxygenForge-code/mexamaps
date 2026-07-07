@@ -1,4 +1,4 @@
-Organic Maps es una aplicación rápida y detallada de mapas offline y navegación GPS para viajes, senderismo, trekking y aventuras en bicicleta. Planifica, importa y registra rutas, y disfruta de una guía fluida sin agotar la batería ni usar conexión a internet. Explora lugares y navega con seguridad durante tus aventuras al aire libre y viajes por el mundo. La aplicación ofrece descargas ilimitadas de mapas y actualizaciones quincenales. Basada en OpenStreetMap, creada por voluntarios, con privacidad primero, 100% offline y 100% gratuita.
+MexaMaps es una aplicación rápida y detallada de mapas offline y navegación GPS para viajes, senderismo, trekking y aventuras en bicicleta. Planifica, importa y registra rutas, y disfruta de una guía fluida sin agotar la batería ni usar conexión a internet. Explora lugares y navega con seguridad durante tus aventuras al aire libre y viajes por el mundo. La aplicación ofrece descargas ilimitadas de mapas y actualizaciones quincenales. Basada en OpenStreetMap, creada por voluntarios, con privacidad primero, 100% offline y 100% gratuita.
 
 <b>OFFLINE:</b> La app funciona 100% offline — incluso la búsqueda y la navegación. Puedes explorar el mapa y navegar sin conexión, ahorrando datos móviles y evitando cargos de roaming. Y sin transferencias de datos en segundo plano, tu batería dura mucho más.
 
@@ -6,7 +6,7 @@ Organic Maps es una aplicación rápida y detallada de mapas offline y navegaci�
 
 <b>DETALLADA Y ACTUALIZADA:</b> Los mapas son muy detallados y se actualizan dos veces al mes para reflejar las condiciones reales. A diferencia de muchos competidores conocidos, incluyen nombres de edificios, bancos, senderos para caminar y otra información útil.
 
-<b>BASADA EN OPENSTREETMAP:</b> OpenStreetMap es un mapa mundial tipo wiki creado y mantenido por millones de voluntarios — habitantes locales que conocen mejor sus zonas. Este esfuerzo comunitario produce mapas altamente detallados, a menudo más precisos que los comerciales en regiones poco mapeadas. Organic Maps actualiza sus datos de OpenStreetMap cada dos semanas, manteniendo tus mapas frescos y confiables. 
+<b>BASADA EN OPENSTREETMAP:</b> OpenStreetMap es un mapa mundial tipo wiki creado y mantenido por millones de voluntarios — habitantes locales que conocen mejor sus zonas. Este esfuerzo comunitario produce mapas altamente detallados, a menudo más precisos que los comerciales en regiones poco mapeadas. MexaMaps actualiza sus datos de OpenStreetMap cada dos semanas, manteniendo tus mapas frescos y confiables. 
 
 <b>PRIVACIDAD PRIMERO:</b> No recopilamos ningún dato ni identificadores. Esto significa cero riesgo de filtraciones y ninguna distracción como anuncios o notificaciones molestas — solo una experiencia de mapas limpia y privada.
 
@@ -26,10 +26,10 @@ Organic Maps es una aplicación rápida y detallada de mapas offline y navegaci�
 
 <b>ARTÍCULOS DE WIKIPEDIA:</b> Accede a artículos de Wikipedia sobre los lugares que ves en el mapa. Escribe “?wiki” en la búsqueda para encontrar todos los lugares con artículos.
 
-<b>EDITOR DE MAPAS:</b> Contribuye a OpenStreetMap añadiendo lugares que faltan o editando el mapa directamente desde Organic Maps.
+<b>EDITOR DE MAPAS:</b> Contribuye a OpenStreetMap añadiendo lugares que faltan o editando el mapa directamente desde MexaMaps.
 
 Prueba la app — es 100% gratuita, sin anuncios, rápida y totalmente offline. Disfruta de una navegación GPS confiable para senderismo, ciclismo, trekking y viajes en cualquier lugar del mundo. Vive una experiencia de mapas rápida, privada y confiable, ¡y compártela con otros!
 
-Organic Maps es un proyecto independiente, comunitario y de código abierto con cientos de colaboradores que ayudan a desarrollar nuevas funciones, corregir problemas, traducir y hacer avanzar el proyecto.
+MexaMaps es un proyecto independiente, comunitario y de código abierto con cientos de colaboradores que ayudan a desarrollar nuevas funciones, corregir problemas, traducir y hacer avanzar el proyecto.
 
-Únete a la comunidad en Telegram: @OrganicMapsApp
+Únete a la comunidad en Telegram: @MexaMapsApp

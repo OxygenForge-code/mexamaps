@@ -733,7 +733,7 @@ std::string Ranker::ResolveAddress(RankerResult const & res) const
 
   if (LocalityItem const * pLoc = m_localities.GetBestLocality(res.GetCenter()); pLoc)
   {
-    /// @todo https://github.com/organicmaps/organicmaps/issues/2613
+    /// @todo https://github.com/mexamaps/mexamaps/issues/2613
     std::string_view cityDefName;
     if (countryID.starts_with("China_") && pLoc->GetName(StringUtf8Multilang::kDefaultCode, cityDefName) &&
         (cityDefName.contains("Macau") || cityDefName.contains("Hong Kong")))
@@ -813,11 +813,11 @@ void Ranker::UpdateResults(bool lastUpdate)
 
   if (m_params.m_viewportSearch)
   {
-    // https://github.com/organicmaps/organicmaps/issues/5566
-    /// @todo https://github.com/organicmaps/organicmaps/issues/5251 Should review later
-    // https://github.com/organicmaps/organicmaps/issues/4325
-    // https://github.com/organicmaps/organicmaps/issues/4190
-    // https://github.com/organicmaps/organicmaps/issues/3677
+    // https://github.com/mexamaps/mexamaps/issues/5566
+    /// @todo https://github.com/mexamaps/mexamaps/issues/5251 Should review later
+    // https://github.com/mexamaps/mexamaps/issues/4325
+    // https://github.com/mexamaps/mexamaps/issues/4190
+    // https://github.com/mexamaps/mexamaps/issues/3677
 
     auto & resV = m_tentativeResults;
     auto it = std::max_element(resV.begin(), resV.end(), base::LessBy(&RankerResult::GetLinearModelRank));

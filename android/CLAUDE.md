@@ -15,19 +15,19 @@
 - Dependency versions: `gradle/libs.versions.toml`
 
 ## JNI bridge pattern
-Java native methods in `Framework.java` / `OrganicMaps.java` map to C++ in `sdk/src/main/cpp/`:
+Java native methods in `Framework.java` / `MexaMaps.java` map to C++ in `sdk/src/main/cpp/`:
 ```java
-// Java side (sdk/src/main/java/app/organicmaps/sdk/Framework.java):
+// Java side (sdk/src/main/java/app/mexamaps/sdk/Framework.java):
 public static native int nativeGetDrawScale();
 ```
 ```cpp
 // C++ side (sdk/src/main/cpp/...):
-JNIEXPORT jint Java_app_organicmaps_sdk_Framework_nativeGetDrawScale(JNIEnv * env, jclass)
+JNIEXPORT jint Java_app_mexamaps_sdk_Framework_nativeGetDrawScale(JNIEnv * env, jclass)
 {
   return static_cast<jint>(GetFramework().GetDrawScale());
 }
 // String conversion: jni::ToNativeString(env, jstring), jni::ToJavaString(env, char const *)
-// JNI helpers: sdk/src/main/cpp/app/organicmaps/sdk/core/jni_helper.hpp
+// JNI helpers: sdk/src/main/cpp/app/mexamaps/sdk/core/jni_helper.hpp
 ```
 
 ## Activity lifecycle
@@ -41,7 +41,7 @@ JNIEXPORT jint Java_app_organicmaps_sdk_Framework_nativeGetDrawScale(JNIEnv * en
 - `SplashActivity` -- startup/initialization entry point
 - `MwmActivity` -- main map activity (hosts fragments for search, routing, editor, etc.)
 - `Framework.java` -- 200+ native methods bridging to C++ Framework
-- `OrganicMaps.java` -- SDK initialization and platform setup
+- `MexaMaps.java` -- SDK initialization and platform setup
 - `Map.java` -- surface rendering, touch events, widget management
 
 ## Android Auto / Automotive

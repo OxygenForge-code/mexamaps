@@ -1225,8 +1225,8 @@ void TestNoTurns(ContT const & cont)
 }
 }  // namespace
 
-// https://github.com/organicmaps/organicmaps/issues/3502
-// https://github.com/organicmaps/organicmaps/issues/3033
+// https://github.com/mexamaps/mexamaps/issues/3502
+// https://github.com/mexamaps/mexamaps/issues/3033
 /// @{
 UNIT_TEST(Germany_KeepAutobahn)
 {
@@ -1280,7 +1280,7 @@ UNIT_TEST(Israel_KeepMotorway)
 }
 /// @}
 
-// https://github.com/organicmaps/organicmaps/issues/5468
+// https://github.com/mexamaps/mexamaps/issues/5468
 UNIT_TEST(UK_Junction_Circular)
 {
   using namespace integration;
@@ -1306,13 +1306,13 @@ UNIT_TEST(Integrated_TurnTest_IncludeServiceRoads)
     int expectedTurns;
   };
   Sample arr[] = {
-      // https://github.com/organicmaps/organicmaps/issues/8892
+      // https://github.com/mexamaps/mexamaps/issues/8892
       {{50.128011, 14.7100098}, {50.1283017, 14.7119639}, 3},
       // service + parking_aisle is skipped as turn.
       {{50.1283462, 14.7122953}, {50.1280032, 14.7099638}, 2},
-      // https://github.com/organicmaps/organicmaps/issues/5888
+      // https://github.com/mexamaps/mexamaps/issues/5888
       {{58.8428062, 5.71619759}, {58.8422583, 5.71672851}, 3},
-      // https://github.com/organicmaps/organicmaps/issues/3596
+      // https://github.com/mexamaps/mexamaps/issues/3596
       {{38.7114203, 0.0365096768}, {38.7103102, 0.0349380496}, 2},
   };
 
@@ -1334,9 +1334,9 @@ UNIT_TEST(Integrated_TurnTest_IncludeServiceRoads)
   }
 }
 
-// https://github.com/organicmaps/organicmaps/issues/4995
-// https://github.com/organicmaps/organicmaps/issues/5550
-// https://github.com/organicmaps/organicmaps/issues/12157
+// https://github.com/mexamaps/mexamaps/issues/4995
+// https://github.com/mexamaps/mexamaps/issues/5550
+// https://github.com/mexamaps/mexamaps/issues/12157
 UNIT_TEST(Segregated_MergeLeftRightTurns)
 {
   using namespace integration;

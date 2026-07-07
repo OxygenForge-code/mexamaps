@@ -62,7 +62,7 @@ QtLocationService::QtLocationService(location::LocationObserver & observer, std:
   : LocationService(observer)
 {
   QVariantMap params;
-  params["desktopId"] = "app.organicmaps.desktop";
+  params["desktopId"] = "app.mexamaps.desktop";
   m_positionSource = QGeoPositionInfoSource::createSource(QString::fromStdString(sourceName), params, this);
 
   if (!m_positionSource)

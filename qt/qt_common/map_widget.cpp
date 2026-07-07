@@ -299,7 +299,7 @@ void MapWidget::Build()
   m_vbo->allocate(static_cast<void *>(vertices), sizeof(vertices));
   QOpenGLFunctions * f = QOpenGLContext::currentContext()->functions();
   // 0-index of the buffer is linked to "a_position" attribute in vertex shader.
-  // Introduced in https://github.com/organicmaps/organicmaps/pull/9814
+  // Introduced in https://github.com/mexamaps/mexamaps/pull/9814
   f->glEnableVertexAttribArray(0);
   f->glVertexAttribPointer(0, 4, GL_FLOAT, GL_FALSE, sizeof(QVector4D), nullptr);
 

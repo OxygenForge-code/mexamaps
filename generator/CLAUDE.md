@@ -1,6 +1,6 @@
 # Generator Agent Instructions
 
-The generator converts OpenStreetMap (OSM) data into `.mwm` binary map files used by Organic Maps.
+The generator converts OpenStreetMap (OSM) data into `.mwm` binary map files used by MexaMaps.
 
 ## Build
 ```bash

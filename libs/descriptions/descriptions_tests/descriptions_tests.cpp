@@ -219,67 +219,67 @@ UNIT_TEST(Descriptions_Html)
          "</div>"}}},
       {101,
        {{1,
-         "<p lang=\"en\"><strong>omaps.app</strong> would not be possible without the generous contributions of "
+         "<p lang=\"en\"><strong>mexamaps.app</strong> would not be possible without the generous contributions of "
          "the following projects:</p>\n"},
         {2,
-         "<p lang=\"ru\">Приложение <strong>omaps.app</strong> было бы невозможно без участия следующих"
+         "<p lang=\"ru\">Приложение <strong>mexamaps.app</strong> было бы невозможно без участия следующих"
          " проектов:</p>\n"},
         {3,
-         "<p lang=\"vi\"><strong>omaps.app</strong> sẽ không thành hiện thực nếu không có sự đóng góp hào phóng"
+         "<p lang=\"vi\"><strong>mexamaps.app</strong> sẽ không thành hiện thực nếu không có sự đóng góp hào phóng"
          " từ các dự án sau:</p>\n"},
         {4,
-         "<p lang=\"tr\"><strong>omaps.app</strong>, aşağıdaki projelerin cömert katkıları olmadan mümkün "
+         "<p lang=\"tr\"><strong>mexamaps.app</strong>, aşağıdaki projelerin cömert katkıları olmadan mümkün "
          "olmazdı:</p>\n"},
         {5,
-         "<p lang=\"th\"><strong>omaps.app</strong> จะสำเร็จลุล่วงไม่ได้เลยหากปราศจากความเอื้อเฟื้อเพื่อการร่วมมือของโป"
+         "<p lang=\"th\"><strong>mexamaps.app</strong> จะสำเร็จลุล่วงไม่ได้เลยหากปราศจากความเอื้อเฟื้อเพื่อการร่วมมือของโป"
          "รเจกต์ดังต่อไปนี้:</p>\n"},
         {6,
-         "<p lang=\"sv\"><strong>omaps.app</strong> skulle inte vara möjlig utan följande projekts generösa"
+         "<p lang=\"sv\"><strong>mexamaps.app</strong> skulle inte vara möjlig utan följande projekts generösa"
          " bidrag:</p>\n"},
         {7,
-         "<p lang=\"es\"><strong>omaps.app</strong> no sería posible sin las generosas aportaciones de los"
+         "<p lang=\"es\"><strong>mexamaps.app</strong> no sería posible sin las generosas aportaciones de los"
          " siguientes proyectos:</p>\n"},
         {8,
-         "<p lang=\"pt\">O <strong>omaps.app</strong> não seria possível sem as contribuições generosas dos "
+         "<p lang=\"pt\">O <strong>mexamaps.app</strong> não seria possível sem as contribuições generosas dos "
          "seguintes projetos:</p>\n"},
         {9,
-         "<p lang=\"pl\">Aplikacja <strong>omaps.app</strong> nie powstałaby bez znaczącego wkładu ze strony "
+         "<p lang=\"pl\">Aplikacja <strong>mexamaps.app</strong> nie powstałaby bez znaczącego wkładu ze strony "
          "twórców poniższych projektów:</p>\n"},
         {10,
-         "<p lang=\"nb\"><strong>omaps.app</strong> ville ikke vært mulig uten de generøse bidragene fra "
+         "<p lang=\"nb\"><strong>mexamaps.app</strong> ville ikke vært mulig uten de generøse bidragene fra "
          "følgende prosjekter:</p>\n"},
-        {11, "<p lang=\"ko\"><strong>omaps.app</strong>는 다음 프로젝트의 아낌없는 기부없이 가능하지 않습니다:</p>\n"},
-        {12, "<p lang=\"ja\"><strong>omaps.app</strong>は次のプロジェクトの手厚い貢献なしには不可能です：</p>\n"},
+        {11, "<p lang=\"ko\"><strong>mexamaps.app</strong>는 다음 프로젝트의 아낌없는 기부없이 가능하지 않습니다:</p>\n"},
+        {12, "<p lang=\"ja\"><strong>mexamaps.app</strong>は次のプロジェクトの手厚い貢献なしには不可能です：</p>\n"},
         {13,
-         "<p lang=\"it\"><strong>omaps.app</strong> non sarebbe realizzabile senza il generoso contributo "
+         "<p lang=\"it\"><strong>mexamaps.app</strong> non sarebbe realizzabile senza il generoso contributo "
          "dei seguenti progetti:</p>\n"},
         {14,
-         "<p lang=\"id\"><strong>omaps.app</strong> tidak mungkin tercipta tanpa kontribusi yang tulus dari "
+         "<p lang=\"id\"><strong>mexamaps.app</strong> tidak mungkin tercipta tanpa kontribusi yang tulus dari "
          "proyek-proyek berikut ini:</p>\n"},
         {15,
-         "<p lang=\"hu\">A <strong>omaps.app</strong> nem jöhetett volna létre az alábbi projektek nagylelkű "
+         "<p lang=\"hu\">A <strong>mexamaps.app</strong> nem jöhetett volna létre az alábbi projektek nagylelkű "
          "közreműködése nélkül:</p>\n"},
         {16,
-         "<p lang=\"de\"><strong>omaps.app</strong> wäre ohne die großzügigen Spenden der folgenden Projekte "
+         "<p lang=\"de\"><strong>mexamaps.app</strong> wäre ohne die großzügigen Spenden der folgenden Projekte "
          "nicht möglich:</p>\n"},
         {17,
-         "<p lang=\"fr\">L'existence de <strong>omaps.app</strong> serait impossible sans les généreuses "
+         "<p lang=\"fr\">L'existence de <strong>mexamaps.app</strong> serait impossible sans les généreuses "
          "contributions des projets suivants :</p>\n"},
         {18,
-         "<p lang=\"fi\"><strong>omaps.app</strong> ei olisi mahdollinen ilman seuraavien projektien aulista "
+         "<p lang=\"fi\"><strong>mexamaps.app</strong> ei olisi mahdollinen ilman seuraavien projektien aulista "
          "tukea:</p>\n"},
         {19,
-         "<p lang=\"nl\"><strong>omaps.app</strong> zou niet mogelijk zijn zonder de genereuze bijdragen voor "
+         "<p lang=\"nl\"><strong>mexamaps.app</strong> zou niet mogelijk zijn zonder de genereuze bijdragen voor "
          "de volgende projecten:</p>\n"},
         {20,
-         "<p lang=\"cs\"><strong>omaps.app</strong> by nemohlo existovat bez štědrých přispění následujících "
+         "<p lang=\"cs\"><strong>mexamaps.app</strong> by nemohlo existovat bez štědrých přispění následujících "
          "projektů:</p>\n"},
-        {21, "<p lang=\"zh-Hans\">沒有下面項目的慷慨貢獻，<strong>omaps.app</strong> 不可能出現：</p>\n"},
-        {22, "<p lang=\"zh-Hant\">沒有下面項目的慷慨貢獻，<strong>omaps.app</strong> 不可能出現：</p>\n"},
+        {21, "<p lang=\"zh-Hans\">沒有下面項目的慷慨貢獻，<strong>mexamaps.app</strong> 不可能出現：</p>\n"},
+        {22, "<p lang=\"zh-Hant\">沒有下面項目的慷慨貢獻，<strong>mexamaps.app</strong> 不可能出現：</p>\n"},
         {23,
          "<p lang=\"ar\">    ما كان لـ <strong>maps.me"
          "</strong> أن تأتي للوجود بدون المساهمات العظيمة للمشاريع التالية:</p>"},
-        {24, "<p lang=\"uk\"><strong>omaps.app</strong> був би неможливим без щедрої участі таких проектів:</p>"}}},
+        {24, "<p lang=\"uk\"><strong>mexamaps.app</strong> був би неможливим без щедрої участі таких проектів:</p>"}}},
   };
 
   {

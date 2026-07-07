@@ -1,6 +1,6 @@
-# Agent Instructions for Organic Maps
+# Agent Instructions for MexaMaps
 
-Organic Maps (OM) is an open-source, privacy-focused offline maps & GPS app built on OpenStreetMap data.
+MexaMaps (OM) is an open-source, privacy-focused offline maps & GPS app built on OpenStreetMap data.
 OM works on iOS, Android, and desktop (Windows, macOS, Linux using Qt 6).
 The codebase is mostly C++23 with platform-specific code in Swift 5, Objective-C/C++, Java 17 and tools in bash and Python 3.10+
 
@@ -20,7 +20,7 @@ Key namespaces: `m2::` (2D geometry, e.g. `m2::PointD`, `m2::RectD`), `ms::LatLo
 
 The C++ core is accessed from platforms via bridging layers:
 - iOS: `iphone/CoreApi/` framework (Objective-C++ wrappers) -> Swift via `Bridging-Header.h`
-- Android: JNI in `android/sdk/src/main/cpp/` -> Java `Framework.java` / `OrganicMaps.java`
+- Android: JNI in `android/sdk/src/main/cpp/` -> Java `Framework.java` / `MexaMaps.java`
 - See [docs/STRUCTURE.md](docs/STRUCTURE.md) for directory layout
 
 ## Code Style
@@ -185,7 +185,7 @@ Enter in the search bar to activate (see [docs/DEBUG_COMMANDS.md](docs/DEBUG_COM
 
 ## Code ownership
 See `.github/CODEOWNERS` for team assignments. Key teams:
-`@organicmaps/android`, `@organicmaps/ios`, `@organicmaps/qt`, `@organicmaps/rendering`, `@organicmaps/data`, `@organicmaps/styles`
+`@mexamaps/android`, `@mexamaps/ios`, `@mexamaps/qt`, `@mexamaps/rendering`, `@mexamaps/data`, `@mexamaps/styles`
 
 ## When translating content from English
 These rules apply to all translation files: `data/strings/`, `data/categories*.txt`, Android `strings.xml`, iOS/Android store metadata.
@@ -198,7 +198,7 @@ These rules apply to all translation files: `data/strings/`, `data/categories*.t
 - "map": "мапа" (Ukrainian, Belarusian)
 - use "..." instead of "..."
 - use ё instead е in Russian where applicable
-- do not translate "Organic Maps" and "ID Editor"
+- do not translate "MexaMaps" and "ID Editor"
 - do not replace amounts like 5K with zeroes (5.000), either leave it (if it is a normal language practice) or use "5 thousands" equivalent (like 5 тыс. in Russian)
 - prefer OpenStreetMap over OSM in user-facing notes (except short Android release-notes.txt with max 500 characters limit)
 - prefer contour lines over elevation isolines.

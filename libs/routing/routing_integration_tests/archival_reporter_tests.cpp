@@ -23,7 +23,7 @@
 #include <string>
 #include <thread>
 
-/// @obsolete https://github.com/organicmaps/organicmaps/commit/04bc294c851bdfe3189d04391f7c3a7d6e601835
+/// @obsolete https://github.com/mexamaps/mexamaps/commit/04bc294c851bdfe3189d04391f7c3a7d6e601835
 
 /*
 namespace

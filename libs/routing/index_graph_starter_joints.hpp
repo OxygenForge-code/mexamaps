@@ -588,7 +588,7 @@ typename IndexGraphStarterJoints<Graph>::EdgeListT IndexGraphStarterJoints<Graph
         !IsRealSegment(segment) && m_graph.ConvertToReal(segment) && isEndOfSegment(beforeConvert, segment, fromStart);
 
     // Get first real feature id and assign it below into future fake joint, that will pass over this feature.
-    // Its important for IndexGraph::IsRestricted. See https://github.com/organicmaps/organicmaps/issues/1565.
+    // Its important for IndexGraph::IsRestricted. See https://github.com/mexamaps/mexamaps/issues/1565.
     if (isRealPart && firstFeatureId == kInvalidFeatureId)
       firstFeatureId = segment.GetFeatureId();
 

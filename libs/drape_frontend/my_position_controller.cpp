@@ -23,7 +23,7 @@ namespace
 {
 int const kPositionRoutingOffsetY = 104;
 
-// https://t.me/OrganicMapsRu/88317
+// https://t.me/MexaMapsRu/88317
 double const kMinSpeedThresholdMps = 0.7;  // for the pedestrian mode 2.5 km/h
 /// @todo Should depend on the _previous_ avg speed (say for the last 5 minutes).
 /// Bigger for cars (up to 30 seconds is ok, IMO) and lower for pedestrians.

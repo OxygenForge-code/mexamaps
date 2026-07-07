@@ -149,7 +149,7 @@ class GoogleMapsConverter:
             
             # Check for "null island" coordinates [0, 0]
             # These are a common artifact of Google Maps exports
-            # See https://github.com/organicmaps/organicmaps/pull/8721
+            # See https://github.com/mexamaps/mexamaps/pull/8721
             if coordinates == [0, 0]:
                 parsed_url = urllib.parse.urlparse(google_maps_url)
                 query_params = urllib.parse.parse_qs(parsed_url.query)

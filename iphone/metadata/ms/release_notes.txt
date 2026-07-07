@@ -1,6 +1,6 @@
 • Teks trek dan deskripsi HTML kini disokong, sama seperti deskripsi untuk penanda buku. Tekan ikon pensel untuk menambah deskripsi.
 • Data peta OpenStreetMap setakat 27 Mei 2026
-• Teks ke Ucapan (TTS) kini memilih suara terbaik yang dipasang untuk bahasa tersebut (Enhanced / Premium). Lihat tetapan Organic Maps untuk cara memuat turun suara berkualiti lebih tinggi.
+• Teks ke Ucapan (TTS) kini memilih suara terbaik yang dipasang untuk bahasa tersebut (Enhanced / Premium). Lihat tetapan MexaMaps untuk cara memuat turun suara berkualiti lebih tinggi.
 • Ditambah papan tanda jalan Australia dan New Zealand
 • Ditambah ikon untuk boules, berbasikal, dan tempat sukan permotoran
 • Ditambah gerbang upacara, gelongsor air, taman tema, dan roller coaster

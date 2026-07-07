@@ -37,7 +37,7 @@ HighwayBasedSpeeds const kDefaultSpeeds = {
     // Presence of link roads usually means that connected roads are high traffic.
     // And complex intersections themselves are not nice for cyclists. We can't
     // easily extrapolate this to the main roads, but at least penalize the link roads a bit.
-    // https://github.com/organicmaps/organicmaps/pull/9692#discussion_r1851442568
+    // https://github.com/mexamaps/mexamaps/pull/9692#discussion_r1851442568
     {HighwayType::HighwayTrunkLink, InOutCitySpeedKMpH(SpeedKMpH(6.0, 17.0), SpeedKMpH(8.0, 19.0))},
     {HighwayType::HighwayPrimary, InOutCitySpeedKMpH(SpeedKMpH(10.0, 17.0), SpeedKMpH(12.0, 19.0))},
     {HighwayType::HighwayPrimaryLink, InOutCitySpeedKMpH(SpeedKMpH(8.0, 17.0), SpeedKMpH(11.0, 19.0))},

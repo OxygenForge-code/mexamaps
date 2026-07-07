@@ -24,7 +24,7 @@ OAuthClientSecret = "xQE7suO-jmzmels19k-m8FQ8gHnkdWuLLVqfW6FIj44"
 OAuthRedirectUri = "om://oauth2/osm/callback"
 OAuthResponseType = "code"
 OAuthScope = "read_prefs write_api write_notes"
-test_login = "OrganicMapsTestUser"
+test_login = "MexaMapsTestUser"
 test_password = "12345678"
 
 def FetchSessionId():

@@ -79,7 +79,7 @@ std::string NotificationManager::GenerateTurnText(uint32_t distanceUnits, uint8_
   if (turn.m_turn == CarDirection::None)
     notif.m_turnDirPedestrian = turn.m_pedestrianTurn;
 
-  // https://github.com/organicmaps/organicmaps/issues/6146
+  // https://github.com/mexamaps/mexamaps/issues/6146
   if (turn.m_turn != CarDirection::EnterRoundAbout)
     notif.m_nextStreetInfo = nextStreetInfo;
 

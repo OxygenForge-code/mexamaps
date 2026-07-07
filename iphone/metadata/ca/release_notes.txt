@@ -1,6 +1,6 @@
 • Ara s'admeten descripcions en text i HTML per a les traces, igual que les descripcions per als marcadors. Premeu la icona del llapis per afegir-hi una descripció.
 • Dades d'OpenStreetMap a data del 27 de maig de 2026
-• El text a veu (TTS) ara tria la millor veu instal·lada per a la llengua (Enhanced / Premium). Consulteu la configuració d'Organic Maps per saber com descarregar una veu de més qualitat.
+• El text a veu (TTS) ara tria la millor veu instal·lada per a la llengua (Enhanced / Premium). Consulteu la configuració d'MexaMaps per saber com descarregar una veu de més qualitat.
 • S'han afegit rètols de carretera d'Austràlia i Nova Zelanda
 • S'han afegit icones per a llocs de petanca, ciclisme i esports de motor
 • S'han afegit portes cerimonials, tobogans aquàtics, parcs temàtics i muntanyes russes

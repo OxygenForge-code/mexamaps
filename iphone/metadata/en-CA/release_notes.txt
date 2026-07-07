@@ -1,6 +1,6 @@
 • Track text and HTML descriptions are now supported, the same way as descriptions for bookmarks. Press the pencil icon to add a description.
 • OpenStreetMap data as of May 27, 2026
-• Text-to-Speech (TTS) now picks the best installed voice for the language (Enhanced / Premium). See Organic Maps settings for how to download a higher-quality voice.
+• Text-to-Speech (TTS) now picks the best installed voice for the language (Enhanced / Premium). See MexaMaps settings for how to download a higher-quality voice.
 • Added Australia and New Zealand road shields
 • Added icons for boules, cycling, and motorsport places
 • Added ceremonial gates, water slides, theme parks, and roller coasters

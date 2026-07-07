@@ -552,7 +552,7 @@ UNIT_TEST(GlyphManager_GlyphReadinessTracking)
 {
   auto mng = MakeGlyphManager();
 
-  // Latin + emoji crosses fonts (DejaVu Sans + organic_maps_emoji): the keys we pick below come
+  // Latin + emoji crosses fonts (DejaVu Sans + mexamaps_emoji): the keys we pick below come
   // from different m_fontIndex values, so the test exercises per-Font isolation in addition to
   // the bitset's set/test logic.
   auto const shaped = mng.ShapeText("a🚻", "en");

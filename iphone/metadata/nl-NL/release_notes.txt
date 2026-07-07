@@ -1,6 +1,6 @@
 • Tekst- en HTML-beschrijvingen van tracks worden nu ondersteund, net als beschrijvingen voor bladwijzers. Druk op het potloodpictogram om een beschrijving toe te voegen.
 • OpenStreetMap-kaartgegevens per 27 mei 2026
-• Tekst-naar-spraak (TTS) kiest nu de beste geïnstalleerde stem voor de taal (Enhanced / Premium). Zie de instellingen van Organic Maps voor informatie over het downloaden van een stem van hogere kwaliteit.
+• Tekst-naar-spraak (TTS) kiest nu de beste geïnstalleerde stem voor de taal (Enhanced / Premium). Zie de instellingen van MexaMaps voor informatie over het downloaden van een stem van hogere kwaliteit.
 • Wegborden voor Australië en Nieuw-Zeeland toegevoegd
 • Pictogrammen toegevoegd voor jeu-de-boules-, fiets- en motorsportlocaties
 • Ceremoniële poorten, waterglijbanen, pretparken en achtbanen toegevoegd

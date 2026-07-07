@@ -5,12 +5,12 @@ import os
 import glob
 
 SVG_DIR = "."
-OUTPUT = "../fonts/organic_maps_emoji.ttf"
+OUTPUT = "../fonts/mexamaps_emoji.ttf"
 
 font = fontforge.font()
-font.fontname = "OrganicMapsEmoji"
-font.familyname = "OrganicMapsEmoji"
-font.fullname = "OrganicMapsEmoji"
+font.fontname = "MexaMapsEmoji"
+font.familyname = "MexaMapsEmoji"
+font.fullname = "MexaMapsEmoji"
 font.em = 1024
 
 for svg_file in glob.glob(os.path.join(SVG_DIR, "*.svg")):

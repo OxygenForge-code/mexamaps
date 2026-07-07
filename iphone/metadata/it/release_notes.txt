@@ -1,6 +1,6 @@
 • Sono ora supportate le descrizioni testuali e HTML dei tracciati, allo stesso modo delle descrizioni per i segnalibri. Premere l'icona a forma di matita per aggiungere una descrizione.
 • Dati cartografici OpenStreetMap aggiornati al 27 maggio 2026
-• La sintesi vocale (TTS) ora seleziona la voce installata migliore per la lingua (Enhanced / Premium). Consulta le impostazioni di Organic Maps per sapere come scaricare una voce di qualità superiore.
+• La sintesi vocale (TTS) ora seleziona la voce installata migliore per la lingua (Enhanced / Premium). Consulta le impostazioni di MexaMaps per sapere come scaricare una voce di qualità superiore.
 • Aggiunti i cartelli stradali per Australia e Nuova Zelanda
 • Aggiunte icone per luoghi dedicati alle bocce, al ciclismo e agli sport motoristici
 • Aggiunti portali cerimoniali, scivoli acquatici, parchi a tema e montagne russe

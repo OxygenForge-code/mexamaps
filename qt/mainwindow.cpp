@@ -646,7 +646,7 @@ void MainWindow::OnUploadEditsMenuItem()
   {
     auto & editor = osm::Editor::Instance();
     if (editor.HaveMapEditsOrNotesToUpload())
-      editor.UploadChanges(token, {{"created_by", "Organic Maps " OMIM_OS_NAME}});
+      editor.UploadChanges(token, {{"created_by", "MexaMaps " OMIM_OS_NAME}});
   }
 }
 

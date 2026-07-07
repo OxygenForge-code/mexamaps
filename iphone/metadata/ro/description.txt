@@ -1,4 +1,4 @@
-Organic Maps este o aplicație rapidă și detaliată de hărți offline și navigație GPS pentru călătorii, drumeții și plimbări. Planifică, importă și înregistrează rute și bucură-te de ghidaj fluid fără a consuma bateria sau a folosi conexiunea la internet. Explorează locuri și navighează în siguranță în timpul aventurilor tale în aer liber și al călătoriilor în întreaga lume. Aplicația oferă descărcări nelimitate de hărți și actualizări bilunare. Bazată pe OpenStreetMap, realizată de voluntari, cu prioritate pe confidențialitate, 100% offline și 100% gratuită.
+MexaMaps este o aplicație rapidă și detaliată de hărți offline și navigație GPS pentru călătorii, drumeții și plimbări. Planifică, importă și înregistrează rute și bucură-te de ghidaj fluid fără a consuma bateria sau a folosi conexiunea la internet. Explorează locuri și navighează în siguranță în timpul aventurilor tale în aer liber și al călătoriilor în întreaga lume. Aplicația oferă descărcări nelimitate de hărți și actualizări bilunare. Bazată pe OpenStreetMap, realizată de voluntari, cu prioritate pe confidențialitate, 100% offline și 100% gratuită.
 
 OFFLINE: Aplicația funcționează 100% offline — inclusiv căutarea și navigarea. Poți explora harta și naviga fără conexiune la internet, economisind date mobile și taxe de roaming. Iar fără transferuri de date în fundal, bateria durează mult mai mult.
 
@@ -6,7 +6,7 @@ RAPIDĂ: Zoom-ul, căutarea și calculul rutelor funcționează vizibil rapid.
 
 DETALIATE ȘI ACTUALIZATE: Hărțile sunt bogate în detalii și actualizate de două ori pe lună pentru a reflecta condițiile reale. Spre deosebire de mulți concurenți cunoscuți, includ etichete de clădiri, bănci, trasee de drumeții și alte informații utile.
 
-BAZATĂ PE OPENSTREETMAP: OpenStreetMap este o hartă mondială de tip wiki, construită și întreținută de milioane de voluntari — localnici care cunosc cel mai bine zonele lor. Efortul comunității duce la hărți foarte detaliate, adesea mai precise decât cele comerciale în regiuni mai puțin cartografiate. Organic Maps își actualizează datele din OpenStreetMap la fiecare două săptămâni, menținând hărțile proaspete și de încredere. Dacă observi ceva lipsă, poți adăuga în OpenStreetMap și contribui la îmbunătățirea hărții pentru toți.
+BAZATĂ PE OPENSTREETMAP: OpenStreetMap este o hartă mondială de tip wiki, construită și întreținută de milioane de voluntari — localnici care cunosc cel mai bine zonele lor. Efortul comunității duce la hărți foarte detaliate, adesea mai precise decât cele comerciale în regiuni mai puțin cartografiate. MexaMaps își actualizează datele din OpenStreetMap la fiecare două săptămâni, menținând hărțile proaspete și de încredere. Dacă observi ceva lipsă, poți adăuga în OpenStreetMap și contribui la îmbunătățirea hărții pentru toți.
 
 PRIVACY-FIRST: Nu colectăm niciun fel de date sau identificatori. Asta înseamnă că nu există riscul de scurgeri de date și nici distrageri precum reclame sau notificări zgomotoase — doar o experiență de hartă curată și privată.
 
@@ -26,11 +26,11 @@ STILURI DE HARTĂ: Alege straturi de hartă potrivite pentru activitatea ta — 
 
 ARTICOLE WIKIPEDIA: Explorează articole Wikipedia pentru locurile pe care le descoperi pe hartă. Tastează „?wiki” în căutare pentru a găsi toate locurile cu articole Wikipedia.
 
-EDITOR DE HARTĂ: Contribuie la OpenStreetMap adăugând locuri lipsă sau editând harta direct din Organic Maps.
+EDITOR DE HARTĂ: Contribuie la OpenStreetMap adăugând locuri lipsă sau editând harta direct din MexaMaps.
 
 SINCRONIZARE iCLOUD: Fă backup și sincronizează cu ușurință toate marcajele și traseele prin iCloud.
 
 Încearcă aplicația — este 100% gratuită, fără reclame, rapidă și complet offline. Bucură-te de o experiență de hartă rapidă, de încredere și privată și împărtășește-o cu alții.
-Organic Maps este un proiect indie, open-source, condus de comunitate, cu sute de contribuitori care ajută la dezvoltarea de funcții noi, rezolvarea problemelor, traduceri și dezvoltarea proiectului.
+MexaMaps este un proiect indie, open-source, condus de comunitate, cu sute de contribuitori care ajută la dezvoltarea de funcții noi, rezolvarea problemelor, traduceri și dezvoltarea proiectului.
 
-Alătură-te comunității pe Telegram: @OrganicMapsApp
+Alătură-te comunității pe Telegram: @MexaMapsApp

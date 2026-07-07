@@ -150,7 +150,7 @@ std::vector<std::vector<FeaturePlace const *>> FindClusters(std::vector<FeatureP
       return false;
 
     /// @todo Small hack here. Need to check enclosing/parent region.
-    /// @see https://github.com/organicmaps/organicmaps/issues/2035 for more details.
+    /// @see https://github.com/mexamaps/mexamaps/issues/2035 for more details.
     // Do not merge places with different ranks (population). See https://www.openstreetmap.org/#map=15/33.0145/-92.7249
     // Junction City in Arkansas and Louisiana.
     if (lFP.GetRank() > 0 && rFP.GetRank() > 0 && lFP.GetRank() != rFP.GetRank())

@@ -195,7 +195,7 @@ double EdgeEstimator::ComputeDefaultLeapWeightSpeed() const
   // By VNG: Current m_maxWeightSpeedMpS is > 120 km/h, so estimating speed was > 60km/h
   // for start/end fake edges by straight line! I strongly believe that this is very! optimistic.
   // Set speed to 57.5km/h (16m/s):
-  // - lower bound Russia_MoscowDesnogorsk (https://github.com/organicmaps/organicmaps/issues/1071)
+  // - lower bound Russia_MoscowDesnogorsk (https://github.com/mexamaps/mexamaps/issues/1071)
   // - upper bound RussiaSmolenskRussiaMoscowTimeTest
   return 16.0;
 }

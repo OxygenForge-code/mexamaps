@@ -52,7 +52,7 @@
         android:layout_marginStart="@dimen/margin_base"
         android:layout_marginTop="@dimen/margin_base"
         android:layout_marginEnd="@dimen/margin_base"
-        android:text="@string/support_organic_maps"
+        android:text="@string/support_mexamaps"
         android:textAppearance="?android:attr/textAppearanceMedium"
         app:layout_constraintEnd_toStartOf="@id/products_close"
         app:layout_constraintStart_toStartOf="parent"

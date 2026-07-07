@@ -62,7 +62,7 @@ kml::FileData GenerateKmlFileData()
   result.m_categoryData.m_annotation[kEnLang] = "Test annotation";
   result.m_categoryData.m_imageUrl = "https://localhost/123.png";
   result.m_categoryData.m_visible = true;
-  result.m_categoryData.m_authorName = "Organic Maps";
+  result.m_categoryData.m_authorName = "MexaMaps";
   result.m_categoryData.m_authorId = "12345";
   result.m_categoryData.m_rating = 8.9;
   result.m_categoryData.m_reviewsNumber = 567;
@@ -125,7 +125,7 @@ kml::FileData GenerateKmlFileData()
   compilationData1.m_annotation[kEnLang] = "Test collection annotation";
   compilationData1.m_imageUrl = "https://localhost/1234.png";
   compilationData1.m_visible = true;
-  compilationData1.m_authorName = "Organic Maps";
+  compilationData1.m_authorName = "MexaMaps";
   compilationData1.m_authorId = "54321";
   compilationData1.m_rating = 5.9;
   compilationData1.m_reviewsNumber = 333;
@@ -148,7 +148,7 @@ kml::FileData GenerateKmlFileData()
   compilationData2.m_annotation[kEnLang] = "Test category annotation";
   compilationData2.m_imageUrl = "https://localhost/134.png";
   compilationData2.m_visible = false;
-  compilationData2.m_authorName = "Organic Maps";
+  compilationData2.m_authorName = "MexaMaps";
   compilationData2.m_authorId = "11111";
   compilationData2.m_rating = 3.3;
   compilationData2.m_reviewsNumber = 222;
@@ -801,7 +801,7 @@ UNIT_TEST(Kml_Placemark_contains_both_Bookmark_and_Track_data)
   TEST(!fData.m_tracksData[1].m_geometry.HasTimestamps(), ());
 }
 
-// See https://github.com/organicmaps/organicmaps/issues/5800
+// See https://github.com/mexamaps/mexamaps/issues/5800
 UNIT_TEST(Fix_Invisible_Color_Bug_In_Gpx_Tracks)
 {
   std::string_view constexpr input = R"(<?xml version="1.0" encoding="UTF-8"?>
@@ -898,7 +898,7 @@ UNIT_TEST(Kml_Track_With_Non_Monotonic_Timestamps)
   TEST(!geom.HasTimestamps(), ("Non-monotonic timestamps should be dropped"));
 }
 
-// https://github.com/organicmaps/organicmaps/issues/9290
+// https://github.com/mexamaps/mexamaps/issues/9290
 UNIT_TEST(Kml_Import_OpenTracks)
 {
   std::string_view constexpr input = R"(<?xml version="1.0" encoding="UTF-8"?>

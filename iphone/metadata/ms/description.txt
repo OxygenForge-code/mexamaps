@@ -1,4 +1,4 @@
-Organic Maps ialah aplikasi peta luar talian dan navigasi GPS yang pantas dan terperinci untuk perjalanan, mendaki, dan berbasikal. Rancang, import, dan rakam laluan, serta nikmati panduan lancar tanpa menghabiskan bateri atau menggunakan sambungan internet. Terokai tempat dan navigasi dengan selamat semasa pengembaraan luar dan perjalanan anda di seluruh dunia. Aplikasi ini menawarkan muat turun peta tanpa had dan kemas kini dua minggu sekali. Berasaskan OpenStreetMap, dibuat oleh sukarelawan, mengutamakan privasi, 100% luar talian, dan 100% percuma.
+MexaMaps ialah aplikasi peta luar talian dan navigasi GPS yang pantas dan terperinci untuk perjalanan, mendaki, dan berbasikal. Rancang, import, dan rakam laluan, serta nikmati panduan lancar tanpa menghabiskan bateri atau menggunakan sambungan internet. Terokai tempat dan navigasi dengan selamat semasa pengembaraan luar dan perjalanan anda di seluruh dunia. Aplikasi ini menawarkan muat turun peta tanpa had dan kemas kini dua minggu sekali. Berasaskan OpenStreetMap, dibuat oleh sukarelawan, mengutamakan privasi, 100% luar talian, dan 100% percuma.
 
 LUAR TALIAN: Aplikasi ini berfungsi 100% luar talian — termasuk carian dan navigasi. Anda boleh meneroka peta dan menavigasi tanpa sambungan internet, menjimatkan data mudah alih dan kos roaming. Tanpa pemindahan data latar belakang, bateri anda tahan lebih lama.
 
@@ -6,7 +6,7 @@ PANTAS: Zum, carian, dan pengiraan laluan berfungsi dengan sangat pantas.
 
 TERPERINCI & TERKINI: Peta kaya dengan perincian dan dikemas kini dua kali sebulan untuk mencerminkan keadaan sebenar. Berbeza dengan banyak pesaing terkenal, ia termasuk label bangunan, bangku, laluan mendaki, dan maklumat berguna lain.
 
-BERASASKAN OPENSTREETMAP: OpenStreetMap ialah peta dunia gaya wiki yang dibina dan diselenggara oleh jutaan sukarelawan — penduduk tempatan yang paling mengetahui kawasan mereka. Usaha komuniti ini menghasilkan peta yang sangat terperinci, sering lebih tepat daripada peta komersial di kawasan kurang dipetakan. Organic Maps mengemas kini datanya dari OpenStreetMap setiap dua minggu, memastikan peta anda sentiasa segar dan boleh dipercayai. Jika anda perasan ada sesuatu yang hilang, anda boleh menambahnya ke OpenStreetMap dan membantu meningkatkan peta untuk semua.
+BERASASKAN OPENSTREETMAP: OpenStreetMap ialah peta dunia gaya wiki yang dibina dan diselenggara oleh jutaan sukarelawan — penduduk tempatan yang paling mengetahui kawasan mereka. Usaha komuniti ini menghasilkan peta yang sangat terperinci, sering lebih tepat daripada peta komersial di kawasan kurang dipetakan. MexaMaps mengemas kini datanya dari OpenStreetMap setiap dua minggu, memastikan peta anda sentiasa segar dan boleh dipercayai. Jika anda perasan ada sesuatu yang hilang, anda boleh menambahnya ke OpenStreetMap dan membantu meningkatkan peta untuk semua.
 
 UTAMAKAN PRIVASI: Kami tidak mengumpul sebarang data atau pengecam. Ini bermaksud tiada risiko kebocoran data dan tiada gangguan seperti iklan atau pemberitahuan bising — hanya pengalaman peta yang bersih dan peribadi.
 
@@ -26,11 +26,11 @@ PEPERINGKAT LALUAN: Rakam, import, eksport, dan kongsi laluan dan tempat kegemar
 
 ARTIKEL WIKIPEDIA: Terokai artikel Wikipedia untuk tempat yang anda temui di peta. Taip “?wiki” dalam carian untuk mencari semua tempat dengan artikel Wikipedia.
 
-EDITOR PETA: Sumbang kepada OpenStreetMap dengan menambah tempat yang hilang atau mengedit peta terus dari Organic Maps.
+EDITOR PETA: Sumbang kepada OpenStreetMap dengan menambah tempat yang hilang atau mengedit peta terus dari MexaMaps.
 
 SYNC iCLOUD: Mudah membuat sandaran dan menyegerakkan semua penanda halaman dan laluan melalui iCloud.
 
 Cuba aplikasi ini — ia 100% percuma, tanpa iklan, pantas, dan sepenuhnya luar talian. Nikmati pengalaman peta yang pantas, boleh dipercayai, dan peribadi, dan kongsi dengan orang lain.
-Organic Maps ialah projek indie sumber terbuka yang dikendalikan komuniti dengan ratusan penyumbang yang membantu membangunkan ciri baru, membaiki isu, menterjemah, dan memajukan projek.
+MexaMaps ialah projek indie sumber terbuka yang dikendalikan komuniti dengan ratusan penyumbang yang membantu membangunkan ciri baru, membaiki isu, menterjemah, dan memajukan projek.
 
-Sertai komuniti di Telegram: @OrganicMapsApp
+Sertai komuniti di Telegram: @MexaMapsApp

@@ -50,7 +50,7 @@ def proofread_with_gemini(
     # Prepare translations as JSON for the prompt
     translations_json = json.dumps(translations, ensure_ascii=False, indent=2)
 
-    prompt = f"""You are a professional translator reviewer for a mobile maps app (Organic Maps).
+    prompt = f"""You are a professional translator reviewer for a mobile maps app (MexaMaps).
 Context: {comment}
 English text: {english_text}
 

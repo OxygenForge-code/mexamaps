@@ -8142,7 +8142,7 @@
             "key": "US_Alaska",
             "value": {
                 "profileName": "normal",
-                "tileSource": "https://github.com/organicmaps/organicmaps/issues/6271",
+                "tileSource": "https://github.com/mexamaps/mexamaps/issues/6271",
                 "tileCoordsSubset": [
                     {
                         "bottomLat": 57,

@@ -35,7 +35,7 @@
     <string name="country_status_download_failed">فشلت عملية تنزيل</string>
     <!-- Button text for the button under the country_status_download_failed message -->
     <string name="try_again">محاولة مرة أخرى</string>
-    <string name="about_menu_title">حول Organic Maps</string>
+    <string name="about_menu_title">حول MexaMaps</string>
     <!-- Text in About screen -->
     <string name="about_headline">مجاني للجميع ، مصنوع من الحب</string>
     <!-- Text in About screen -->
@@ -52,7 +52,7 @@
     <string name="unsupported_phone">يتطلب التطبيق OpenGL مع تسريع الأجهزة. لسوء الحظ، جهازك غير مدعوم.</string>
     <string name="download">تنزيل</string>
     <!-- Used in DownloadResources startup screen -->
-    <string name="disconnect_usb_cable">الرجاء فصل كابل الناقل التسلسلي الشامل أو إدخال بطاقة الذاكرة من أجل استخدام Organic Maps</string>
+    <string name="disconnect_usb_cable">الرجاء فصل كابل الناقل التسلسلي الشامل أو إدخال بطاقة الذاكرة من أجل استخدام MexaMaps</string>
     <!-- Used in DownloadResources startup screen -->
     <string name="not_enough_free_space_on_sdcard">الرجاء إخلاء بعض المساحة أولاً في بطاقة SD/تخزين USB لاستخدام التطبيق.</string>
     <string name="download_resources">قبل البدء في استخدام التطبيق، يرجى تنزيل خريطة نظرة عامة على العالم على جهازك.\nسيستخدم %s من مساحة التخزين.</string>
@@ -151,8 +151,8 @@
     <!-- Notes field in Bookmarks view -->
     <string name="description">ملاحظات</string>
     <!-- Email Subject when sharing bookmark list -->
-    <string name="share_bookmarks_email_subject">تم مشاركة إشارات Organic Maps المرجعية معك</string>
-    <string name="share_bookmarks_email_body">مرحباً! ْ\n\n تم إرفاق إشاراتي المرجعية من تطبيق Organic Maps. الرجاء فتحهم إذا لديك تطبيق Organic Maps مثبتاً. أو، إذا لم يكن مثبتاً، قم بتنزيل التطبيق لنظام iOS أو أندرويد من خلال الضغط على هذا الرابط: https://omaps.app/get?kmz \n\nاستمتع بالسفر مع Organic Maps!</string>
+    <string name="share_bookmarks_email_subject">تم مشاركة إشارات MexaMaps المرجعية معك</string>
+    <string name="share_bookmarks_email_body">مرحباً! ْ\n\n تم إرفاق إشاراتي المرجعية من تطبيق MexaMaps. الرجاء فتحهم إذا لديك تطبيق MexaMaps مثبتاً. أو، إذا لم يكن مثبتاً، قم بتنزيل التطبيق لنظام iOS أو أندرويد من خلال الضغط على هذا الرابط: https://mexamaps.app/get?kmz \n\nاستمتع بالسفر مع MexaMaps!</string>
     <!-- message title of loading file -->
     <string name="load_kmz_title">يتم تحميل الإشارات المرجعية</string>
     <!-- Kmz file successful loading -->
@@ -161,7 +161,7 @@
     <string name="load_kmz_failed">فشلت عملية تحميل الإشارات المرجعية. قد يكون الملف تالف أو غير صالح.</string>
     <!-- Failed to recognize the format of a bookmarks or tracks file. -->
     <string name="unknown_file_type">لم يتعرف التطبيق على نوع الملف:\n%1$s</string>
-    <!-- Failed to open a bookmarks or tracks file in Organic Maps. -->
+    <!-- Failed to open a bookmarks or tracks file in MexaMaps. -->
     <string name="failed_to_open_file">فشل فتح ملف %1$s\n\n%2$s</string>
     <!-- resource for context menu -->
     <string name="edit">تعديل</string>
@@ -171,13 +171,13 @@
     <string name="cant_change_this_setting">نأسف، اعدادات تخزين الخرائط معطلة حالياً.</string>
     <!-- Alert message that downloading is in progress. -->
     <string name="downloading_is_active">جاري الآن تنزيل الخريطة.</string>
-    <!-- Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. -->
-    <string name="my_position_share_sms">مرحباً، تفقد الموقع الخاص بي على Organic Maps! %1$s أو %2$s. ليس لديك أي خرائط تعمل بدون الاتصال مع الانترنت مثبتة على جهازك؟ قم بتحميلها من هنا: https://omaps.app/get</string>
+    <!-- Share my position using SMS, %1$@ contains om:// and %2$@ https://mexamaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. -->
+    <string name="my_position_share_sms">مرحباً، تفقد الموقع الخاص بي على MexaMaps! %1$s أو %2$s. ليس لديك أي خرائط تعمل بدون الاتصال مع الانترنت مثبتة على جهازك؟ قم بتحميلها من هنا: https://mexamaps.app/get</string>
     <!-- Subject for emailed bookmark -->
-    <string name="bookmark_share_email_subject">مرحباً، تفقد الدبوس الخاص بي على خريطة Organic Maps!</string>
+    <string name="bookmark_share_email_subject">مرحباً، تفقد الدبوس الخاص بي على خريطة MexaMaps!</string>
     <!-- Subject for emailed position -->
-    <string name="my_position_share_email_subject">مرحباً، تحقق من موقعي الحالي على خريطة Organic Maps!</string>
-    <!-- Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME -->
+    <string name="my_position_share_email_subject">مرحباً، تحقق من موقعي الحالي على خريطة MexaMaps!</string>
+    <!-- Share my position using EMail, %1$@ is om:// and %2$@ is https://mexamaps.app link WITHOUT NAME -->
     <string name="my_position_share_email">ًمرحبا،\n\nأنا هنا الآن: %1$s. انقر على هذا الرابط %2$s أو ذلك الرابط %3$s لمشاهدة المكان على الخريطة.\n\nشكراً.</string>
     <!-- Share button text which opens menu with more buttons, like Message, EMail, Facebook etc. -->
     <string name="share">مشاركة</string>
@@ -252,7 +252,7 @@
     <string name="menu">القائمة</string>
     <!-- Text in menu -->
     <string name="website">الموقع الإلكتروني</string>
-    <!-- Text in About menu, opens Organic Maps news website -->
+    <!-- Text in About menu, opens MexaMaps news website -->
     <string name="news">أخبار</string>
     <!-- Settings: Send feedback button and dialog title -->
     <string name="feedback">إرسال التعليقات</string>
@@ -266,7 +266,7 @@
     <string name="donate">تبرع</string>
     <string name="already_donated">تم التبرع</string>
     <string name="remind_me_later">ذكر لاحقاً</string>
-    <string name="support_organic_maps">ادعموا Organic Maps</string>
+    <string name="support_mexamaps">ادعموا MexaMaps</string>
     <!-- Button in the main Help dialog -->
     <string name="how_to_support_us">دعم المشروع</string>
     <!-- Button in the main Help dialog -->
@@ -485,7 +485,7 @@
     <!-- Text in About and OSM Login screens. First %@ is replaced by a local, human readable date. -->
     <string name="osm_presentation">بيانات OpenStreetMap التي أنشأها المجتمع اعتبارًا من %s. تعرف على المزيد حول كيفية تعديل الخريطة وتحديثها على OpenStreetMap.org</string>
     <!-- OSM explanation on Android login screen -->
-    <string name="login_osm_presentation">OpenStreetMap.org (OSM) هو مشروع مجتمعي يهدف إلى إنشاء خريطة مجانية ومفتوحة. وهو المصدر الرئيسي لبيانات الخرائط في Organic Maps ويعمل بشكل مشابه لـويكيبيديا. يمكنك إضافة أو تعديل الأماكن لتصبح متاحة لملايين المستخدمين في جميع أنحاء العالم.\nانضم إلى المجتمع وساعد في إنشاء خريطة أفضل للجميع!</string>
+    <string name="login_osm_presentation">OpenStreetMap.org (OSM) هو مشروع مجتمعي يهدف إلى إنشاء خريطة مجانية ومفتوحة. وهو المصدر الرئيسي لبيانات الخرائط في MexaMaps ويعمل بشكل مشابه لـويكيبيديا. يمكنك إضافة أو تعديل الأماكن لتصبح متاحة لملايين المستخدمين في جميع أنحاء العالم.\nانضم إلى المجتمع وساعد في إنشاء خريطة أفضل للجميع!</string>
     <string name="login_to_make_edits_visible">أنشئ حساباً على OpenStreetMap أو سجّل الدخول لنشر تعديلاتك على الخريطة للعالم.</string>
     <!-- Downloaded 10 **of** 20 <- it is that "of" -->
     <string name="downloader_of">%1$d من%2$d</string>
@@ -500,7 +500,7 @@
     <!-- Title for OSM note section in the editor -->
     <string name="editor_other_info">ملاحظة لمتطوعي OpenStreetMap (اختياري)</string>
     <!-- Hint of the input field in the OSM note section of the editor -->
-    <string name="editor_note_hint">يرجى وصف الأخطاء الموجودة على الخريطة أو العناصر التي لا يمكن تعديلها عبر البريد الإلكتروني Organic Maps</string>
+    <string name="editor_note_hint">يرجى وصف الأخطاء الموجودة على الخريطة أو العناصر التي لا يمكن تعديلها عبر البريد الإلكتروني MexaMaps</string>
     <!-- Information about OSM at the top of the editing page -->
     <string name="editor_about_osm">يتم تحميل تعديلاتك على قاعدة البيانات العامة <a href="https://wiki.openstreetmap.org/wiki/Ar:About_OpenStreetMap">OpenStreetMap</a>. يرجى عدم إضافة معلومات شخصية أو محمية بحقوق الطبع والنشر.</string>
     <string name="editor_more_about_osm">المزيد عن خريطة الشارع المفتوحة</string>
@@ -510,7 +510,7 @@
     <!-- To indicate the operator of ATMs, bicycle rentals, electric vehicle charging stations… -->
     <string name="operator">المشغل: %s</string>
     <string name="editor_category_unsuitable_title">لا يمكن العثور على فئة مناسبة؟</string>
-    <string name="editor_category_unsuitable_text">Organic Maps تسمح بإضافة فئات النقاط البسيطة فقط، وهذا يعني عدم إضافة المدن والطرق والبحيرات وخطوط المباني، إلخ. يرجى إضافة هذه الفئات مباشرة إلى <a href="https://www.openstreetmap.org">OpenStreetMap.org</a>. راجع <a href="https://organicmaps.app/faq/editing/advanced-map-editing">دليلنا</a> للحصول على إرشادات تفصيلية خطوة بخطوة.</string>
+    <string name="editor_category_unsuitable_text">MexaMaps تسمح بإضافة فئات النقاط البسيطة فقط، وهذا يعني عدم إضافة المدن والطرق والبحيرات وخطوط المباني، إلخ. يرجى إضافة هذه الفئات مباشرة إلى <a href="https://www.openstreetmap.org">OpenStreetMap.org</a>. راجع <a href="https://mexamaps.app/faq/editing/advanced-map-editing">دليلنا</a> للحصول على إرشادات تفصيلية خطوة بخطوة.</string>
     <string name="downloader_no_downloaded_maps_title">لم تقم بتنزيل أية خرائط</string>
     <string name="downloader_no_downloaded_maps_message">قم بتنزيل خرائط للبحث عن مكان واستخدام الملاحة بدون اتصال بالإنترنت.</string>
     <string name="current_location_unknown_error_title">الموقع الحالي غير معروف.</string>
@@ -568,7 +568,7 @@
     <string name="mobile_data_option_ask">السؤال دوماً</string>
     <string name="traffic_update_maps_text">لعرض البيانات المرورية، يجب تحديث الخرائط.</string>
     <string name="big_font">زيادة حجم الخط على الخريطة</string>
-    <string name="traffic_update_app">الرجاء تحديث Organic Maps</string>
+    <string name="traffic_update_app">الرجاء تحديث MexaMaps</string>
     <!-- "traffic" as in "road congestion" -->
     <string name="traffic_data_unavailable">البيانات المرورية غير متاحة</string>
     <string name="enable_logging">تفعيل التسجيل</string>
@@ -590,9 +590,9 @@
     <string name="drag_to_reorder">إعادة الترتيب</string>
     <string name="saved">حُفظت</string>
     <!-- Alert to ask user relogin to OpenStreetMap with OAuth2 flow after OAuth1 authentication is deprecated. -->
-    <string name="alert_reauth_message">برجاء تسجيل الدخول إلى OpenStreetMap لتحميل جميع تعديلات الخريطة تلقائيًا. تعرف على المزيد <a href="https://github.com/organicmaps/organicmaps/issues/6144">هنا</a>.</string>
+    <string name="alert_reauth_message">برجاء تسجيل الدخول إلى OpenStreetMap لتحميل جميع تعديلات الخريطة تلقائيًا. تعرف على المزيد <a href="https://github.com/mexamaps/mexamaps/issues/6144">هنا</a>.</string>
     <string name="dialog_error_storage_title">مشكلة الوصول للتخزين</string>
-    <string name="dialog_error_storage_message">التخزين الخارجي غير متوفر، ربما تمت إزالة بطاقة SD، أو أنها تالفة أو نظام الملفات للقراءة فقط. افحصه أو راسلنا على support\@organicmaps.app</string>
+    <string name="dialog_error_storage_message">التخزين الخارجي غير متوفر، ربما تمت إزالة بطاقة SD، أو أنها تالفة أو نظام الملفات للقراءة فقط. افحصه أو راسلنا على support\@mexamaps.app</string>
     <string name="setting_emulate_bad_storage">محاكاة التخزين السيء</string>
     <string name="error_enter_correct_name">الرجاء إدخال اسم صحيح</string>
     <string name="bookmark_lists">قوائم</string>
@@ -685,7 +685,7 @@
     <string name="bookmarks_text_placement_description">إذا كان هناك عدد كبير جدًا من الإشارات المرجعية، فقد يؤدي عرض أسمائها على الخريطة إلى إبطاء التطبيق.</string>
     <string name="show_to_the_right">عرض إلى اليمين</string>
     <string name="show_at_the_bottom">اعرض في الأسفل</string>
-    <string name="enable_logging_warning_message">هذا الخيار يقوم ببدأ تسجيل سجلات التطبيق لإغراض التشخيصة. يمكن أن يكون مفيدًا لفريق الدعم الخاص بنا لحل المشاكل التي تواجهكم داخل التطبيق. قم بتفعيل هذا الخيار بشكل مؤقت فقط في حالة طلب الدعم من Organic Maps.</string>
+    <string name="enable_logging_warning_message">هذا الخيار يقوم ببدأ تسجيل سجلات التطبيق لإغراض التشخيصة. يمكن أن يكون مفيدًا لفريق الدعم الخاص بنا لحل المشاكل التي تواجهكم داخل التطبيق. قم بتفعيل هذا الخيار بشكل مؤقت فقط في حالة طلب الدعم من MexaMaps.</string>
     <string name="driving_options_title">خيارات رسم المسار</string>
     <!-- Recommended length for CarPlay and Android Auto is around 25-27 characters -->
     <string name="avoid_tolls">تجنب الطرق ذات الرسوم</string>
@@ -801,13 +801,13 @@
     <!-- OpenStreetMap text on splash screen -->
     <string name="splash_subtitle">بيانات الخريطة من خريطة الشارع المفتوحة</string>
     <!-- Telegram group url for the "?" About page -->
-    <string name="telegram_url">https://t.me/OrganicMapsApp</string>
+    <string name="telegram_url">https://t.me/MexaMapsApp</string>
     <!-- Instagram account url for the "?" About page -->
-    <string name="instagram_url">https://www.instagram.com/organicmaps.app</string>
+    <string name="instagram_url">https://www.instagram.com/mexamaps.app</string>
     <!-- A link to the TTS FAQ -->
-    <string name="tts_info_link">https://organicmaps.app/ar/faq/voice/text-to-speech-android-tts/</string>
-    <!-- Include only languages supported on the website, add new translations here: https://github.com/organicmaps/website/tree/master/content -->
-    <string name="translated_om_site_url">https://organicmaps.app/ar/</string>
+    <string name="tts_info_link">https://mexamaps.app/ar/faq/voice/text-to-speech-android-tts/</string>
+    <!-- Include only languages supported on the website, add new translations here: https://github.com/mexamaps/website/tree/master/content -->
+    <string name="translated_om_site_url">https://mexamaps.app/ar/</string>
     <!-- Link to OSM wiki for Editor, Profile and About pages -->
     <string name="osm_wiki_about_url">https://wiki.openstreetmap.org/wiki/Ar:About_OpenStreetMap</string>
     <!-- A number of bookmarks and a number of tracks, separated by comma, like: 1 bookmark, 5 tracks -->
@@ -833,9 +833,9 @@
     <!-- App tip #09 -->
     <string name="app_tip_09">هدفنا الرئيسي هو إنشاء خرائط سريعة وسهلة الاستخدام تركز على الخصوصية والتي ستعجبك.</string>
     <!-- Text on the Android Auto or CarPlay placeholder screen that maps are displayed on the phone screen -->
-    <string name="car_used_on_the_phone_screen">أنت تستخدم الآن Organic Maps على شاشة الهاتف</string>
+    <string name="car_used_on_the_phone_screen">أنت تستخدم الآن MexaMaps على شاشة الهاتف</string>
     <!-- Text on the phone placeholder screen that maps are displayed on the car screen -->
-    <string name="car_used_on_the_car_screen">أنت تستخدم الآن Organic Maps على شاشة السيارة</string>
+    <string name="car_used_on_the_car_screen">أنت تستخدم الآن MexaMaps على شاشة السيارة</string>
     <!-- Displayed on the phone screen. Android Auto connected -->
     <string name="aa_connected_title">أنت متصل بـ Android Auto</string>
     <!-- Displayed on the phone screen. Button to display maps on the phone screen instead of a car -->
@@ -843,7 +843,7 @@
     <!-- Displayed on the Android Auto or CarPlay screen. Button to display maps on the car screen instead of a phone. Must be no more than 18 symbols! -->
     <string name="car_continue_in_the_car">إلى شاشة السيارة</string>
     <!-- Ask user to grant location permissions -->
-    <string name="aa_location_permissions_request">Organic Maps تحتاج إلى الوصول إلى الموقع. عندما يكون الوضع آمنًا، تحقق من الإشعار على هاتفك.</string>
+    <string name="aa_location_permissions_request">MexaMaps تحتاج إلى الوصول إلى الموقع. عندما يكون الوضع آمنًا، تحقق من الإشعار على هاتفك.</string>
     <!-- Notification title for permission request from AA. -->
     <string name="aa_request_permission_notification">هذا التطبيق يحتاج إلى إذنك</string>
     <!-- Grant Permissions button. -->

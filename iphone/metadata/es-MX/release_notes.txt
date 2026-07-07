@@ -1,6 +1,6 @@
 • Ahora se admiten descripciones de texto y HTML para los tracks, de la misma manera que las descripciones de los marcadores. Presione el ícono del lápiz para agregar una descripción.
 • Datos cartográficos de OpenStreetMap a fecha del 27 de mayo de 2026
-• La función de texto a voz (TTS) ahora selecciona la mejor voz instalada para el idioma (Mejorada / Premium). Consulte la configuración de Organic Maps para saber cómo descargar una voz de mayor calidad.
+• La función de texto a voz (TTS) ahora selecciona la mejor voz instalada para el idioma (Mejorada / Premium). Consulte la configuración de MexaMaps para saber cómo descargar una voz de mayor calidad.
 • Se han añadido letreros de carreteras de Australia y Nueva Zelanda
 • Se han añadido íconos para lugares de petanca, ciclismo y deportes de motor
 • Se han añadido puertas ceremoniales, toboganes acuáticos, parques temáticos y montañas rusas

@@ -102,7 +102,7 @@ bool RouteWeight::operator<(RouteWeight const & rhs) const
   */
 
   // The reason behind that is described here:
-  // https://github.com/organicmaps/organicmaps/issues/1788
+  // https://github.com/mexamaps/mexamaps/issues/1788
   // Before that change, a very small weight but with m_numPassThroughChanges > 0 was *always worse* than
   // a very big weight but with m_numPassThroughChanges == 0.
   auto const w1 = GetIntegratedWeight();

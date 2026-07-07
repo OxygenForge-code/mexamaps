@@ -39,7 +39,7 @@ UNIT_TEST(Italy_AvoidSteps)
 {
   // 690m detour instead of taking a 120m shortcut via steps.
   // Same as Valhalla. But GraphHopper prefers steps.
-  // https://github.com/organicmaps/organicmaps/issues/2253
+  // https://github.com/mexamaps/mexamaps/issues/2253
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle), mercator::FromLatLon(42.4631, 14.21342),
                                    {0., 0.}, mercator::FromLatLon(42.46343, 14.2125), 687.788);
 }
@@ -82,7 +82,7 @@ UNIT_TEST(NetherlandsAmsterdamBicycleYes)
   // Test that a highway=unclassified gets a significant boost due to presence of bicycle=yes tag.
   /// @todo(pastk): it shouldn't as there is no cycling infra (cycleway:both=no
   /// https://www.openstreetmap.org/way/214196820) and bicycle=yes means "its legal", not "its fast", see
-  /// https://github.com/organicmaps/organicmaps/issues/9593
+  /// https://github.com/mexamaps/mexamaps/issues/9593
   TRouteResult const routeResult =
       CalculateRoute(GetVehicleComponents(VehicleType::Bicycle), mercator::FromLatLon(52.32872, 5.07527), {0.0, 0.0},
                      mercator::FromLatLon(52.33853, 5.08941));
@@ -109,10 +109,10 @@ UNIT_TEST(RussiaMoscowKashirskoe16ToCapLongRoute)
 UNIT_TEST(Germany_UseServiceCountrysideRoads)
 {
   /// @todo(pastk): long service countryside roads is a mismapping probably.
-  /// https://github.com/organicmaps/organicmaps/pull/9692#discussion_r1850558462
+  /// https://github.com/mexamaps/mexamaps/pull/9692#discussion_r1850558462
   // Goes by smaller roads, including service ones. Also avoids extra 60m uphill
   // of the secondary road route. Most similar to Valhalla, but 2km shorter.
-  // https://github.com/organicmaps/organicmaps/issues/6027
+  // https://github.com/mexamaps/mexamaps/issues/6027
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle), mercator::FromLatLon(49.1423, 10.068),
                                    {0., 0.}, mercator::FromLatLon(49.3023, 10.5738), 47769.2);
 }
@@ -145,7 +145,7 @@ UNIT_TEST(Spain_Barcelona_UsePedestrianAndLivingStreet)
 UNIT_TEST(Poland_UseLivingStreet)
 {
   // Don't make a long detour via an uphill residential to avoid a living street.
-  // https://github.com/organicmaps/organicmaps/pull/9692#discussion_r1851446320
+  // https://github.com/mexamaps/mexamaps/pull/9692#discussion_r1851446320
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
                                    mercator::FromLatLon(50.006085, 19.962158), {0.0, 0.0},
                                    mercator::FromLatLon(50.006664, 19.957639), 335.978 /* expectedRouteMeters */);
@@ -192,7 +192,7 @@ UNIT_TEST(Lithuania_Avoid_Ferry_Long_Route)
   // https://www.openstreetmap.org/directions?engine=graphhopper_bicycle&route=55.340%2C21.459%3B55.715%2C21.135
   // OM uses a much shorter (56km vs 64km) route with bicycle=yes tracks and a short path section.
   /// @todo(pastk): the route goes through a landuse=military briefly and OM doesn't account for that.
-  /// And too much preference is given to bicycle=yes track, see https://github.com/organicmaps/organicmaps/issues/9593
+  /// And too much preference is given to bicycle=yes track, see https://github.com/mexamaps/mexamaps/issues/9593
   integration::CalculateRouteAndTestRouteLength(integration::GetVehicleComponents(VehicleType::Bicycle),
                                                 mercator::FromLatLon(55.3405073, 21.4595925), {0., 0.},
                                                 mercator::FromLatLon(55.7140174, 21.1365445), 56243.2);
@@ -250,7 +250,7 @@ UNIT_TEST(London_GreenwichTunnel)
 {
   // Use the bicycle=dismount foot tunnel https://www.openstreetmap.org/way/4358990
   // as a detour is way too long.
-  // https://github.com/organicmaps/organicmaps/issues/8028
+  // https://github.com/mexamaps/mexamaps/issues/8028
 
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
                                    mercator::FromLatLon(51.4817397, -0.0100070258), {0.0, 0.0},
@@ -277,7 +277,7 @@ UNIT_TEST(Gdansk_AvoidLongCyclewayDetour)
 UNIT_TEST(Netherlands_AvoidLongCyclewayDetour)
 {
   // Same as GraphHopper.
-  // The first sample from https://github.com/organicmaps/organicmaps/issues/1772
+  // The first sample from https://github.com/mexamaps/mexamaps/issues/1772
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
                                    mercator::FromLatLon(52.253405, 6.182288), {0.0, 0.0},
                                    mercator::FromLatLon(52.247599, 6.197973), 1440.8 /* expectedRouteMeters */);
@@ -290,8 +290,8 @@ UNIT_TEST(Poland_AvoidDetourAndExtraCrossings)
   // Same as GraphHopper. Valhalla suggests going by the road (worse for cyclists
   // really preferring to avoid cars whenever possible, may be preferred
   // for more aggressive ones depending on light phase to go through one traffic light only).
-  // https://github.com/organicmaps/organicmaps/issues/7954
-  // https://github.com/organicmaps/organicmaps/pull/9692#discussion_r1849627559
+  // https://github.com/mexamaps/mexamaps/issues/7954
+  // https://github.com/mexamaps/mexamaps/pull/9692#discussion_r1849627559
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle), mercator::FromLatLon(50.08227, 20.03348),
                                    {0.0, 0.0}, mercator::FromLatLon(50.08253, 20.03191),
                                    157.7 /* expectedRouteMeters */);
@@ -300,7 +300,7 @@ UNIT_TEST(Poland_AvoidDetourAndExtraCrossings)
 UNIT_TEST(Germany_DontAvoidNocyclewayResidential)
 {
   // No strange detours to avoid a nocycleway residential. Same as GraphHopper.
-  // https://github.com/organicmaps/organicmaps/issues/4059#issuecomment-1399338757
+  // https://github.com/mexamaps/mexamaps/issues/4059#issuecomment-1399338757
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle), mercator::FromLatLon(51.33772, 12.41432),
                                    {0.0, 0.0}, mercator::FromLatLon(51.33837, 12.40958),
                                    359.495 /* expectedRouteMeters */);
@@ -318,7 +318,7 @@ UNIT_TEST(UK_UseNocyclewayTertiary)
 UNIT_TEST(Germany_UseResidential)
 {
   // No long detour to avoid a short residential.
-  // https://github.com/organicmaps/organicmaps/issues/9330
+  // https://github.com/mexamaps/mexamaps/issues/9330
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
                                    mercator::FromLatLon(48.1464472, 11.5589919), {0.0, 0.0},
                                    mercator::FromLatLon(48.1418297, 11.5602123), 591.427 /* expectedRouteMeters */);
@@ -328,7 +328,7 @@ UNIT_TEST(Belarus_StraightFootway)
 {
   /// @todo OM changes lanes because of altitude?
   // Prefer footways over roads in Belarus due to local laws.
-  // https://github.com/organicmaps/organicmaps/issues/4145
+  // https://github.com/mexamaps/mexamaps/issues/4145
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
                                    mercator::FromLatLon(53.8670285, 30.3162749), {0.0, 0.0},
                                    mercator::FromLatLon(53.876436, 30.3348084), 1613.34 /* expectedRouteMeters */);
@@ -342,7 +342,7 @@ UNIT_TEST(Spain_Madrid_DedicatedCycleway)
                                    mercator::FromLatLon(40.4403523, -3.69267444), 2283.89 /* expectedRouteMeters */);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/7047
+// https://github.com/mexamaps/mexamaps/issues/7047
 UNIT_TEST(Seoul_ElevationDetour)
 {
   // The longer 664m route has less uphill Ascent: 25 Descent: 17
@@ -366,7 +366,7 @@ UNIT_TEST(Germany_Use_Bicycle_Track)
 {
   // Avoid primary and prefer smaller roads and tracks with bicycle=yes.
   /// @todo Still prefers a no-cycling-infra but bicycle=yes secondary rather than a paved track,
-  /// see https://github.com/organicmaps/organicmaps/issues/1201#issuecomment-946042937
+  /// see https://github.com/mexamaps/mexamaps/issues/1201#issuecomment-946042937
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
                                    mercator::FromLatLon(48.420723, 9.90350146), {0.0, 0.0},
                                    mercator::FromLatLon(48.4080367, 9.86597073), 3778.41 /* expectedRouteMeters */);
@@ -375,7 +375,7 @@ UNIT_TEST(Germany_Use_Bicycle_Track)
 UNIT_TEST(Finland_Use_Tertiary_LowTraffic)
 {
   // Detour via a tertiary to avoid a secondary.
-  // https://github.com/orgs/organicmaps/discussions/5158#discussioncomment-5938807
+  // https://github.com/orgs/mexamaps/discussions/5158#discussioncomment-5938807
   /// @todo(pastk): prefer roads with lower maxspeed.
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
                                    mercator::FromLatLon(61.5445696, 23.9394003), {0.0, 0.0},
@@ -423,7 +423,7 @@ UNIT_TEST(Netherlands_IgnoreCycleBarrier_WithoutAccess)
 {
   // There is a barrier=cycle_barrier in the beginning of the route
   // and it doesn't affect routing as there is no explicit bicycle=no.
-  // https://github.com/organicmaps/organicmaps/issues/3920
+  // https://github.com/mexamaps/mexamaps/issues/3920
   /// @todo(pastk): such barrier should have a small penalty in routing
   /// as it slows down a cyclist.
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),
@@ -454,7 +454,7 @@ UNIT_TEST(UK_Canterbury_AvoidDismount)
                                    mercator::FromLatLon(51.2818863, 1.05725286), 976);
 }
 
-// https://github.com/organicmaps/organicmaps/issues/6355
+// https://github.com/mexamaps/mexamaps/issues/6355
 UNIT_TEST(Austria_BidirLivingStreet)
 {
   CalculateRouteAndTestRouteLength(GetVehicleComponents(VehicleType::Bicycle),

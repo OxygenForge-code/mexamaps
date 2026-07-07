@@ -8,7 +8,7 @@ Cyrillic /system/fonts/Roboto-Medium.ttf
 Cyrillic /usr/share/fonts/truetype/roboto/Roboto-Medium.ttf
 Cyrillic fonts/07_roboto_medium.ttf
 Devanagari fonts/00_NotoSerifDevanagari-Regular.ttf
-Emoji fonts/organic_maps_emoji.ttf
+Emoji fonts/mexamaps_emoji.ttf
 Hebrew /system/fonts/NotoSansHebrew-Regular.ttf
 Hebrew fonts/00_NotoSansHebrew-Regular.ttf
 Latin_Extended-A /system/fonts/Roboto-Medium.ttf
@@ -23,4 +23,4 @@ Latin-1_Supplement /usr/share/fonts/truetype/roboto/Roboto-Medium.ttf
 Latin-1_Supplement fonts/07_roboto_medium.ttf
 Malayalam /system/fonts/NotoSansMalayalam-Regular.ttf
 Malayalam fonts/00_NotoSansMalayalam-Regular.ttf
-Miscellaneous_Symbols fonts/organic_maps_emoji.ttf
+Miscellaneous_Symbols fonts/mexamaps_emoji.ttf

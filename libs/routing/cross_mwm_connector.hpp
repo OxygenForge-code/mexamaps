@@ -92,7 +92,7 @@ public:
     if (transition == nullptr)
     {
       /// @todo By VNG: Workaround until cross-mwm transitions generator investigation.
-      /// https://github.com/organicmaps/organicmaps/issues/1736
+      /// https://github.com/mexamaps/mexamaps/issues/1736
       /// Actually, the fix is valid, because transition features can have segment = 1 when leaving MWM
       /// and segment = 2 when entering MWM due to *not precise* packed MWM borders.
       if (isEnter)

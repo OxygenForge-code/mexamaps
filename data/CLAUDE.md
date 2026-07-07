@@ -1,6 +1,6 @@
 # Data Directory Agent Instructions
 
-This directory contains map data, styles, configurations, and translations for Organic Maps.
+This directory contains map data, styles, configurations, and translations for MexaMaps.
 Many files here are **auto-generated** -- do NOT edit them by hand.
 
 ## Auto-generated files (do NOT edit manually)

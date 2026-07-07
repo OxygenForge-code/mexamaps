@@ -53,7 +53,7 @@ std::string FormatITM(double lat, double lon);
  * as with the Irish Grid, geographic validity is the caller's job. */
 std::optional<ms::LatLon> ITMToLatLon(std::string_view itm);
 
-/* True if regionId (an Organic Maps mwm region id) is one where the Irish systems are the official
+/* True if regionId (an MexaMaps mwm region id) is one where the Irish systems are the official
  * reference: Northern Ireland ("UK_Northern Ireland") and the Republic of Ireland, whose mwms are the
  * "Ireland_<province>" leaves (e.g. "Ireland_Leinster"). Shared by both Irish Grid and ITM. */
 bool IsIrishGridRegion(std::string_view regionId);
