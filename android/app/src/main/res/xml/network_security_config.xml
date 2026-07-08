@@ -15,6 +15,5 @@
   </base-config>
   <domain-config cleartextTrafficPermitted="true">
     <domain includeSubdomains="true">mexamaps.app</domain>
-    <domain includeSubdomains="true">mexamaps.app</domain>
   </domain-config>
 </network-security-config>
