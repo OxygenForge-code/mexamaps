@@ -152,7 +152,7 @@ jobs:
           sudo udevadm control --reload-rules
           sudo udevadm trigger --name-match=kvm
 
-      - name: Run tests
+            - name: Run tests
         if: matrix.run-tests == true
         uses: reactivecircus/android-emulator-runner@v2
         with:
@@ -162,10 +162,20 @@ jobs:
           script: |
             cd android && ./gradlew -P${{ matrix.arch }} app:test${{ matrix.flavor }} sdk:testDebug sdk:connectedDebugAndroidTest
 
-      - name: Upload ${{ matrix.flavor }} apk
-        uses: actions/upload-artifact@v7
+      - name: Show generated APKs
+        if: always()
+        shell: bash
+        run: |
+          echo "Searching for generated APKs..."
+          find android -type f -name "*.apk" || true
+
+      - name: Upload ${{ matrix.flavor }} APK
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          name: android-${{ matrix.flavor }}
-          path: android/app/build/outputs/apk/**/OrganicMaps-*.apk
-          if-no-files-found: error
+          name: MexaMaps-${{ matrix.flavor }}
+          path: |
+            android/app/build/outputs/apk/**/*.apk
+            android/app/build/outputs/**/*.apk
+          if-no-files-found: warn
           retention-days: 30
